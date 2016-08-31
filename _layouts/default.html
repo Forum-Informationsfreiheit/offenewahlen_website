@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+  {% seo %}
+
+  <body>
+
+    {% include header.html %}
+
+    <main id="main-content">
+      {% if page.home %}
+        {{ content }}
+      {% else %}
+      <nav class="navbar navbar-okfn" role="navigation">
+        <div class="container">
+          {% if page.headline %}
+          <h1 class="header-headline">{{ page.headline }}</h1>
+          {% endif %}
+        </div>
+      </nav>
+      <div id="main-container" class="container">
+          {{ content }}
+      </div>
+      {% endif %}
+      {% include footer.html %}
+    </main>
+
+    {% include piwik.html %}
+
+  </body>
+
+</html>

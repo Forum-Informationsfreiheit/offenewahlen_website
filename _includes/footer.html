@@ -1,0 +1,43 @@
+<footer class="hidden-print">
+	<div class="footer">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-10 col-xs-12 nav-items">
+					<ul>
+						<li{% if page.menu_kontakt %} class="active"{% endif %}><a class="nav-link" href="{{ site.baseurl }}/kontakt">Kontakt</a></li>
+						<li{% if page.menu_impressum %} class="active"{% endif %}><a class="nav-link" href="{{ site.baseurl }}/impressum">Impressum</a></li>
+						<li><a class="nav-link" href="{{ site.baseurl }}/sitemap.xml"><i class="fa fa-sitemap" aria-hidden="true"></i> Sitemap</a></li>
+						<li><a class="nav-link" href="{{ site.baseurl }}/feed.xml"><i class="fa fa-rss" aria-hidden="true"></i> RSS</a></li>
+					</ul>
+				</div>
+				<div class="col-sm-2 col-xs-12 nav-items nav-items-right">
+					<ul>
+						<li><a class="nav-link" href="https://twitter.com/okfnat" title="OK-AT auf Twitter"><i class="fa fa-twitter"></i></a></li>
+						<li><a class="nav-link" href="https://www.facebook.com/OKFNat" title="OK-AT auf Facebook"><i class="fa fa-facebook"></i></a></li>
+						<li><a class="nav-link" href="https://github.com/okfnat" title="OK-AT auf Github"><i class="fa fa-github"></i></a></li>
+						<li><a class="nav-link" href="https://www.youtube.com/user/OKFAustria" title="OK-AT auf Youtube"><i class="fa fa-youtube"></i></a></li>
+						<li><i class="fa fa-share-alt" aria-hidden="true"></i></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="cellar">
+		<div class="container">
+			<div class="row">
+
+				<div class="col-md-7">
+          <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a>
+					<p><i class="fa fa-creative-commons" aria-hidden="true"></i> Dieses Werk ist lizenziert unter einer <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung 4.0 International Lizenz</a>.</p>
+				</div>
+
+				<div class="col-md-4 col-md-offset-1">
+          <p>{{ site.description }}</p>
+          <p><a href="http://okfn.at" title="Open Knowledge Österreich"><img src="{{ site.staticurl }}logos/logo-ok-at_trans_weiss.png" alt="Open Knowledge Österreich"></a></p>
+				</div>
+
+			</div>
+		</div>
+	</div>
+</footer>

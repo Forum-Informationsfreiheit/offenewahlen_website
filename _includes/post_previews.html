@@ -1,0 +1,9 @@
+<ul class="post-previews post-previews-{{ posts.size }}">
+	{% for post in posts %}
+	<li class="post-preview">
+		<div class="post-preview-content">
+			{% include post_preview_small.html %}
+		</div>
+	</li>
+	{% endfor %}
+</ul>

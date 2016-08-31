@@ -1,0 +1,12 @@
+{% if post.image %}<div class="post-img-wrap"><a href="{{ site.baseurl }}/{{ post.url |replace_first:'/',''}}"><img class="post-img" src="{{ post.image.src }}" alt="{{ post.title | xml_escape }}"></a></div>{% endif %}
+<h4 class="post-title"><a href="{{ site.baseurl }}/{{ post.url |replace_first:'/',''}}">{{post.title | truncatewords: 8 }}</a></h4>
+<p class="post-excerpt">{{ post.excerpt | markdownify | strip_html | truncatewords: 16 }}</p>
+<p class="post-meta">
+	von
+	{% assign authors = "" | split:"|"  %}
+	{% if post.author %}{% assign authors = authors | push: post.author %}{% endif %}
+	{% for a in post.authors %}{% assign authors = authors | push: a %}{% endfor %}
+	{% for author in authors %}{{author}}{% unless forloop.last %} und {% endunless %}{% endfor %}<br/>
+	<br/>
+	am {{ post.date | date:"%d.%m.%Y" }}
+</p>

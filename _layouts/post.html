@@ -1,0 +1,40 @@
+---
+layout: default
+---
+<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
+    <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
+    {% if page.image %}
+    <div class="post-image-full" style="background-image: url({{ page.image.src }});" title="{{ page.image.title }}"></div>
+
+    {% if page.image.license %}
+    <div class="row post-image-license">
+      <div class="col-md-10 col-md-offset-1">{{ page.image.license | markdownify }}</div>
+    </div>
+    {% endif %}
+    {% endif %}
+
+  </header>
+
+  <div class="post-content" itemprop="articleBody">
+    <div class="row">
+  		<div class="col-md-10 col-md-offset-1">
+  			<div class="post-content">{{ content }}</div>
+
+        <div class="share-post">
+      		Teile auf
+      		<a href="https://twitter.com/intent/tweet?text={{ page.title }}&url=http://okfn.at{{ page.url }}&via=okfnat&related=okfnat" rel="nofollow" target="_blank" title="Teile auf Twitter"><i class=""></i></a>
+      		<a href="https://facebook.com/sharer.php?u=http://okfn.at{{ page.url }}" rel="nofollow" target="_blank" title="Teile auf Facebook"><i class="icon-facebook"></i></a>
+      		<a href="https://plus.google.com/share?url=http://okfn.at{{ page.url }}" rel="nofollow" target="_blank" title="Teile auf Google+"><i class="icon-gplus"></i></a>
+      	</div>
+
+        {% if page.comments %}
+        	{% include disqus.html %}
+        {% endif %}
+
+  		</div>
+  	</div>
+  </div>
+</article>

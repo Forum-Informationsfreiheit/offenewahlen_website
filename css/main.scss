@@ -1,0 +1,652 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@charset "utf-8";
+
+// @import '../_sass/fontello.scss';
+// @import '../_sass/leaguespartan.scss';
+// @import '../_sass/latolatinfonts.scss';
+
+
+// Our variables
+$base-font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+$base-font-size:   16px;
+$base-font-weight: 400;
+$small-font-size:  $base-font-size * 0.875;
+$base-line-height: 1.5;
+
+$spacing-unit:     30px;
+
+$text-color:       #111;
+$background-color: #fdfdfd;
+$brand-color:      #2a7ae2;
+
+$okf-background: #f5f4e9;
+
+$primary:          #ef3340;
+$primary-dark:     #6F181E;
+$primary-light:    #F27C84;
+$secondary:        #1B73A2;
+
+$grey-color:       #828282;
+$grey-color-light: lighten($grey-color, 40%);
+$grey-color-dark:  darken($grey-color, 25%);
+
+// Width of the content area
+$content-width:    960px;
+
+$on-palm:          600px;
+$on-laptop:        800px;
+
+
+$dark-text-color: #112233;
+$light-text-color: #535b63;
+$lightest-text-color: #aab5b7;
+$main-text: #4e6361; // main text
+$link: #6cac70; // anchor tags
+
+
+// z-index
+
+$secondary-nav: 1;
+$content-zindex: 2;
+$header-zindex: 3;
+
+// header height
+
+$header-S: 60px;
+$header-logo-S: 55px;
+$header-M: 90px;
+$header-logo-M: 68px;
+
+
+// Use media queries like this:
+// @include media-query($on-palm) {
+//     .wrapper {
+//         padding-right: $spacing-unit / 2;
+//         padding-left: $spacing-unit / 2;
+//     }
+// }
+@mixin media-query($device) {
+    @media screen and (max-width: $device) {
+        @content;
+    }
+}
+
+$S: 480px;
+$M: 768px;
+$L: 1170px;
+
+@mixin MQ-S() {
+  @media only screen and (min-width: $S) {
+    @content;
+  }
+}
+
+@mixin MQ-M() {
+  @media only screen and (min-width: $M) {
+    @content;
+  }
+}
+
+@mixin MQ-L() {
+  @media only screen and (min-width: $L) {
+    @content;
+  }
+}
+
+// general
+
+html * {
+  -webkit-font-smoothing: subpixel-antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  color: $light-text-color;
+  font-family: $base-font-family;
+  font-weight: 300;
+  line-height: 1.4em;
+  font-size: 18px;
+  background-color: $okf-background;
+}
+
+html, body {
+  /* you need to set this to assign to the main element a min height of 100% */
+  height: 100%;
+}
+
+h1, h2, h3, h4 {
+  color: $dark-text-color;
+  //text-transform: uppercase;
+  font-weight: bold;
+  line-height: 1.4em;
+  margin-bottom: 15px;
+  margin-top: 15px;
+  letter-spacing: 2px;
+  font-family: $base-font-family;
+}
+
+#main-content {
+  font-size: 14px;
+  h1 {
+    font-size: 20px;
+    word-wrap: break-word;
+  }
+  h2 {
+    font-size: 16px;
+    word-wrap: break-word;
+  }
+  h3 {
+    font-size: 14px;
+    word-wrap: break-word;
+  }
+
+  @include MQ-S() {
+    font-size: 16px;
+    h1 {
+      font-size: 28px;
+      word-wrap: normal;
+    }
+    h2 {
+      font-size: 22px;
+      word-wrap: normal;
+    }
+    h3 {
+      font-size: 18px;
+    }
+  }
+
+  @include MQ-M() {
+    font-size: 18px;
+    h1 {
+      font-size: 36px;
+    }
+    h2 {
+      font-size: 30px;
+    }
+    h3 {
+      font-size: 20px;
+      word-wrap: normal;
+    }
+  }
+
+  @include MQ-L() {
+    font-size: 18px;
+    h1 {
+      font-size: 36px;
+    }
+    h2 {
+      font-size: 30px;
+    }
+    h3 {
+      font-size: 24px;
+    }
+  }
+}
+
+a {
+  &, &:hover, &:focus {
+    color: #333;
+    font-weight: bold;
+    text-decoration: none;
+  }
+
+  &:hover, &:focus {
+    color: $secondary;
+  }
+
+  &:hover h3 {
+    color: $secondary;
+  }
+}
+
+hr {
+  border-color: $secondary;
+}
+
+//page elements
+
+.nav-items {
+  margin: 0;
+  padding: 0;
+
+  ul {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+
+    > li {
+      display: inline-block;
+      margin-right: 0.5em;
+
+      > a.nav-link, > a.nav-link:hover, > a.nav-link:focus {
+        text-align: right;
+        color: #fff;
+        border-bottom-color: #fff;
+        background-color: transparent;
+      }
+      > a.nav-link {
+        display: inline-block;
+        position: relative;
+        text-decoration: none;
+        text-transform: uppercase;
+        &:before {
+          content: '';
+          position: absolute;
+          width: 100%;
+          height: 0;
+          border-bottom: 3px solid transparent;
+          bottom: 2px;
+          transform: scaleX(0);
+          transition: 0.2s ease-in;
+        }
+      }
+    }
+  }
+
+  ul > li > a.nav-link:hover:before, ul > li.active > a.nav-link:before {
+    transform: scaleX(1);
+    border-bottom: 3px solid #fff;
+  }
+
+  &.nav-items-right {
+    ul {
+      > li {
+        margin-left: 1rem;
+        margin-right: 0;
+        float: right;
+      }
+      > li:last-of-type {
+        margin-left: 0;
+      }
+    }
+  }
+
+}
+
+header {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: $header-S;
+  width: 100%;
+  background: $secondary;
+  z-index: $header-zindex;
+
+  &.fixed {
+    position: fixed;
+  }
+
+  /* Force Hardware Acceleration in WebKit */
+  -webkit-transform: translateZ(0);
+  -webkit-backface-visibility: hidden;
+
+  //assign this class to the header if you want a fixed navigation
+  &.is-fixed {
+    position: fixed;
+  }
+
+  @include MQ-M() {
+    height: 90px;
+  }
+
+  .header-logo {
+    display: inline-block;
+    margin-top: 7px;
+    margin-left: 8px;
+
+    .header-logo-img {
+      display: inline-block;
+      vertical-align: middle;
+      width: $header-logo-S;
+      height: $header-logo-S;
+
+      img {
+        display: inline;
+        height: 100%;
+        width: 100%;
+      }
+
+      @include MQ-M() {
+        height: $header-logo-M;
+        width: 100%;
+      }
+
+    }
+
+    span {
+      color: #fff;
+      display: inline-block;
+      vertical-align: middle;
+      border-bottom-color: #fff;
+    }
+
+    .header-brand-full {
+      display: none;
+      padding-top: 6px;
+      @include MQ-L() {
+        display: inline-block;
+      }
+    }
+    .header-brand-small {
+      padding-top: 6px;
+      @include MQ-L() {
+        display: none;
+      }
+    }
+  }
+
+  .header-nav {
+    position: absolute;
+    top: 0;
+    right: 10px;
+    height: 100%;
+    display:none;
+
+    ul {
+      vertical-align: middle;
+
+      > li {
+        padding-top: 10px;
+        //line-height: 40px;
+        //margin-top: 24px;
+
+        > a {
+          vertical-align: middle;
+          font-weight: 600;
+          padding-top: 10px;
+          padding-bottom: 10px;
+          margin-bottom: 1.5rem;
+          margin-top: 1.5rem;
+        }
+      }
+    }
+
+    @include MQ-M() {
+      display: block;
+    }
+    @include MQ-L() {
+      right: 40px;
+    }
+
+  }
+
+  #sidebar-trigger {
+    position: absolute;
+    right: 0;
+    top: 0;
+    height: 100%;
+    width: 50px;
+    background-color: darken($secondary, 10%);
+
+    .cd-menu-text {
+      height: 100%;
+
+      text-transform: uppercase;
+      color: #FFF;
+      font-weight: 600;
+
+      display: none;
+    }
+
+    .cd-menu-icon {
+      /* this span is the central line in the menu menu */
+      display: inline-block;
+      position: absolute;
+      width: 18px;
+      height: 2px;
+      background-color: #FFF;
+      right: 1.25em;
+
+      /* these are the upper and lower lines in the menu menu */
+      &::before, &:after {
+        content: '';
+        width: 100%;
+        height: 100%;
+        position: absolute;
+        background-color: inherit;
+        left: 0;
+      }
+
+      &::before {
+        bottom: 5px;
+      }
+
+      &::after {
+        top: 5px;
+      }
+    }
+
+    &.is-clicked {
+      .cd-menu-icon {
+        background-color: rgba(#FFF, 0);
+
+        &::before, &::after {
+          background-color: rgba(#FFF, 1);
+        }
+
+        &::before {
+          bottom: 0;
+        }
+
+        &::after {
+          top: 0;
+        }
+      }
+    }
+
+  }
+
+}
+
+#main-content {
+  /* set a min-height and a z-index to be sure that the main element completely covers the lateral menu */
+  min-height: 100%;
+  position: relative;
+  z-index: $content-zindex;
+
+  //we assign a top padding since the header is in position absolute or fixed
+  padding-top: $header-S;
+
+  /* Force Hardware Acceleration in WebKit */
+  -webkit-transform: translateZ(0);
+  -webkit-backface-visibility: hidden;
+
+  @include MQ-M() {
+    padding-top: $header-M;
+
+    dl {
+      dt {
+        float: left;
+        width: 280px;
+        overflow: hidden;
+        clear: left;
+        text-align: right;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+      }
+      dd {
+        margin-left: 300px
+      }
+    }
+  }
+}
+
+.footer {
+  background-color: $secondary;
+  margin: 30px auto 0;
+  padding: 2rem 0;
+  font-size: 0.9em;
+  overflow: hidden;
+  color: #fff;
+
+  .nav-items {
+    margin-top: 3px;
+
+  }
+
+  .row {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+
+}
+
+.cellar {
+  background-color: darken($secondary, 10%);
+  padding: 1em 0;
+  font-size: 0.8em;
+  color: #ccc;
+  p a, a:hover {
+    color: #ccc;
+  }
+  p {
+    padding-top: 18px;
+  }
+
+  .logo-cellar {
+    width: 170px;
+    height: auto;
+  }
+
+}
+
+.highlight-link {
+  display: inline-block;
+  line-height: 2em;
+  border: 2px solid $primary;
+  padding: 0.5em;
+  text-align: center;
+  color: $primary;
+  width: 100%;
+
+  &:hover {
+    text-decoration: none;
+    color: darken($primary, 20%);
+    border-color: darken($primary, 20%);
+  }
+}
+
+.padded-row {
+  padding: 5rem 0 6rem;
+}
+
+.padded-top {
+  padding-top: 15px;
+
+}
+
+.overflow-hidden {
+  overflow: hidden;
+}
+
+
+//start page
+
+.start-banner {
+  background-color: #f4f4f4;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  text-align: center;
+
+  img {
+    width: 100%;
+    height: auto;
+    max-width: 400px;
+  }
+
+  .row > div {
+    margin: 0;
+    padding: 0;
+  }
+
+  .start-headline {
+    margin: 40px 0;
+    padding: 0;
+    color: #000;
+  }
+}
+
+.introduction {
+  border-top: 3px solid $primary;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.mitmachen {
+  background-color: $primary-light;
+  border-top: 3px solid $primary;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.blog {
+  border-top: 3px solid $primary;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+// page
+
+.page {
+  h1, h2 {
+    text-align: center;
+  }
+}
+
+// forderungen page
+
+.liste-forderungen li {
+  list-style-type: none;
+  counter-increment: item;
+  margin-bottom: 10px;
+}
+.liste-forderungen li:before {
+  margin-right: 10px;
+  content: counter(item);
+  background: $primary;
+  border-radius: 100%;
+  color: white;
+  width: 1.5em;
+  text-align: center;
+  display: inline-block;
+  font-weight: bold;
+  font-size: 2em;
+}
+
+// einbringen
+
+.schwerpunkte {
+  margin-top: 30px;
+}
+.wo-einbringen {
+  margin-top: 30px;
+}
+.wie-einbringen {
+  margin-top: 30px;
+}
+.wie-einbringen a {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+// bootstrap overwrites
+
+.row {
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.btn-default {
+  color: #000;
+}
+
+
+
+// Import partials from `sass_dir` (defaults to `_sass`)
+@import
+        "base",
+        "layout",
+        "syntax-highlighting"
+;
