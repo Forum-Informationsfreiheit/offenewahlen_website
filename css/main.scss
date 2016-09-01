@@ -567,20 +567,29 @@ header {
     color: #000;
   }
 }
-
 .introduction {
-  border-top: 3px solid $primary;
-  padding-top: 30px;
-  padding-bottom: 30px;
-}
-
-.mitmachen {
   background-color: $primary-light;
   border-top: 3px solid $primary;
   padding-top: 30px;
   padding-bottom: 30px;
 }
+.hashtag {
+  margin-top: 50px;
+  margin-bottom: 30px;
+}
 
+.mitmachen {
+  background-color: white;
+  border-top: 3px solid $primary;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+.mitmachen h2 {
+  margin-bottom: 40px;
+}
+.mitmachen h4 {
+  margin-bottom: 30px;
+}
 .blog {
   border-top: 3px solid $primary;
   padding-top: 30px;
