@@ -6,24 +6,86 @@ comments: true
 menu_forderungen: true
 ---
 
+Durch Zugang und Verwendung der Informationen rund um Wahlen wird die Integrität des Wahlprozesses gesichert, Innovation ermöglicht und die Bürger_innen in diesen zentralen Akt der Demokratie eingebunden und wichtiges Wissen darüber vermittelt. Dies soll neben der Kontrolle der Wahlen auch neue Anwendungen für Bürger_innen wie Apps, Visualisierungen und Analysen ermöglichen und so die Bildung zu dem Thema Wahlen erhöhen.
 
+<blockquote>
+  <p>“Keine Wahl läuft gänzlich ohne Fehler ab, kein Regelwerk ist perfekt. Aber es braucht einen offenen Umgang dazu, wie das Risiko für Unregelmäßigkeiten gesenkt und die Bürger_innen miteinbezogen werden können.”</p>
+  <footer>Mathias Huter (<a href="http://www.informationsfreiheit.at/" title="Forum Informationsfreiheit">Forum Informationsfreiheit</a>) <cite title="Falter">Falter</cite></footer>
+</blockquote>
+
+Daher wollen wir auf dieser Seite gemeinsam Forderungen für eine Öffnung der Wahldaten in Österreich für das Bundesministerium für Inneres (BMI) erarbeiten. Die allerersten Forderungen wurden bereits am 5. Juli als <a href="http://okfn.at/2016/07/05/open-data-schnittstelle-fuer-transparente-wahlergebnisse-schaffen/" title="Offener Brief">Offener Brief</a> übermittelt. <a href="http://derstandard.at/2000040468184/Ruf-nach-freien-Wahlergebnissen-fuer-alle" title="Ruf nach freien Wahlergebnissen für alle - Standard">Hier</a> die offizielle Reaktion des BMI dazu.
+
+Die finalen Forderungen sollen dann nach der zweiten Bundespräsidentenstichwahl dem Bundesministerium für Inneres (BMI) als Input von Seiten der Zivilgesellschaft vorgelegt werden. Open Knowledge Österreich leitet diese dann in Zusammenarbeit mit anderen Akteuren aus Medien, Wissenschaft und Zivilgesellschaft an das BMI weiter.
+
+Die Seite wird versioniert. Aktuell liegen sie unter der **Version 1** vor, bei genügend Änderungen wird eine Version hochgezählt.  
+
+## Unsere Forderungen
+Bei Ergebnissen sind auch immer die Vorergebnisse bei noch nicht kompletten Auszählungsgrad gemeint.
 
 <ol class="liste-forderungen">
-<li>Offene Lizenzen: Daten und Content sollen frei zugänglich, nutzbar und teilbar sein - für jeden Zweck und für alle.</li>
-<li>Offener Datenstandard: Inhalt und Struktur der Daten müssen klar defininert und dokumentiert sein.</li>
-<li>Maschinenlesbar / Offenes Datenformat: Ergebnisse als JSON und CSV Datei zur Verfügung stellen.</li>
-<li>Zeitnah und gleichzeitig für alle: Alle Ergebnisse für alle gleichzeitig, unmittelbar nach Wahlschluss (ab 17:00 Uhr) und ohne Barrieren zugänglich machen.</li>
-<li>Online via gesicherter Schnittstelle: Die Daten mittels einer Schnittstelle (API) gesichert via https als JSON online zugänglich machen.</li>
-<li>Alle nötigen Daten: Die Ergebnisse brauchen zusätzliche Daten um als Karten dargestellt oder analysiert werden zu können.</li>
-<li>Gesamter Wahlprozess: Eine Wahl ist viel mehr als nur der Wahltag. Für die Nutzung braucht es die Informationen zum gesamten Wahlprozess.</li>
-<li>Komplett und als Ganzes: Daten sollen richtig und vollständig sein</li>
-<li>Granular: die Daten sollen in der möglichst kleinsten räumlichen und zeitlichen Auflösung, also als Rohdaten, angeboten werden.</li>
-<li>Permanten zugänglich: URL’s und Repository sollen konstanten und langfristigen Zugang über Jahrzehnte sicherstellen.</li>
-<li>Rückwirkend: auf der Schnittstelle sollen auch die Ergebnisse vergangener Wahlen für einen einfachen Vergleich aufbereitet sein.</li>
+<li><strong>Offene Urheberrechts-Lizenzen:</strong> Daten und Content sollen frei zugänglich, nutzbar und teilbar sein - für jeden Zweck und für alle.</li>
+<li><strong>Offener Datenstandard:</strong> Inhalt und Struktur der Daten müssen klar defininert und dokumentiert sein. </li>
+<li><strong>Maschinenlesbar / Offenes Datenformat:</strong> Ergebnisse als JSON und CSV Datei zur Verfügung stellen.</li>
+<li><strong>Zeitnah und gleichzeitig für alle:</strong> Alle Ergebnisse für alle gleichzeitig, unmittelbar nach Wahlschluss (ab 17:00 Uhr) und ohne Barrieren zugänglich machen.</li>
+<li><strong>Online via gesicherter Schnittstelle:</strong> Die Daten mittels einer Schnittstelle (API) gesichert via https als JSON online zugänglich machen.</li>
+<li><strong>Alle nötigen Daten:</strong> Die Ergebnisse brauchen zusätzliche Daten um als Karten dargestellt oder analysiert werden zu können.</li>
+<li><strong>Gesamter Wahlprozess:</strong> Eine Wahl ist viel mehr als nur der Wahltag. Für die Nutzung braucht es die Informationen zum gesamten Wahlprozess.</li>
+<li><strong>Komplett und als Ganzes:</strong> Daten sollen richtig und vollständig sein.</li>
+<li><strong>Granular:</strong> die Daten sollen in der möglichst kleinsten räumlichen (Sprengel) und zeitlichen Auflösung, also als Rohdaten, angeboten werden.</li>
+<li><strong>Permanten zugänglich:</strong> URL’s und Repository sollen konstanten und langfristigen Zugang über Jahrzehnte sicherstellen.</li>
+<li><strong>Rückwirkend:</strong> auf der Schnittstelle sollen auch die Ergebnisse vergangener Wahlen für einen einfachen Vergleich aufbereitet sein.</li>
 </ol>
 
+### Details
 
+#### 1: Offene Lizenzen
+Das Urheberrecht für die Werke ist der wichtigste Punkt für Open Data. Dabei ist sich an die Open Definition und den [Open Government Data Grundsätzen](https://www.data.gv.at/infos/cooperation-ogd-oesterreich/) zu orientieren. Das BMI erlaubt aktuell die Nutzung, nimmt aber kommerzielle Aktivitäten aus. Dies ist eine unnötige Barriere die Innovation verhindert. Weiters ist die Klausel rechtlich nicht klar definiert, und so betrifft dies auch die Wikipedia, da auch diese Ein- und Ausnahmen hat. Es ist davor prinzipiell zu prüfen, ob die Daten überhaupt dem Urheberrecht oder einem anderen rechtlichen Schutz wie dem Leistungsschutzrecht unterliegen. An und für sich ist Public Domain für öffentliche Daten vorzuziehen, ansonst ist der Open Government Data Standard in Österreich für Daten und Content die [CC- BY 3.0 AT](https://creativecommons.org/licenses/by/3.0/at/) Lizenz.
 
+#### 2: Offener Datenstandard
+Attribute sowie Struktur für die einzelnen Datensets müssen klar definiert und verständlich sein sowie versioniert und offen dokumentiert werden. Zur Ausarbeitung soll vom BMI gemeinsam mit der Community ein Prozess gestartet werden, welcher Personen aus den Medienhäusern, der Wissenschaft, Entwickler_innen, der Open Data Community und Zivilgesellschaft einbindet. Hierzu folgen demnächst detailiertere Informationen.
 
+#### 3: Maschinenlesbar / Offenes Dateiformat
+Die Daten sollen maschinenlesbar in einem offenen Dateiformat vorhanden sein. Dies soll es Computern einfach ermöglichen die Daten auszulesen und zu verwenden sowie die langfristige Nutzung der Daten sicherstellen. Hier haben sich CSV und JSON als Standard etabliert. Das soll aber nicht die Darstellung für Menschen abschaffen. Die Ergebnisse sollen auch weiterhin auf der Website vom BMI dargestellt werden.
+
+#### 4: Zeitnah und gleichzeitig für alle
+Die Ergebnisse sollen unmittelbar nach Wahlschluss (17:00 Uhr) zugänglich sein - für alle gleichzeitig. Zentrale Überlegung hier ist: So schnell wie möglich, wie die Auszählungen in einer nützlich verwendbaren Qualität vorhanden sind. Da die Prozessabschnitte der Wahlen voneinander abhängig sind und aufeinander aufbauen, ist dies ein sehr wichtiger Punkt. Dabei werden Daten regelmäßig aktualisiert werden, weshalb das auffinden und identifizieren von Änderungen schnell und einfach sein soll. Daten gleich zu veröffentlichen zeigt, dass der Prozess vertrauenswürdig und integer ist. Dabei sollen keine Diskriminierungen auftreten: keine Barrieren in der Nutzung, keine Anfordungen an den Nutzungszweck, keine Registrierung oder Ähnliches. Es soll ein anonymer Zugang ermöglicht werden.
+
+#### 5: Gesicherte Online Schnittstelle
+Die Daten sollen online über eine offene Schnittstelle ([API](https://de.wikipedia.org/wiki/Programmierschnittstelle)) verfügbar gemacht und als JSON zur Verfügung gestellt  werden. Die Verbindung sollte über https gesichert sein, um die Integrität der Daten und die Authentizität des Absenders bei der Übertragung sicherstellen zu können..
+
+#### 6: Alle nötigen Daten
+Das Ergebnis als CSV ist ein guter erster Schritt, aber ohne zusätzliche Daten (Metadaten, Attributbeschreibungen, Dokumentation) kann damit nicht viel gemacht werden. Besonders wichtig sind hier die geographischen Informationen zu den Sprengeln und Wahlstationen, die Informationen zur Wahl sowie die Gemeindekennzahlen. Dies ermöglicht die Verknüpfung mit anderen Daten, das Zeichnen von Karten und oder andere Anwendungen.
+
+#### 7: Gesamter Wahlprozess
+Vor und nach dem Wahltag fallen eine Vielzahl an Daten an, die für das Nutzen der Daten und dem Verständnis der Wahlen essentiell sind. Kurz aufgelistet die Wichtigsten:
+- Wahlen: Die Rahmenbedingungen der Wahl. Wann wird gewählt? Wo wird gewählt? Was wird gewählt? Wie wird gewählt?
+- Nominierung: Kandidat_innen mitsamt zugehöriger Partei (wichtig: Unique ID’s!),
+- Informationen zu Wahlbeschwerden, Wahlanfechtungen und Auflösungen
+Es soll auch explizit erwähnt werden, dass viele interessante Daten nicht in der Hand des Staates, sondern bei den Medien (Berichterstattung), Forschungsinstituten (Umfragen, Studien) und Bürger_innen (Social Media) liegen. Dies liegt zwar nicht im Verantwortungsbereich des Bundesministeriums für Inneres, hat aber auch erhebliches öffentliches Interesse und sollte möglichst offen zugänglich gemacht werden.
+
+Daten zu Finanzierung, wie Ein- und Ausgaben der Parteien oder öffentliche und private Zuwendungen unterliegen nicht der Verantwortung des BMI, sondern sind Teil des Parteiengesetz. Daher wird dies nicht in den Forderungen aufgelistet, ist aber ein sehr wichtiger Teil für integere Wahlen.
+
+#### 8: Komplett und als Ganzes
+Es sollen keine Daten fehlen und ein kompletter Download in einer Datei (bulk) der Daten angeboten werden. Dies ist besonders wichtig, wenn es einen geographischen Faktor zu den Wahlen gibt. Komplett bedeutet auch, dass es eine umfassende Dokumentation zu den Daten gibt. Mindestinhalt sind Struktur der Daten, Felder, Abkürzungen, Variablen, wie die Daten gesammelt wurden, Zweck der Sammlung, Zielgruppe, Links zu weiterführenden Daten und Kontakt für Fragen.
+
+#### 9: Granular
+Die Daten sollen in möglichst kleiner räumlicher und zeitlicher Granularität (Auflösung) und Detail angeboten werden. Also nicht aggregiert oder verändert, sondern die Rohdaten (z. B. Wahlergebnisse auf Sprengelebene). Dies ist wichtig für Transparenz und Rechenschaft und um Betrug und Fehler zu finden. Die [G8 Open Data Charter (and Technical Annex)](https://www.gov.uk/government/publications/open-data-charter/g8-open-data-charter-and-technical-annex#principle-2-quality-and-quantity) führt dazu an, Daten sollen "in their original, unmodified form and **at the finest level of granularity available.**" zugänglich gemacht werden.
+
+#### 10: Permanent zugänglich
+Die Daten sollen permanent zugänglich gemacht werden. Dazu benötigt es einen stabilen Web-Service und einen permanenten Identifier (URL).
+
+#### 11: Rückwirkend
+Um Vergleiche über längere Zeiträume machen und die politische Veränderung Österreichs kartieren zu können, braucht es auch rückwirkend die Ergebnisse aus vergangenen Wahlen.
+
+## Bring dich ein
+Dies ist jetzt der erste Vorschlag, denn wir gemeinsam mit euch diskutieren und verbessern wollen. Um sich einzubringen, gibt es mehrere Möglichkeiten:
+
+**1. Wir nutzen das offene Annotations-Tool [Hypothesis](https://hypothes.is/)**, welches rechts als Seitenleiste ausklappbar ist. Damit könnt ihr einfach Text (einen Absatz, ein Wort oder einfach nur ein Satzzeichen) markieren und eine Nachricht dazu hinterlassen. Oder ihr könnt auch gleich zum gesamten Dokument Feedback geben mittels “new page note”, was für Meta-Kommentare und Generelles sinnvoll ist. Nach der Registrierung deines Accounts, kannst du gleich loslegen und die Inhalte diskutieren.
+
+**2. Bring dein Feedback als <i class="fa fa-pencil-square-o" aria-hidden="true"></i> Kommentar ein**.
+
+**3. Nutze den Hashtag** <i class="fa fa-hashtag" aria-hidden="true"></i>[OffeneWahlenAT](https://twitter.com/search?f=tweets&q=%23OffeneWahlenAT&src=typd) auf Twitter. Wir sehen uns das regelmäßig an.
+
+**4. [Kontakt](/kontakt) aufnehmen** durch Email oder Formular aufnehmen.
 
 <script async defer src="https://hypothes.is/embed.js"></script>

@@ -102,10 +102,8 @@ Infos sammeln zur wissenschaftlichen Auseinandersetzung mit dem politischen Proz
 <div class="col-md-6">
 <h3 class="text-center"><i class="fa fa-terminal" aria-hidden="true"></i> Coding</h3>
 <ul>
-<li>Tools und Libraries sammeln.</li>
-<li>Libraries entwickeln.</li>
-<li>Datenaufbereitung und Datenverarbeitung.</li>
-<li>Visualisierungen.</li>
+<li>Tools und Libraries sammeln und entwickeln.</li>
+<li>Tools für Datenverarbeitung und Visualisierungen.</li>
 <li>Analysen: Election Forensics, räumliche Dynamiken, etc.</li>
 </ul>
 </div>
@@ -127,7 +125,7 @@ Dich hat das Thema begeistert und findest das Projekt unterstützenswert?
 <h2 class="col-md-12">Wie bringe ich mich ein?</h2>
 Wenn du dich zu den genannten Punkten einbringen willst, dir nicht klar ist wie das gehen könnte oder du eine eigene Idee hast, dann nimm einfach mit uns direkt Kontakt auf. Es ist kein Beitrag zu klein und wir freuen uns über jede Anfrage bzw. Unterstützung.
 
-Wenn du dich mit GitHub wohl fühlst, am besten gleich zum <a href="https://github.com/OKFNat/offenewahlen" alt="Offene Wahlen GitHub Repository"><i class="fa fa-file-code-o" aria-hidden="true"></i> <i class="fa fa-code" aria-hidden="true"></i> GitHub Repository</a> und deine Issues oder Änderungen direkt machen.
+Wenn du dich mit GitHub wohl fühlst, am besten gleich zum <a href="https://github.com/OKFNat/offenewahlen" title="Offene Wahlen GitHub Repository"><i class="fa fa-github" aria-hidden="true"></i> GitHub Repository</a> und deine Issues oder Änderungen direkt machen.
 
 <a href="/kontakt" class="highlight-link" alt="Kontakt"><i class="fa fa-comments-o" aria-hidden="true"></i> Kontakt aufnehmen</a>.
 </div>
