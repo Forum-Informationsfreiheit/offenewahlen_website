@@ -18,8 +18,8 @@ Durch Zugang und Verwendung der Informationen rund um Wahlen wird die Integritä
 
 ### Unsere Aktivitäten
 
-- [Forderungen](/forderungen) ausarbeiten
-- [offenen Datenstandard](/forderungen) ausarbeiten
+- [Forderungen](/forderungen-v1) ausarbeiten
+- [offenen Datenstandard](/forderungen-v1) ausarbeiten
 - Wissen sammeln und teilen
 - Vernetzen verschiedener Akteure aus Zivilgesellschaft, Medien, Wissenschaft und Politik
 - Verwendung der Daten fördern

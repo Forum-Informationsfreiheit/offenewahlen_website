@@ -9,6 +9,7 @@ menu_mitmachen: true
 <p class="text-center">Im Geiste von freier Software ist jede_r dazu ermutigt sich einzubringen das Projekt zu verbessern - Offeneheit lebt von Teilhabe. Hier einige Möglichkeiten wie du dich einbringen kannst.</p>
 
 <div class="schwerpunkte col-md-12">
+
 <h3 class="text-center col-md-12"><i class="fa fa-exclamation-circle" aria-hidden="true"></i> Aktuelle Schwerpunkte</h3>
 <h4 class="text-center">In der ersten Phase wird vor allem an diesen Punkten gearbeitet.</h4>
 <div class="col-md-3 text-center">
@@ -17,7 +18,7 @@ Teilnehmen. Volunteers gesucht (Graz & Wien).
 </div>
 <div class="col-md-3 text-center">
 <h3><i class="fa fa-pencil" aria-hidden="true"></i> Forderungen</h3>
-<a href="/forderungen" alt="Forderungen">Forderungen</a> an das BMI ausarbeiten.
+<a href="/forderungen-v1" alt="Forderungen">Forderungen</a> an das BMI ausarbeiten.
 </div>
 <div class="col-md-3 text-center">
 <h3><i class="fa fa-university" aria-hidden="true"></i> Wahlrecht & Wahlforschung</h3>
@@ -36,8 +37,8 @@ Wissen und Argumente sammeln. <a href="/forderungen" alt="Datenstandard">Offenen
 <div class="col-md-6">
 <h3 class="text-center"><i class="fa fa-pencil" aria-hidden="true"></i> Forderungen</h3>
 <ul>
-<li><a href="/forderungen" alt="Forderungen">Forderungen</a> an das BMI gemeinsam ausarbeiten</li>
-<li><a href="/forderungen" alt="Datenstandard">Offenen Datenstandard</a> für die Wahlergebnisse erarbeiten.</li>
+<li><a href="/forderungen-v1" alt="Forderungen">Forderungen</a> an das BMI gemeinsam ausarbeiten</li>
+<li><a href="/forderungen-v1" alt="Datenstandard">Offenen Datenstandard</a> für die Wahlergebnisse erarbeiten.</li>
 </ul>
 </div>
 
