@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Resourcen
-permalink: /resourcen
+title: Ressourcen
+permalink: /ressourcen
 comments: true
-menu_resourcen: true
+menu_ressourcen: true
 ---
 
 ### <i class="fa fa-check-square-o" aria-hidden="true"></i> Wahlen in Österreich
@@ -39,6 +39,9 @@ menu_resourcen: true
 #### nicht-offene Daten
 - [Österr. Wahlstudien @ AUTNES](http://autnes.at/?q=node/42)
 - [European Election Database](http://www.nsd.uib.no/european_election_database/country/austria/)
+- [MAPP](http://www.projectmapp.eu/databases/)
+- [Manifest Project](https://manifestoproject.wzb.eu/)
+- [Chapel Hill](http://chesdata.eu/)
 
 ### <i class="fa fa-university" aria-hidden="true"></i> Wahlforschung
 - [Wikipedia - Wahlforschung](https://de.wikipedia.org/wiki/Wahlforschung)

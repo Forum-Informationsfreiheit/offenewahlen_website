@@ -269,7 +269,7 @@ header {
   position: absolute;
   top: 0;
   left: 0;
-  height: $header-S;
+  height: $header-M;
   width: 100%;
   background: $secondary;
   z-index: $header-zindex;
@@ -287,10 +287,6 @@ header {
     position: fixed;
   }
 
-  @include MQ-M() {
-    height: 90px;
-  }
-
   .header-logo {
     display: inline-block;
     margin-top: 7px;
@@ -299,20 +295,14 @@ header {
     .header-logo-img {
       display: inline-block;
       vertical-align: middle;
-      width: $header-logo-S;
-      height: $header-logo-S;
+      width: 100%;
+      height: $header-logo-M;
 
       img {
         display: inline;
         height: 100%;
         width: 100%;
       }
-
-      @include MQ-M() {
-        height: $header-logo-M;
-        width: 100%;
-      }
-
     }
 
     span {

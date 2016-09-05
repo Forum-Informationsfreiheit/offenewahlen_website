@@ -59,7 +59,7 @@ Das Wissen soll gesammelt und auf der Website für alle zugänlgich gemacht werd
 <li>Open Data und Transparenz bei Wahlen.</li>
 <li>Wahlrecht und Wahlen in Österreich.</li>
 <li>Liste an (potentiellen) offenen Daten.</li>
-<li><a href="/resourcen" alt="Resourcen">Resourcen</a> sammeln und kuratieren.</li>
+<li><a href="/ressourcen" title="Ressourcen">Ressourcen</a> sammeln und kuratieren.</li>
 </ul>
 </div>
 
@@ -81,7 +81,7 @@ Die Website ist eine <a href="https://pages.github.com/" alt="GitHub Pages">GitH
 <li><a href="https://github.com/OKFNat/offenewahlen/issues" alt="Issues schliessen">Issues schliessen</a>.</li>
 <li><i class="fa fa-code-fork" aria-hidden="true"></i> <a href="https://github.com/OKFNat/offenewahlen/pulls" alt="Pull Requests">Pull requests</a> reviewen.</li>
 <li>Texte reviewen, erweitern, verbessern und übersetzen.</li>
-<li>Informationen / Resourcen zur <a href="https://github.com/OKFNat/offenewahlen" alt="GitHub Repository Offene Wahlen">Webpage</a> hinzufügen.</li>
+<li>Informationen / Ressourcen zur <a href="https://github.com/OKFNat/offenewahlen" alt="GitHub Repository Offene Wahlen">Webpage</a> hinzufügen.</li>
 <li>Bloggen.</li>
 </ul>
 </div>

@@ -35,6 +35,9 @@ Offene Wahlen Österreich ist ein Community-Projekt rund um offene Daten ([Open 
 
 ![Open Knowledge Österreich](/assets/logos/logo-ok-at-weiss-farbe.png)
 
+### Presse
+- [Futurezone.at - Community-Projekt Offene Wahlen gestartet](https://futurezone.at/netzpolitik/community-projekt-offene-wahlen-gestartet/219.250.524)
+
 ### Urheber_innenrecht
 Alle Inhalte sind offen lizenziert unter der [Creative Commons Attribution 4.0](http://creativecommons.org/licenses/by/4.0/) Lizenz, soweit nicht explizit anders erwähnt.
 
