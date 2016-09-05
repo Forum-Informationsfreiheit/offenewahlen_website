@@ -52,7 +52,7 @@ Die Daten sollen maschinenlesbar in einem offenen Dateiformat vorhanden sein. Di
 Die Ergebnisse sollen unmittelbar nach Wahlschluss (17:00 Uhr) zugänglich sein - für alle gleichzeitig. Zentrale Überlegung hier ist: So schnell wie möglich, wie die Auszählungen in einer nützlich verwendbaren Qualität vorhanden sind. Da die Prozessabschnitte der Wahlen voneinander abhängig sind und aufeinander aufbauen, ist dies ein sehr wichtiger Punkt. Dabei werden Daten regelmäßig aktualisiert werden, weshalb das auffinden und identifizieren von Änderungen schnell und einfach sein soll. Daten gleich zu veröffentlichen zeigt, dass der Prozess vertrauenswürdig und integer ist. Dabei sollen keine Diskriminierungen auftreten: keine Barrieren in der Nutzung, keine Anfordungen an den Nutzungszweck, keine Registrierung oder Ähnliches. Es soll ein anonymer Zugang ermöglicht werden.
 
 ### 5: Gesicherte Online Schnittstelle
-Die Daten sollen online über eine offene Schnittstelle ([API](https://de.wikipedia.org/wiki/Programmierschnittstelle)) verfügbar gemacht und als JSON zur Verfügung gestellt  werden. Die Verbindung sollte über https gesichert sein, um die Integrität der Daten und die Authentizität des Absenders bei der Übertragung sicherstellen zu können..
+Die Daten sollen online über eine offene Schnittstelle ([API](https://de.wikipedia.org/wiki/Programmierschnittstelle)) verfügbar gemacht und als JSON zur Verfügung gestellt  werden. Die Verbindung sollte über https gesichert sein, um die Integrität der Daten und die Authentizität des Absenders bei der Übertragung sicherstellen zu können.
 
 ### 6: Alle nötigen Daten
 Das Ergebnis als CSV ist ein guter erster Schritt, aber ohne zusätzliche Daten (Metadaten, Attributbeschreibungen, Dokumentation) kann damit nicht viel gemacht werden. Besonders wichtig sind hier die geographischen Informationen zu den Sprengeln und Wahlstationen, die Informationen zur Wahl sowie die Gemeindekennzahlen. Dies ermöglicht die Verknüpfung mit anderen Daten, das Zeichnen von Karten und oder andere Anwendungen.
@@ -81,12 +81,12 @@ Um Vergleiche über längere Zeiträume machen und die politische Veränderung �
 ## Bring dich ein
 Dies ist jetzt der erste Vorschlag, denn wir gemeinsam mit euch diskutieren und verbessern wollen. Um sich einzubringen, gibt es mehrere Möglichkeiten:
 
-**1. Wir nutzen das offene Annotations-Tool [Hypothesis](https://hypothes.is/)**, welches rechts als Seitenleiste ausklappbar ist. Damit könnt ihr einfach Text (einen Absatz, ein Wort oder einfach nur ein Satzzeichen) markieren und eine Nachricht dazu hinterlassen. Oder ihr könnt auch gleich zum gesamten Dokument Feedback geben mittels “new page note”, was für Meta-Kommentare und Generelles sinnvoll ist. Nach der Registrierung deines Accounts, kannst du gleich loslegen und die Inhalte diskutieren.
+**1. Annotiere deine Meinung direkt im Artikel.** Diese Seite verwendet das Annotations-Tool [Hypothesis](https://hypothes.is/), welches rechts als Seitenleiste ausklappbar ist. Damit kann einfach Text (einen Absatz, ein Wort oder einfach nur ein Satzzeichen) markiert und eine Nachricht dazu angehängt (annotiert) werden. Dies kann auch zum gesamten Dokument mittels “new page note” gemacht werden (z. B. für Meta-Themen und Allgemeines). Nach der Registrierung deines Accounts, kannst du gleich loslegen und annotieren.
 
 **2. Bring dein Feedback als <i class="fa fa-pencil-square-o" aria-hidden="true"></i> Kommentar ein**.
 
-**3. Nutze den Hashtag** <i class="fa fa-hashtag" aria-hidden="true"></i>[OffeneWahlenAT](https://twitter.com/search?f=tweets&q=%23OffeneWahlenAT&src=typd) auf Twitter. Wir sehen uns das regelmäßig an.
+**3. Nutze den Hashtag** <i class="fa fa-hashtag" aria-hidden="true"></i>[OffeneWahlenAT](https://twitter.com/search?f=tweets&q=%23OffeneWahlenAT&src=typd) auf Twitter.
 
-**4. [Kontakt](/kontakt) aufnehmen** durch Email oder Formular aufnehmen.
+**4. [Kontakt](/kontakt)** aufnehmen.
 
 <script async defer src="https://hypothes.is/embed.js"></script>

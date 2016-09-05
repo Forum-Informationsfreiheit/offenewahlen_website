@@ -33,12 +33,13 @@ Die Initiative steht und fällt mit der Beteiligung von Personen aus der Zivilge
 
 Offene Wahlen Österreich ist ein Community-Projekt rund um offene Daten ([Open Data](https://okfn.org/opendata/)) und Transparenz bei Wahlen in Österreich. Gemeinsam mit verschiedenen Akteuren aus der Zivilgesellschaft, aus den Medien, aus der Wissenschaft sowie der Politik setzen wir uns für einen offenen Zugang zu Informationen rund um Wahlen ein.
 
-[Open Knowledge Österreich](http://okfn.at/) ist ein Verein, der sich für freies Wissen für alle einsetzt. Dadurch wollen wir Bewusstsein schaffen, allen die Teilhabe an gesellschaftlichen Prozessen ermöglichen und Innovation ermöglichen.
+[Open Knowledge Österreich](http://okfn.at/) ist ein Verein, der sich für freies Wissen für alle einsetzt. Dadurch wollen wir Bewusstsein schaffen, allen die Teilhabe an gesellschaftlichen Prozessen und möglichst viel Innovation ermöglichen.
 
-![Open Knowledge Österreich](/assets/logos/logo-ok-at-weiss-farbe.png)
+<a href="http://okfn.at" title="Open Knowledge Österreich"><img class="logo" src="{{ site.staticurl }}logos/logo-ok-at.svg" width="400" alt="Open Knowledge Österreich" /></a>
 
 ### Presse
 - [Futurezone.at - Community-Projekt Offene Wahlen gestartet](https://futurezone.at/netzpolitik/community-projekt-offene-wahlen-gestartet/219.250.524)
+- [Standard.at - Ruf nach freien Wahlergebnissen für alle](http://derstandard.at/2000040468184/Ruf-nach-freien-Wahlergebnissen-fuer-alle)
 
 ### Urheber_innenrecht
 Alle Inhalte sind offen lizenziert unter der [Creative Commons Attribution 4.0](http://creativecommons.org/licenses/by/4.0/) Lizenz, soweit nicht explizit anders erwähnt.
