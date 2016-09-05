@@ -16,6 +16,8 @@ Durch Zugang und Verwendung der Informationen rund um Wahlen wird die Integritä
   <footer>Mathias Huter (<a href="http://www.informationsfreiheit.at/" title="Forum Informationsfreiheit">Forum Informationsfreiheit</a>) <cite title="Falter">Falter</cite></footer>
 </blockquote>
 
+<iframe width="100%" height="600" src="https://www.youtube.com/embed/LMK99tF9xYo" frameborder="0" allowfullscreen></iframe>
+
 ### Unsere Aktivitäten
 
 - [Forderungen](/forderungen-v1) ausarbeiten

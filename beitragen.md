@@ -3,10 +3,10 @@ layout: page
 title: Beitragen
 permalink: /beitragen
 comments: true
-menu_mitmachen: true
+menu_beitragen: true
 ---
 
-<p class="text-center">Im Geiste von freier Software ist jede_r dazu ermutigt sich einzubringen das Projekt zu verbessern - Offeneheit lebt von Teilhabe. Hier einige Möglichkeiten wie du dich einbringen kannst.</p>
+<p class="text-center">Im Geiste von freier Software ist jede_r dazu ermutigt sich einzubringen und das Projekt zu verbessern - Offeneheit lebt von Teilhabe. Hier einige Möglichkeiten wie du dich einbringen kannst.</p>
 
 <div class="schwerpunkte col-md-12">
 
@@ -81,8 +81,9 @@ Die Website ist eine <a href="https://pages.github.com/" alt="GitHub Pages">GitH
 <li><a href="https://github.com/OKFNat/offenewahlen/issues" alt="Issues schliessen">Issues schliessen</a>.</li>
 <li><i class="fa fa-code-fork" aria-hidden="true"></i> <a href="https://github.com/OKFNat/offenewahlen/pulls" alt="Pull Requests">Pull requests</a> reviewen.</li>
 <li>Texte reviewen, erweitern, verbessern und übersetzen.</li>
-<li>Informationen / Ressourcen zur <a href="https://github.com/OKFNat/offenewahlen" alt="GitHub Repository Offene Wahlen">Webpage</a> hinzufügen.</li>
+<li>Wissen zur <a href="https://github.com/OKFNat/offenewahlen" alt="GitHub Repository Offene Wahlen">Webpage</a> hinzufügen.</li>
 <li>Bloggen.</li>
+<li>Design: Logo, Grafiken, Layout verbessern.</li>
 </ul>
 </div>
 
