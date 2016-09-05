@@ -54,7 +54,7 @@ Wissen und Argumente sammeln. <a href="/forderungen" alt="Datenstandard">Offenen
 
 <div class="col-md-6">
 <h3 class="text-center"><i class="fa fa-eye" aria-hidden="true"></i> Wissen sammeln</h3>
-Das Wissen soll gesammelt und auf der Website für alle zugänlgich gemacht werden.
+Das Wissen soll gesammelt und auf der Website für alle zugänglich gemacht werden.
 <ul>
 <li>Open Data und Transparenz bei Wahlen.</li>
 <li>Wahlrecht und Wahlen in Österreich.</li>
