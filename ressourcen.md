@@ -17,6 +17,7 @@ menu_ressourcen: true
 - [Wikipedia - Bundespräsidentenwahl in Österreich 2016](https://de.wikipedia.org/wiki/Bundespr%C3%A4sidentenwahl_in_%C3%96sterreich_2016)
 - [Bundesministerium für Inneres (BMI): Wahlen](http://www.bmi.gv.at/cms/bmi_wahlen/)
 - [Washington Post - The Austrian presidential election shows no evidence of fraud. We used election forensics to check.](https://www.washingtonpost.com/news/monkey-cage/wp/2016/07/01/we-checked-austrias-extremely-close-may-2016-election-for-fraud-heres-what-we-found/)
+- [Falter - Eine Mathematik-Lektion für den VfGH](https://cms.falter.at/falter/2016/09/06/eine-mathematik-lektion-fuer-den-vfgh/)
 - [Der Standard - Bundespräsidentenwahl: Manipulation schaut anders aus](http://derstandard.at/2000041882174/Bundespraesidentenwahl-Manipulation-schaut-anders-aus?ref=article )
 - [ORF - „Wundersame Wählervermehrung“ in Waidhofen/Ybbs](http://orf.at//stories/2340649/)
 - [NZZ - Die Qual der Wahl (Podcast)](https://soundcloud.com/nzz-at/clubabend-die-wahl-der-qual)
