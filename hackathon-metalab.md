@@ -43,7 +43,7 @@ Dies sind nur Empfehlungen. Es ist keinerlei Vorwissen notwendig um an dem Tag m
 <a href="http://okfn.at" title="Open Knowledge Österreich"><img class="logo" src="{{ site.staticurl }}logos/logo-ok-at.svg" width="400" alt="Open Knowledge Österreich" /></a>
 
 <h4>Partner</h4>
-<a href="http://openscienceasap.org/" title="openscienceASAP"><img class="logo" src="{{ site.staticurl }}logos/logo-openscienceASAP.png" alt="openscienceASAP" /></a>
+<p><a href="http://openscienceasap.org/" title="openscienceASAP"><img class="logo" src="{{ site.staticurl }}logos/logo-openscienceASAP.png" alt="openscienceASAP" /></a></p>
 
-<a href="http://dossier.at/" title="Dossier">Dossier</a>
+<p><a href="http://dossier.at/" title="Dossier"><img class="logo" src="{{ site.staticurl }}logos/logo-dossier.png" width="300" alt="Dossier" /></a></p>
 </div>
