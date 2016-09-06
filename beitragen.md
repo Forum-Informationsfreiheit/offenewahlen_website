@@ -14,7 +14,8 @@ menu_beitragen: true
 <h4 class="text-center">In der ersten Phase wird vor allem an diesen Punkten gearbeitet.</h4>
 <div class="col-md-3 text-center">
 <h3><i class="fa fa-calendar" aria-hidden="true"></i> Hackathon</h3>
-Teilnehmen. Volunteers gesucht (Graz & Wien).
+<p><a href="/hackathon-metalab" title="Hackathon Metalab">24. September</a> @ metalab Wien</p>
+Teilnehmen. Volunteers gesucht.
 </div>
 <div class="col-md-3 text-center">
 <h3><i class="fa fa-pencil" aria-hidden="true"></i> Forderungen</h3>
@@ -44,6 +45,7 @@ Wissen und Argumente sammeln. <a href="/forderungen" alt="Datenstandard">Offenen
 
 <div class="col-md-6">
 <h3 class="text-center"><i class="fa fa-calendar" aria-hidden="true"></i> Veranstaltungen</h3>
+<a href="/hackathon-metalab" title="Hackathon Metalab">24. September</a> @ metalab Wien
 <ul>
 <li>Besuchen</li>
 <li>Volunteering</li>
