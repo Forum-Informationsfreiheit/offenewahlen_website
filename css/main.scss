@@ -297,7 +297,7 @@ header {
     .header-logo-img {
       display: inline-block;
       vertical-align: middle;
-      width: 100%;
+      width: auto;
       height: $header-logo-M;
 
       img {
@@ -585,7 +585,7 @@ header {
 .liste-forderungen li {
   list-style-type: none;
   counter-increment: item;
-  margin-bottom: 10px;
+  margin-bottom: 20px;
 }
 .liste-forderungen li:before {
   margin-right: 10px;
@@ -597,7 +597,7 @@ header {
   text-align: center;
   display: inline-block;
   font-weight: bold;
-  font-size: 2em;
+  font-size: 1.5em;
 }
 
 // einbringen
