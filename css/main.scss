@@ -291,6 +291,8 @@ header {
     display: inline-block;
     margin-top: 7px;
     margin-left: 8px;
+    @include MQ-M() {
+    }
 
     .header-logo-img {
       display: inline-block;
@@ -311,28 +313,13 @@ header {
       vertical-align: middle;
       border-bottom-color: #fff;
     }
-
-    .header-brand-full {
-      display: none;
-      padding-top: 6px;
-      @include MQ-L() {
-        display: inline-block;
-      }
-    }
-    .header-brand-small {
-      padding-top: 6px;
-      @include MQ-L() {
-        display: none;
-      }
-    }
   }
 
   .header-nav {
     position: absolute;
     top: 0;
     right: 10px;
-    height: 100%;
-    display:none;
+    display: none;
 
     ul {
       vertical-align: middle;
@@ -352,9 +339,8 @@ header {
         }
       }
     }
-
     @include MQ-M() {
-      display: block;
+      display:block;
     }
     @include MQ-L() {
       right: 40px;

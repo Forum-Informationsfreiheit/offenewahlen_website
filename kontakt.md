@@ -6,7 +6,7 @@ menu_kontakt: yes
 comments: true
 ---
 
-<div class="col-md-8">
+<div class="col-xs-12 col-md-8">
 
 <p><a href="mailto:{{ site.author.email }}?subject=Offene Wahlen AT: "><i class="fa fa-envelope" aria-hidden="true"></i> {{ site.author.email }}</a></p>
 
@@ -25,7 +25,7 @@ comments: true
 <p><a class="nav-link" href="https://github.com/okfnat" title="OK-AT auf Github"><i class="fa fa-github"></i> okfnat</a></p>
 </div>
 
-<div class="col-md-4">
+<div class="col-xs-12 col-md-4">
 <a class="twitter-timeline"  href="https://twitter.com/hashtag/OffeneWahlenAT" data-widget-id="772831349279449088">#OffeneWahlenAT Tweets</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 </div>

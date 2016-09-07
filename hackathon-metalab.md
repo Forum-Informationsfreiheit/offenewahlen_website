@@ -7,7 +7,7 @@ comments: true
 
 <p class="text-center">Druck dir deine Wahlergebnisse in 3d, sammle Wissen zu Wahlen und Open Data oder analysiere Daten aus der Wahlforschung - gemeinsam wollen wir uns eine Woche vor der Bundespräsidentenwahl mit Wahlen und offenen Daten spielerisch beschäftigen.</p>
 
-<div class="col-md-6">
+<div class="col-xs-12 col-md-6">
 <ul>
 <li>Datum: 24. September 2016, 12-19 Uhr</li>
 <li>Ort: <a href="https://metalab.at/" title="metalab">metalab</a> - Rathausstraße 6, 1010 Wien</li>
@@ -33,12 +33,12 @@ Dies sind nur Empfehlungen. Es ist keinerlei Vorwissen notwendig um an dem Tag m
 </ul>
 </div>
 
-<div class="col-md-6">
+<div class="col-xs-12 col-md-6">
 <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://www.openstreetmap.org/export/embed.html?bbox=16.35267198085785%2C48.2074009588649%2C16.359753012657162%2C48.211040222525746&amp;layer=mapnik&amp;marker=48.20922062302247%2C16.356212496757507" style="border: 1px solid black"></iframe><br/><small><a href="http://www.openstreetmap.org/?mlat=48.20922&amp;mlon=16.35621#map=18/48.20922/16.35621">View Larger Map</a></small>
 
 </div>
 
-<div class="col-md-12">
+<div class="col-xs-12">
 <h3>Eine Veranstaltung von:</h3>
 <a href="http://okfn.at" title="Open Knowledge Österreich"><img class="logo" src="{{ site.staticurl }}logos/logo-ok-at.svg" width="400" alt="Open Knowledge Österreich" /></a>
 
