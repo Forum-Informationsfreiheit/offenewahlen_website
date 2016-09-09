@@ -8,7 +8,7 @@ menu_ressourcen: true
 
 ### <i class="fa fa-info-circle" aria-hidden="true"></i> Infos zum Projekt
 - [Video: Projekt-Launch beim 8. netzpolitischen Abend @ metalab](https://youtu.be/LMK99tF9xYo)
-- [Standard.at - Ruf nach freien Wahlergebnissen für alle](http://derstandard.at/2000040468184/Ruf-nach-freien-Wahlergebnissen-fuer-alle)
+- [derStandard.at - Ruf nach freien Wahlergebnissen für alle](http://derstandard.at/2000040468184/Ruf-nach-freien-Wahlergebnissen-fuer-alle)
 - [okfn.at - Open Data Schnittstelle für transparente Wahlergebnisse schaffen!](http://okfn.at/2016/07/05/open-data-schnittstelle-fuer-transparente-wahlergebnisse-schaffen/)
 
 ### <i class="fa fa-check-square-o" aria-hidden="true"></i> Wahlen in Österreich
@@ -42,6 +42,7 @@ menu_ressourcen: true
 - [Ergebnisse EU Wahl 2014](https://www.data.gv.at/katalog/dataset/2b10a91b-51d5-4e34-b992-8fd3a3121f0d)
 - [Ergebnisse Nationalratswahl 2013](https://www.data.gv.at/katalog/dataset/09716341-2bea-4298-9525-e936d8247d19)
 - [Weitere Ergebnisse unter Suchbegriff "wahl"](https://www.data.gv.at/suche/?search-term=wahl&connection=and&search-data-only=search-data-only#showresults): hierbei handelt es sich um Teilergebnisse oder um nicht-bundesweite Wahlen (Landtags-, Gemeindewahlen)
+- [Liste österreichischer Parteien](https://github.com/OKFNat/data/tree/master/parteienverzeichnis)
 
 #### nicht-offene Daten
 - [Österr. Wahlstudien @ AUTNES](http://autnes.at/?q=node/42)
