@@ -20,16 +20,16 @@ comments: true
 <li>Kein Eintritt</li>
 </ul>
 
-Vielen Dank an das <a href="https://metalab.at/" title="metalab">metalab</a> für das zur Verfügung stellen der Räumlichkeiten.
+Vielen Dank an das <a href="https://metalab.at/" title="metalab">metalab</a> für die Zurverfügungstellung der Räumlichkeiten.
 
-<p>Wir suchen auch noch immer Freiwillige, die bei der Organisation des Hackathons sowie vor Ort mithelfen. Falls du mitmachen willst, melde dich <a href="/kontakt" title="Kontakt">hier</a>.</p>
+<p><b>Gesucht:</b> Freiwillige, die bei der Organisation des Hackathons sowie vor Ort mithelfen. Falls du mitmachen willst, melde dich <a href="/kontakt" title="Kontakt">hier</a>.</p>
 
 <h3>Vorbereitung</h3>
-Dies sind nur Empfehlungen. Es ist keinerlei Vorwissen notwendig um an dem Tag mitzumachen.
+Dies sind nur Empfehlungen. Es ist keinerlei Vorwissen notwendig, um an dem Tag mitzumachen.
 <ul>
-<li><a href="https://www.youtube.com/watch?v=LMK99tF9xYo" title="Video">Video - 8. Netzpolitischer Abend Wien</a>: gute Einleitung in das Projekt</li>
+<li><a href="https://www.youtube.com/watch?v=LMK99tF9xYo" title="Video">Video - 8. Netzpolitischer Abend Wien</a>:  Einführung in das Projekt (Video)</li>
 <li><a href="/ressourcen" title="Ressourcen">Ressourcen</a> ansehen</li>
-<li>Einlesen in Wahlrecht und/oder Wahlforschung.</li>
+<li>Einlesen in Wahlrecht und/oder Wahlforschung</li>
 </ul>
 </div>
 
