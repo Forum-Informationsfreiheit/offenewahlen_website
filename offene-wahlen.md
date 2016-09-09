@@ -6,10 +6,10 @@ comments: true
 menu_offenewahlen: true
 ---
 
-<h2 class="text-center">Wir setzten uns dafür ein, dass ein jede_r in Österreich das Recht hat, relevante Informationen zu den Wahlen sobald wie möglich einzusehen, zu kontrollieren und zu nutzen.</h2>
+<h2 class="text-center">Wir setzen uns dafür ein, dass alle das Recht haben, sämtliche relevanten Informationen zu den Wahlen sobald wie möglich einzusehen und zu nutzen.</h2>
 
 
-Durch Zugang und Verwendung der Informationen rund um Wahlen wird die Integrität des Wahlprozesses gesichert, Innovation ermöglicht und die Bürger_innen in diesen zentralen Akt der Demokratie eingebunden und wichtiges Wissen darüber vermittelt. Dies soll neben der Kontrolle der Wahlen auch neue Anwendungen für Bürger_innen wie Apps, Visualisierungen und Analysen ermöglichen und so die Bildung zu dem Thema Wahlen erhöhen. Hierbei spielen offene Daten (Open Data) einen zentralen Punkt, da dies das Nutzen von Informationen so einfach und so breit wie möglich sicherstellt - und zwar für alle und für jeden Zweck im geltenden rechtlichen Rahmen.
+Durch Zugang und Verwendung der Informationen rund um Wahlen wird die Integrität des Wahlprozesses gesichert, Innovation ermöglicht und die Bürger_innen in diesen zentralen Akt der Demokratie eingebunden und wichtiges Wissen darüber vermittelt. Dies soll neben der Kontrolle der Wahlen auch neue Anwendungen für Bürger_innen wie Apps, Visualisierungen und Analysen ermöglichen und so die Bildung zum Thema Wahlen erhöhen. Hierbei spielen offene Daten (Open Data) eine zentrale Rolle, da dies das Nutzen von Informationen so einfach und so breit wie möglich sicherstellt - und zwar für alle und für jeden Zweck im geltenden rechtlichen Rahmen.
 
 <blockquote>
   <p>“Keine Wahl läuft gänzlich ohne Fehler ab, kein Regelwerk ist perfekt. Aber es braucht einen offenen Umgang dazu, wie das Risiko für Unregelmäßigkeiten gesenkt und die Bürger_innen miteinbezogen werden können.”</p>
@@ -36,14 +36,3 @@ Offene Wahlen Österreich ist ein Community-Projekt rund um offene Daten ([Open 
 [Open Knowledge Österreich](http://okfn.at/) ist ein Verein, der sich für freies Wissen für alle einsetzt. Dadurch wollen wir Bewusstsein schaffen, allen die Teilhabe an gesellschaftlichen Prozessen und möglichst viel Innovation ermöglichen.
 
 <a href="http://okfn.at" title="Open Knowledge Österreich"><img class="logo" src="{{ site.staticurl }}logos/logo-ok-at.svg" width="400" alt="Open Knowledge Österreich" /></a>
-
-### Presse
-- [Futurezone.at - Community-Projekt Offene Wahlen gestartet](https://futurezone.at/netzpolitik/community-projekt-offene-wahlen-gestartet/219.250.524)
-- [Standard.at - Ruf nach freien Wahlergebnissen für alle](http://derstandard.at/2000040468184/Ruf-nach-freien-Wahlergebnissen-fuer-alle)
-
-### Urheber_innenrecht
-Alle Inhalte sind offen lizenziert unter der [Creative Commons Attribution 4.0](http://creativecommons.org/licenses/by/4.0/) Lizenz, soweit nicht explizit anders erwähnt.
-
-Erstellter Quellcode ist freie Software: du kannst es teilen und/oder anpasse nach den Bedingungen der MIT Lizenz. Besuche [http://opensource.org/licenses/MIT](http://opensource.org/licenses/MIT) um mehr über die Lizenz zu lernen.
-
-Die Inhalte werden weitergegeben in der Hoffnung, dass sie nützlich sind, aber OHNE JEGLICHE HAFTUNG; ohne die implizite Haftung der Gebrauchstauglichkeit oder EIGNUNG FÜR EINEN BESTIMMTEN ZWECK.
