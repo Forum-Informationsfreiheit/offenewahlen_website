@@ -8,6 +8,7 @@ menu_ressourcen: true
 
 ### <i class="fa fa-info-circle" aria-hidden="true"></i> Infos zum Projekt
 - [Video: Projekt-Launch beim 8. netzpolitischen Abend @ metalab](https://youtu.be/LMK99tF9xYo)
+- [Futurezone.at - Community-Projekt Offene Wahlen gestartet](https://futurezone.at/netzpolitik/community-projekt-offene-wahlen-gestartet/219.250.524)
 - [derStandard.at - Ruf nach freien Wahlergebnissen für alle](http://derstandard.at/2000040468184/Ruf-nach-freien-Wahlergebnissen-fuer-alle)
 - [okfn.at - Open Data Schnittstelle für transparente Wahlergebnisse schaffen!](http://okfn.at/2016/07/05/open-data-schnittstelle-fuer-transparente-wahlergebnisse-schaffen/)
 
