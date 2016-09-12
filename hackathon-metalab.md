@@ -5,11 +5,13 @@ permalink: /hackathon-metalab
 comments: true
 ---
 
+<p class="bg-danger text-center alert alert-danger" role="alert"><strong>Wegen der Verschiebung der Wahl wird der Hackathon vermutlich auf einen anderen Termin verschoben. Nähere Infos folgen demnächst.</strong></p>
+
 <p class="text-center">Druck dir deine Wahlergebnisse in 3d, sammle Wissen zu Wahlen und Open Data oder analysiere Daten aus der Wahlforschung - gemeinsam wollen wir uns eine Woche vor der Bundespräsidentenwahl mit Wahlen und offenen Daten spielerisch beschäftigen.</p>
 
 <div class="col-xs-12 col-md-6">
 <ul>
-<li>Datum: 24. September 2016, 12-19 Uhr</li>
+<li>Datum: ??</li>
 <li>Ort: <a href="https://metalab.at/" title="metalab">metalab</a> - Rathausstraße 6, 1010 Wien</li>
 <li><a href="https://metalab.at/wiki/Lage" title="Anreise">Anreise</a></li>
 <li>Zielgruppen: Kreative, Sozialwissenschaftler_innen, Coder, Interessierte Bürger_innen, Journalist_innen, uvm.</li>
