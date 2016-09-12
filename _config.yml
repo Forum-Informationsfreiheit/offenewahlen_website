@@ -13,14 +13,14 @@ author :
   github : okfnat
   twitter : okfnat
   facebook : okfnat
-description: > # this means to ignore newlines until "baseurl:"
-  Offene Wahlen Österreich ist ein Community-Projekt von Open Knowledge Österreich,
-  das sich für offene Daten und Transparenz bei Wahlen in Österreich einsetzt.
+description: "Offene Wahlen Österreich ist ein Community-Projekt von Open Knowledge Österreich, das sich für offene Daten und Transparenz bei Wahlen in Österreich einsetzt."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://offenewahlen.at/" # the base hostname & protocol for your site
 exclude:
   - "notes/"
 staticurl: /assets/
+disqus:
+  shortname: "offene-wahlen"
 
 
 # Build settings
