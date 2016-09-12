@@ -131,5 +131,5 @@ Wenn du dich zu den genannten Punkten einbringen willst, dir nicht klar ist wie 
 
 Wenn du dich mit GitHub wohl fühlst, am besten gleich zum <a href="https://github.com/OKFNat/offenewahlen" title="Offene Wahlen GitHub Repository"><i class="fa fa-github" aria-hidden="true"></i> GitHub Repository</a> und deine Issues oder Änderungen direkt machen.
 
-<a href="/kontakt" class="highlight-link" alt="Kontakt"><i class="fa fa-comments-o" aria-hidden="true"></i> Kontakt aufnehmen</a>.
+<a href="/kontakt" class="highlight-link" alt="Kontakt"><i class="fa fa-comments-o" aria-hidden="true"></i> Kontakt aufnehmen</a>
 </div>
