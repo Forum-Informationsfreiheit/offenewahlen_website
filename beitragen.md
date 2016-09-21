@@ -6,7 +6,7 @@ comments: true
 menu_beitragen: true
 ---
 
-<p class="text-center">Im Geiste von freier Software ist jede_r dazu ermutigt sich einzubringen und das Projekt zu verbessern - Offeneheit lebt von Teilhabe. Hier einige Möglichkeiten wie du dich einbringen kannst.</p>
+<p class="text-center">Im Geiste von freier Software ist jede_r dazu ermutigt, sich einzubringen und das Projekt zu verbessern - Offeneheit lebt von Teilhabe. Hier einige Möglichkeiten wie du dich einbringen kannst.</p>
 
 <div class="schwerpunkte col-xs-12">
 
