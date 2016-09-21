@@ -19,7 +19,7 @@ Zuständige Behörde: BPD Wien, Büro für Vereinsversammlung und Medienrechtsan
 
 Gerichtsstand: Wien
 
-Open Knowledge Österreich ist offizielles Chapter von Open Knowledge Interantional. Eingetragen sind wir als Verein Open Knowledge Forum Österreich. Die Open Knowledge Österreich ist ein eigenständiger Verein, unterhält aber enge Beziehungen zum internationalen Netzwerk. Wir treten für die gleichen Werte und Ideale ein, und arbeiten in Projekten und Netzwerken eng zusammen.
+Open Knowledge Österreich ist offizielles Chapter von Open Knowledge International. Eingetragen sind wir als Verein Open Knowledge Forum Österreich. Die Open Knowledge Österreich ist ein eigenständiger Verein, unterhält aber enge Beziehungen zum internationalen Netzwerk. Wir treten für die gleichen Werte und Ideale ein, und arbeiten in Projekten und Netzwerken eng zusammen.
 
 ### Haftung für Inhalte
 Die Inhalte unserer Seiten wurden mit größter Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte können wir jedoch keine Gewähr übernehmen. Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Als Diensteanbieter sind wir jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen. Die Verpflichtung zur Entfernung oder Sperrung der Nutzung von Informationen nach den allgemeinen Gesetzen bleiben hiervon unberührt. Eine diesbezügliche Haftung ist jedoch erst ab dem Zeitpunkt der Kenntnis einer konkreten Rechtsverletzung möglich. Bei Bekanntwerden von entsprechenden Rechtsverletzungen werden wir diese Inhalte umgehend entfernen.
