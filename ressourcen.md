@@ -46,17 +46,20 @@ menu_ressourcen: true
 - [Liste österreichischer Parteien](https://github.com/OKFNat/data/tree/master/parteienverzeichnis)
 
 #### nicht-offene Daten
+- [SunSITE Universität Wien](http://sunsite.univie.ac.at/Austria/elections/)
 - [Österr. Wahlstudien @ AUTNES](http://autnes.at/?q=node/42)
 - [European Election Database](http://www.nsd.uib.no/european_election_database/country/austria/)
 - [MAPP](http://www.projectmapp.eu/databases/)
 - [Manifest Project](https://manifestoproject.wzb.eu/)
 - [Chapel Hill](http://chesdata.eu/)
+- [Volksbegehren](https://github.com/OKFNat/data/tree/master/volksbegehren)
 
 ### <i class="fa fa-university" aria-hidden="true"></i> Wahlforschung
 - [Wikipedia - Wahlforschung](https://de.wikipedia.org/wiki/Wahlforschung)
 - [AUTNES](http://www.autnes.at/)
-- [Institut für empirische Sozialforschung GmbH](http://www.ifes.at/)
-- [SORA](http://www.sora.at/themen/wahlverhalten.html)
+- [Statistische Wahlanalysen und weitere Themen aus der Wahlforschung - Universität Wien](http://sunsite.univie.ac.at/Austria/elections/)
 - [Wahlanalyse.com](http://www.wahlanalyse.com/)
 - [Waehlerstromanalyse.at](http://www.waehlerstromanalyse.at/)
 - [Wahlhochrechnung.at](http://www.wahlhochrechnung.at/)
+- [Institut für empirische Sozialforschung GmbH](http://www.ifes.at/)
+- [SORA](http://www.sora.at/themen/wahlverhalten.html)

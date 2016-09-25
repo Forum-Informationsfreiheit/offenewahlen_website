@@ -6,16 +6,16 @@ comments: true
 menu_beitragen: true
 ---
 
-<p class="text-center">Im Geiste von freier Software ist jede_r dazu ermutigt sich einzubringen und das Projekt zu verbessern - Offeneheit lebt von Teilhabe. Hier einige Möglichkeiten wie du dich einbringen kannst.</p>
+<p class="text-center">Im Geiste von freier Software ist jede_r dazu ermutigt sich einzubringen und das Projekt zu verbessern - Offenheit lebt von Teilhabe. Hier einige Möglichkeiten wie du dich einbringen kannst.</p>
 
 <div class="schwerpunkte col-xs-12">
 
 <h3 class="text-center col-xs-12"><i class="fa fa-exclamation-circle" aria-hidden="true"></i> Aktuelle Schwerpunkte</h3>
 <h4 class="text-center">In der ersten Phase wird vor allem an diesen Punkten gearbeitet.</h4>
 <div class="col-xs-12 col-md-3 text-center">
-<h3><i class="fa fa-calendar" aria-hidden="true"></i> Hackathon</h3>
-<p><a href="/hackathon-metalab" title="Hackathon Metalab">metalab Wien (tba)</a></p>
-Teilnehmen. Volunteers gesucht.
+<h3><i class="fa fa-calendar" aria-hidden="true"></i> Veranstaltungen</h3>
+<p><a href="/workshop-spektral" title="Coding Workshop Spektral">19. Oktober: Coding Workshop @ Spektral</a></p>
+<p><a href="/hackathon-metalab" title="Hackathon Metalab">19. November: Wahlforschungs-Hackathon @ metalab</a></p>
 </div>
 <div class="col-xs-12 col-md-3 text-center">
 <h3><i class="fa fa-pencil" aria-hidden="true"></i> Forderungen</h3>
