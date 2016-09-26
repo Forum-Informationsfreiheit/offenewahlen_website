@@ -19,6 +19,7 @@ comments: true
 <li><strong>Anmelden:</strong> <a href="https://docs.google.com/forms/d/e/1FAIpQLSc0cf1YS88fsgaF9zejR_AhX0DqYoGdJIDy-1zRGlcGAgJdFg/viewform?entry.1560647131&entry.805191984&entry.1321289864&entry.1811347659=Ja" title="Anmeldung">Anmelde-Formular</a></li>
 <li><a href="http://pad.okfn.org/p/OffeneWahlenAT-Spektral" title="Etherpad">Etherpad</a>: zum Arbeiten vor Ort</li>
 <li><a href="https://twitter.com/search?f=tweets&q=%23OffeneWahlenAT&src=typd" title="OffeneWahlenAT"><i class="fa fa-hashtag" aria-hidden="true"></i>OffeneWahlenAT</a></li>
+<li><strong>Mitnehmen:</strong> Laptop, Netzteil</li>
 <li>Kein Eintritt</li>
 </ul>
 
