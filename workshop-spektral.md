@@ -54,9 +54,10 @@ Es ist keinerlei Vorwissen notwendig, um an dem Tag mitzumachen. Hier ein paar I
 <div class="col-xs-12">
 <h3>Eine Veranstaltung von:</h3>
 <div class="col-sm-6">
-<a href="http://okfn.at" title="Open Knowledge Österreich">Open Knowledge Österreich</a> in Kooperation mit <a href="http://elevate.at" title="Elevate Festival">Elevate Festival</a>, ESC und Spektral.
+<a href="http://okfn.at" title="Open Knowledge Österreich">Open Knowledge Österreich</a> in Kooperation mit <a href="http://elevate.at" title="Elevate Festival">Elevate Festival</a>, <a href="http://esc.mur.at/" title="esc medien kunst labor">esc Medien Kunst Labor</a> und <a class="logo" href="http://spektral.at/" title="Spektral">Spektral</a>.
 <a class="logo" href="http://okfn.at" title="Open Knowledge Österreich"><img class="logo" src="{{ site.staticurl }}logos/logo-ok-at.svg" width="400" alt="Open Knowledge Österreich" /></a>
 <a class="logo" href="http://elevate.at/" title="Elevate Festival"><img class="logo" src="{{ site.staticurl }}logos/logo-elevate.png" width="400" alt="Elevate Festival" /></a>
+<a href="http://esc.mur.at/" title="esc medien kunst labor"><img class="logo" src="{{ site.staticurl }}logos/logo-esc.png" width="400" alt="esc medien kunst labor" /></a>
 <a class="logo" href="http://spektral.at/" title="Spektral"><img class="logo" src="{{ site.staticurl }}logos/logo-spektral.png" width="200" alt="Spektral" /></a>
 </div>
 
