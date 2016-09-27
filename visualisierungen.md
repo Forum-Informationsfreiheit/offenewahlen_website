@@ -22,7 +22,7 @@ Was einem immer klar sein sollte: Im Zweifel schlägt der optische Eindruck/das 
 ####Wo anfangen?
 Im Grunde lassen sich viele Daten unter einem politischen Blickwinkel betrachten, die größte Hürde ist oftmals die Verfügbarkeit (und die Idee). Die in diesem Sinn wahrscheinlich am "leichtesten" zu visualisierenden politischen Daten in Österreich sind Wahlergebnisse: Sie sind für die Bundes- und Länderebene überwiegend in bearbeitbarer Form verfügbar, die Datensätze sind komplett und vergleichsweise überschaubar.
 
-Gut wäre es, sich ein ungefähres Ziel zu überlegen: Will man eine Sache konkret darstellen? Oder will ich einfach ausprobieren, wie die Daten (in unterschiedlicher Form) aussehen? Je nachdem kann man sich anders an eine Grafik machen.
+Gut wäre es, sich ein ungefähres Ziel zu überlegen: Will ich eine Sache konkret darstellen? Oder will ich einfach ausprobieren, wie die Daten (in unterschiedlicher Form) aussehen? Je nachdem kann man sich anders an eine Grafik machen.
 
 
 ####Ein Beispiel
@@ -36,7 +36,7 @@ Die Datei enthält neben den Gemeinde-, Bezirks- und Bundeslandergebnissen auch 
 ![Ergebnis BP-Wahl Beispiel 1](http://www.drawingdata.net/tutorial/1_pie_chart.jpg)
 
 
-Obwohl die Grafik alles enthält, was sie laut Ziel soll (KandidatInnen und deren Ergebnis), ist sie ausbaufähig. Man erkennt zwar, dass Hofer den größten Teil des Kuchens hat, der Unterschied zwischen Griss und Van der Bellen verschwimmt aber bereits. Wie viel Prozent Hofer erhalten hat, ist ohne die Zahlenangabe ein Ratespiel.
+Obwohl die Grafik alles enthält, was sie laut Ziel enthalten soll (KandidatInnen und deren Ergebnis), ist sie ausbaufähig. Man erkennt zwar, dass Hofer den größten Teil des Kuchens hat, der Unterschied zwischen Griss und Van der Bellen verschwimmt aber bereits. Wie viel Prozent Hofer erhalten hat, ist ohne die Zahlenangabe ein Ratespiel.
 
 Kurz gesagt, Kreisdiagramme sind optisch schwer zu verarbeiten, ihre Aussagen manchmal unklar. Sie können gut funktionieren, wenn man nur zwei Teile vergleicht (z.B. bei einer Stichwahl), es gibt aber oftmals bessere Diagrammtypen - etwa ein Säulendiagramm:
 
@@ -138,7 +138,7 @@ In den Bundesländern finden sich vor allem die Landtagswahl-Ergebnisse, teilwei
 ####Vorarbeiten mit den Daten
 Die Daten liegen üblicherweise entweder als Excel- oder CSV-Dateien vor. Beim Weiterverarbeiten ist u.a. zu beachten: 
 
-* Oft ist es besser, in der Quelldatei mit den absoluten Zahlen zu arbeiten, und etwaige Prozent-Werte erst im Zuge der Visualisierung berechnet - das macht das Arbeiten flexibler, da man später weitere Berechnungen anstellen kann, ohne wieder rückrechnen zu müssen.
+* Oft ist es besser, in der Quelldatei mit den absoluten Zahlen zu arbeiten, und etwaige Prozent-Werte erst im Zuge der Visualisierung zu berechnen - das macht das Arbeiten flexibler, da man später weitere Berechnungen anstellen kann, ohne wieder rückrechnen zu müssen.
 * Formatierung: Englischsprachige Tools verwenden andere Trennzeichen als deutschsprachige Programme: Die Zahl 100.000,99 (100tausend Komma 99) versteht ein englischsprachiges Programm als 100,0 (plus Formatfehler).
 * Umgekehrt würde sie englischsprachig so aussehen : 100,000.99.
 * Ebenfalls verwendet das deutsche Layout im Excel den ";" als Trennzeichen in einer CSV-Datei, im Englischen wird das "," verwendet.
