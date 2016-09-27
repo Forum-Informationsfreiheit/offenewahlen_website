@@ -12,9 +12,9 @@ comments: true
 
 <p>Thematisch wird es sich um Wahlen drehen. Erstell deine erste interaktive Karte oder deine eigene Website, oder bereite Daten für eine App auf - egal was, wir helfen dir dabei.</p>
 <ul>
-<li><strong>Datum:</strong> 19. Oktober 2016, 17-22 Uhr</li>
+<li><strong>Datum:</strong> 19. Oktober 2016, 18-22 Uhr</li>
 <li><strong>Ort:</strong> <a href="https://spektral.at/" title="Spektral">Spektral</a> - Lendkai 45, 8020 Graz</li>
-<li><strong>Zielgruppen:</strong> Anfänger_innen, Schüler_innen, Student_innen, Kreative</li>
+<li><strong>Zielgruppen:</strong> Anfänger_innen, Student_innen, Kreative, Schüler_innen</li>
 <li><strong>Facilitator:</strong> <a href="https://stefankasberger.eu" title="Website">Stefan Kasberger</a></li>
 <li><strong>Anmelden:</strong> <a href="https://docs.google.com/forms/d/e/1FAIpQLSc0cf1YS88fsgaF9zejR_AhX0DqYoGdJIDy-1zRGlcGAgJdFg/viewform?entry.1560647131&entry.805191984&entry.1321289864&entry.1811347659=Ja" title="Anmeldung">Anmelde-Formular</a></li>
 <li><a href="http://pad.okfn.org/p/OffeneWahlenAT-Spektral" title="Etherpad">Etherpad</a>: zum Arbeiten vor Ort</li>
@@ -54,9 +54,10 @@ Es ist keinerlei Vorwissen notwendig, um an dem Tag mitzumachen. Hier ein paar I
 <div class="col-xs-12">
 <h3>Eine Veranstaltung von:</h3>
 <div class="col-sm-6">
-<a href="http://okfn.at" title="Open Knowledge Österreich">Open Knowledge Österreich</a> in Kooperation mit <a href="http://elevate.at" title="Elevate Festival">Elevate Festival</a>.
+<a href="http://okfn.at" title="Open Knowledge Österreich">Open Knowledge Österreich</a> in Kooperation mit <a href="http://elevate.at" title="Elevate Festival">Elevate Festival</a>, ESC und Spektral.
 <a class="logo" href="http://okfn.at" title="Open Knowledge Österreich"><img class="logo" src="{{ site.staticurl }}logos/logo-ok-at.svg" width="400" alt="Open Knowledge Österreich" /></a>
 <a class="logo" href="http://elevate.at/" title="Elevate Festival"><img class="logo" src="{{ site.staticurl }}logos/logo-elevate.png" width="400" alt="Elevate Festival" /></a>
+<a class="logo" href="http://spektral.at/" title="Spektral"><img class="logo" src="{{ site.staticurl }}logos/logo-spektral.png" width="200" alt="Spektral" /></a>
 </div>
 
 <div class="col-sm-6">
