@@ -156,9 +156,8 @@ Die Daten liegen üblicherweise entweder als Excel- oder CSV-Dateien vor. Beim W
 
 ####Arten von Visualisierungen
 
-* [https://ebiinterfaces.files.wordpress.com/2012/07/visualpropertiestable2.gif]
-* [http://www.datavizcatalogue.com/]
+Unterschiedliche Typen von Grafiken eignen sich besser oder schlechter für verschiedene Zwecke. Auch das sollte man bei der Wahl der Visualisierung überlegen:
 
-
-tbc...
+* [Properties and Best Uses of Visual Encodings](https://ebiinterfaces.files.wordpress.com/2012/07/visualpropertiestable2.gif)
+* [The data Visualisation Catalogue](http://www.datavizcatalogue.com/)
 
