@@ -22,7 +22,7 @@ Zusätzlich ermöglicht diese Öffnung auch Innovation: Die Daten könnten von S
 
 <div class="row col-sm-12">
 <h3>Wer sind wir?</h3>
-<div class="col-sm-6">
+<div class="row col-sm-6">
 <p>Offene Wahlen Österreich ist ein Community-Projekt, bei dem wir uns für offene Daten (<a href="http://okfn.at/themen/open-data/" title="Open Data">Open Data</a>) und Transparenz bei Wahlen in Österreich einsetzen.</p>
 
 <p>Wir, das sind: Das Team von Open Knowledge Österreich gemeinsam mit engagierten Menschen aus der Zivilgesellschaft, JournalistInnen, WissenschaftlerInnen und PolitikerInnen. Dabei können alle, die sich dafür interessieren, auch selbst <a href="{{ site.baseurl }}/beitragen">beitragen</a>.</p>
