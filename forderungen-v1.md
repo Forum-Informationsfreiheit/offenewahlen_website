@@ -6,22 +6,12 @@ comments: true
 menu_forderungen: true
 ---
 
-Durch Zugang und Verwendung der Informationen rund um Wahlen wird die Integrität des Wahlprozesses gesichert, Innovation ermöglicht und die Bürger_innen in diesen zentralen Akt der Demokratie eingebunden und wichtiges Wissen darüber vermittelt. Dies soll neben der Kontrolle der Wahlen auch neue Anwendungen für Bürger_innen wie Apps, Visualisierungen und Analysen ermöglichen und so die Bildung zu dem Thema Wahlen erhöhen.
-
-<blockquote>
-  <p>“Keine Wahl läuft gänzlich ohne Fehler ab, kein Regelwerk ist perfekt. Aber es braucht einen offenen Umgang dazu, wie das Risiko für Unregelmäßigkeiten gesenkt und die Bürger_innen miteinbezogen werden können.”</p>
-  <footer>Mathias Huter (<a href="http://www.informationsfreiheit.at/" title="Forum Informationsfreiheit">Forum Informationsfreiheit</a>) <cite title="Falter">Falter</cite></footer>
-</blockquote>
-
-Daher wollen wir auf dieser Seite gemeinsam Forderungen für eine Öffnung der Wahldaten in Österreich für das Bundesministerium für Inneres (BMI) erarbeiten. Die allerersten Forderungen wurden bereits am 5. Juli als <a href="http://okfn.at/2016/07/05/open-data-schnittstelle-fuer-transparente-wahlergebnisse-schaffen/" title="Offener Brief">Offener Brief</a> übermittelt. <a href="http://derstandard.at/2000040468184/Ruf-nach-freien-Wahlergebnissen-fuer-alle" title="Ruf nach freien Wahlergebnissen für alle - Standard">Hier</a> die offizielle Reaktion des BMI dazu.
-
-Die finalen Forderungen sollen dann nach der zweiten Bundespräsidentenstichwahl dem Bundesministerium für Inneres (BMI) als Input von Seiten der Zivilgesellschaft vorgelegt werden. Open Knowledge Österreich leitet diese dann in Zusammenarbeit mit anderen Akteuren aus Medien, Wissenschaft und Zivilgesellschaft an das BMI weiter.
+Auf dieser Seite erarbeiten wir gemeinsam unsere Forderungen an das Bundesministerium für Inneres (BMI). Warum uns die Öffnung der Wahldaten in Österreich wichtig ist, kannst du auf der Seite Über uns [LINK] nachlesen. Die allerersten Forderungen haben wir bereits am 5. Juli als <a href="http://okfn.at/2016/07/05/open-data-schnittstelle-fuer-transparente-wahlergebnisse-schaffen/" title="Offener Brief">Offenen Brief</a> übermittelt. <a href="http://derstandard.at/2000040468184/Ruf-nach-freien-Wahlergebnissen-fuer-alle" title="Ruf nach freien Wahlergebnissen für alle - Standard">Hier</a> die offizielle Reaktion des BMI dazu.
 
 Die Seite wird versioniert. Aktuell liegen sie unter der **Version 1** vor, bei genügend Änderungen wird eine Version hochgezählt.  
 
-
 ## Unsere Forderungen
-Bei Ergebnissen sind auch immer die Vorergebnisse bei noch nicht kompletten Auszählungsgrad gemeint.
+Bei Ergebnissen sind immer die Vorergebnisse bei noch nicht kompletten Auszählungsgrad gemeint.
 
 <ol class="liste-forderungen">
 <li><strong>Offene Urheberrechts-Lizenzen:</strong> Daten und Content sollen frei zugänglich, nutzbar und teilbar sein - für jeden Zweck und für alle.</li>
@@ -43,7 +33,7 @@ Bei Ergebnissen sind auch immer die Vorergebnisse bei noch nicht kompletten Ausz
 Das Urheberrecht für die Werke ist der wichtigste Punkt für Open Data. Dabei ist sich an die Open Definition und den [Open Government Data Grundsätzen](https://www.data.gv.at/infos/cooperation-ogd-oesterreich/) zu orientieren. Das BMI erlaubt aktuell die Nutzung, nimmt aber kommerzielle Aktivitäten aus. Dies ist eine unnötige Barriere die Innovation verhindert. Weiters ist die Klausel rechtlich nicht klar definiert, und so betrifft dies auch die Wikipedia, da auch diese Ein- und Ausnahmen hat. Es ist davor prinzipiell zu prüfen, ob die Daten überhaupt dem Urheberrecht oder einem anderen rechtlichen Schutz wie dem Leistungsschutzrecht unterliegen. An und für sich ist Public Domain für öffentliche Daten vorzuziehen, ansonst ist der Open Government Data Standard in Österreich für Daten und Content die [CC BY 3.0 AT](https://creativecommons.org/licenses/by/3.0/at/) Lizenz.
 
 ### 2: Offener Datenstandard
-Attribute sowie Struktur für die einzelnen Datensets müssen klar definiert und verständlich sein sowie versioniert und offen dokumentiert werden. Zur Ausarbeitung soll vom BMI gemeinsam mit der Community ein Prozess gestartet werden, welcher Personen aus den Medienhäusern, der Wissenschaft, Entwickler_innen, der Open Data Community und Zivilgesellschaft einbindet. Hierzu folgen demnächst detailiertere Informationen.
+Attribute sowie Struktur für die einzelnen Datensets müssen klar definiert und verständlich sein sowie versioniert und offen dokumentiert werden. Zur Ausarbeitung soll vom BMI gemeinsam mit der Community ein Prozess gestartet werden, welcher Personen aus den Medienhäusern, der Wissenschaft, EntwicklerInnen, der Open Data Community und Zivilgesellschaft einbindet. Hierzu folgen demnächst detailiertere Informationen.
 
 ### 3: Maschinenlesbar / Offenes Dateiformat
 Die Daten sollen maschinenlesbar in einem offenen Dateiformat vorhanden sein. Dies soll es Computern einfach ermöglichen die Daten auszulesen und zu verwenden sowie die langfristige Nutzung der Daten sicherstellen. Hier haben sich CSV und JSON als Standard etabliert. Das soll aber nicht die Darstellung für Menschen abschaffen. Die Ergebnisse sollen auch weiterhin auf der Website vom BMI dargestellt werden.
@@ -60,9 +50,9 @@ Das Ergebnis als CSV ist ein guter erster Schritt, aber ohne zusätzliche Daten 
 ### 7: Gesamter Wahlprozess
 Vor und nach dem Wahltag fallen eine Vielzahl an Daten an, die für das Nutzen der Daten und dem Verständnis der Wahlen essentiell sind. Kurz aufgelistet die Wichtigsten:
 - Wahlen: Die Rahmenbedingungen der Wahl. Wann wird gewählt? Wo wird gewählt? Was wird gewählt? Wie wird gewählt?
-- Nominierung: Kandidat_innen mitsamt zugehöriger Partei (wichtig: Unique ID’s!),
+- Nominierung: KandidatInnen mitsamt zugehöriger Partei (wichtig: Unique ID’s!),
 - Informationen zu Wahlbeschwerden, Wahlanfechtungen und Auflösungen
-Es soll auch explizit erwähnt werden, dass viele interessante Daten nicht in der Hand des Staates, sondern bei den Medien (Berichterstattung), Forschungsinstituten (Umfragen, Studien) und Bürger_innen (Social Media) liegen. Dies liegt zwar nicht im Verantwortungsbereich des Bundesministeriums für Inneres, hat aber auch erhebliches öffentliches Interesse und sollte möglichst offen zugänglich gemacht werden.
+Es soll auch explizit erwähnt werden, dass viele interessante Daten nicht in der Hand des Staates, sondern bei den Medien (Berichterstattung), Forschungsinstituten (Umfragen, Studien) und BürgerInnen (Social Media) liegen. Dies liegt zwar nicht im Verantwortungsbereich des Bundesministeriums für Inneres, hat aber auch erhebliches öffentliches Interesse und sollte möglichst offen zugänglich gemacht werden.
 
 Daten zu Finanzierung, wie Ein- und Ausgaben der Parteien oder öffentliche und private Zuwendungen unterliegen nicht der Verantwortung des BMI, sondern sind Teil des Parteiengesetz. Daher wird dies nicht in den Forderungen aufgelistet, ist aber ein sehr wichtiger Teil für integere Wahlen.
 

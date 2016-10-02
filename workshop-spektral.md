@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Coding Workshop für Anfänger_innen
+title: Coding Workshop für AnfängerInnen
 permalink: /workshop-spektral
 comments: true
 ---
@@ -14,7 +14,7 @@ comments: true
 <ul>
 <li><strong>Datum:</strong> 19. Oktober 2016, 18-22 Uhr</li>
 <li><strong>Ort:</strong> <a href="https://spektral.at/" title="Spektral">Spektral</a> - Lendkai 45, 8020 Graz</li>
-<li><strong>Zielgruppen:</strong> Anfänger_innen, Student_innen, Kreative, Schüler_innen</li>
+<li><strong>Zielgruppen:</strong> AnfängerInnen, StudentInnen, Kreative, SchülerInnen</li>
 <li><strong>Facilitator:</strong> <a href="https://stefankasberger.eu" title="Website">Stefan Kasberger</a></li>
 <li><strong>Anmelden:</strong> <a href="https://docs.google.com/forms/d/e/1FAIpQLSc0cf1YS88fsgaF9zejR_AhX0DqYoGdJIDy-1zRGlcGAgJdFg/viewform?entry.1560647131&entry.805191984&entry.1321289864&entry.1811347659=Ja" title="Anmeldung">Anmelde-Formular</a></li>
 <li><a href="http://pad.okfn.org/p/OffeneWahlenAT-Spektral" title="Etherpad">Etherpad</a>: zum Arbeiten vor Ort</li>

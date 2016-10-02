@@ -12,7 +12,7 @@ comments: true
 <li><strong>Datum:</strong> 19. November 2016</li>
 <li><strong>Ort:</strong> <a href="https://metalab.at/" title="metalab">metalab</a> - Rathausstraße 6, 1010 Wien</li>
 <li><a href="https://metalab.at/wiki/Lage" title="Anreise">Anreise</a></li>
-<li><strong>Zielgruppen:</strong> Kreative, Sozialwissenschaftler_innen, Coder, Interessierte Bürger_innen, Journalist_innen, uvm.</li>
+<li><strong>Zielgruppen:</strong> Kreative, SozialwissenschaftlerInnen, Coder, Interessierte BürgerInnen, JournalistInnen, uvm.</li>
 <li><strong>Facilitator:</strong> <a href="https://stefankasberger.eu" title="Website">Stefan Kasberger</a></li>
 <li><strong>Anmelden:</strong> <a href="https://www.meetup.com/de-DE/Open-Knowledge-Foundation-Austria-MeetUp/events/233894500/?eventId=233894500" title="Meetup">Meetup Event</a></li>
 <li><a href="http://pad.okfn.org/p/OffeneWahlenAT-Metalab" title="Etherpad">Etherpad</a>: zum Arbeiten vor Ort</li>

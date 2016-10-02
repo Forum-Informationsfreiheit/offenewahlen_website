@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-10
 title: Beitragen
 permalink: /beitragen
 comments: true
@@ -69,7 +69,7 @@ Das Wissen soll gesammelt und auf der Website für alle zugänglich gemacht werd
 <h3 class="text-center"><i class="fa fa-bar-chart" aria-hidden="true"></i> Daten nutzen</h3>
 Ein paar Beispiele, wie man einen gesellschaftlichen Nutzen aus den Daten herstellen könnte. Genau darum geht es ja am Ende.
 <ul>
-<li>Apps für Bürger_innen.</li>
+<li>Apps für BürgerInnen.</li>
 <li>Anreicherung mit anderen Daten.</li>
 <li>Analysieren und/oder Visualiseren.</li>
 </ul>
