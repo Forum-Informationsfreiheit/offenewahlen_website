@@ -528,14 +528,14 @@ header {
 
 .start-banner {
   background-color: white;
-  padding-top: 30px;
-  padding-bottom: 30px;
+  margin: 80px 0px;
   text-align: center;
 
   img {
     width: 100%;
     height: auto;
     max-width: 400px;
+    margin: 30px 0px;
   }
 
   .row > div {
@@ -547,6 +547,15 @@ header {
     margin: 40px 0;
     padding: 0;
     color: #000;
+    font-weight: bolder;
+  }
+  .lead-in-sub {
+    font-size: 0.8em;
+    color: #777;
+  }
+  .lead-in-sub a {
+    color: #777;
+    font-weight: normal;
   }
 }
 .introduction {
@@ -554,6 +563,14 @@ header {
   border-top: 3px solid $primary;
   padding-top: 30px;
   padding-bottom: 30px;
+
+  h2 {
+    margin-bottom: 70px;
+    font-weight: bold;
+  }
+  h3 {
+    margin-top: 50px;
+  }
 }
 .hashtag {
   margin-top: 50px;
@@ -565,12 +582,13 @@ header {
   border-top: 3px solid $primary;
   padding-top: 30px;
   padding-bottom: 30px;
-}
-.mitmachen h2 {
-  margin-bottom: 40px;
-}
-.mitmachen h4 {
-  margin-bottom: 30px;
+  h2 {
+    margin-bottom: 40px;
+    font-weight: bold;
+  }
+  h4 {
+    margin-bottom: 30px;
+  }
 }
 .blog {
   border-top: 3px solid $primary;
