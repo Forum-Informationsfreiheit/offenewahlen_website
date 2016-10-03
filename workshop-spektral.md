@@ -5,12 +5,11 @@ permalink: /workshop-spektral
 comments: true
 ---
 
-<p class="text-center lead">Gemeinsam coden lernen - rund um Wahlen.</p>
+<h4 class="text-center lead">Gemeinsam coden lernen - Wir zeigen dir wie du Ergebnisse von Wahlen visuell darstellst und mittels Programmiersprachen bearbeiten kannst.</h4>
 
-<div class="col-xs-12 col-md-6">
-<p>Du möchtest gerne Coden lernen, weißt aber nicht wie man das am besten macht? Wir helfen dir dabei. An dem Abend begleiten dich erfahrene Trainer bei deinen ersten Schritten und helfen dir bei Problemen weiter.</p>
+<div class="col-xs-12 col-md-8">
+<p>Du möchtest gerne Coden lernen, hast das aber noch nie probiert und weißt nicht wo du starten sollst? Dann komm zu unserem Coding-Workshop für AnfängerInnen. Gemeinsam werden wir die ersten Schritte in der Programmier-Welt von Scratch über HTML bis hin zu JavaScript gehen. Dazu werden wir Ergebnisse von Wahlen bearbeiten und am Ende auf einer Karte visuell darstellen. Aber auch Apps oder Websites können erstellt werden - je nachdem was dich interessiert. Egal wie weit du bist und was du machen willst - die erfahrenen Trainer vor Ort werden versuchen dir dabei zu helfen.</p>
 
-<p>Thematisch wird es sich um Wahlen drehen. Erstell deine erste interaktive Karte oder deine eigene Website, oder bereite Daten für eine App auf - egal was, wir helfen dir dabei.</p>
 <ul>
 <li><strong>Datum:</strong> 19. Oktober 2016, 18-22 Uhr</li>
 <li><strong>Ort:</strong> <a href="https://spektral.at/" title="Spektral">Spektral</a> - Lendkai 45, 8020 Graz</li>
@@ -26,16 +25,19 @@ comments: true
 Vielen Dank an das <a href="https://spektral.at/" title="Spektral">Spektral</a> für die Räumlichkeiten.
 </div>
 
-<div class="col-xs-12 col-sm-6">
-<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://www.openstreetmap.org/export/embed.html?bbox=15.423216819763185%2C47.07120331398614%2C15.441133975982664%2C47.07864161786363&amp;layer=mapnik&amp;marker=47.07492259570794%2C15.432175397872925" style="border: 1px solid black"></iframe><br/><small><a href="http://www.openstreetmap.org/?mlat=47.07492&amp;mlon=15.43218#map=17/47.07492/15.43218">View Larger Map</a></small>
+<div class="col-xs-12 col-sm-4">
+<iframe width="200" height="200" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://www.openstreetmap.org/export/embed.html?bbox=15.423216819763185%2C47.07120331398614%2C15.441133975982664%2C47.07864161786363&amp;layer=mapnik&amp;marker=47.07492259570794%2C15.432175397872925" style="border: 1px solid black"></iframe><br/><small><a href="http://www.openstreetmap.org/?mlat=47.07492&amp;mlon=15.43218#map=17/47.07492/15.43218">View Larger Map</a></small>
 </div>
 
 <div class="col-sm-12">
 <h3>Ressourcen</h3>
-Es ist keinerlei Vorwissen notwendig, um an dem Tag mitzumachen. Hier ein paar Info-Quellen für Interessierte.
+<p>Es ist keinerlei Vorwissen notwendig, um an dem Tag mitzumachen. Hier ein paar Info-Quellen für besonders Motivierte.</p>
 <div class="col-xs-12 col-sm-6">
 <h4>Coden lernen</h4>
 <ul>
+<li><a href="" title="">Python</a></li>
+<li><a href="" title="">HTML & CSS</a></li>
+<li><a href="" title="">JavaScript</a></li>
 <li><a href="https://scratch.mit.edu/projects/76322168/?tip_bar=odetocode#editor" title="Scratch - Ode to Code">Scratch - Ode to Code</a></li>
 <li><a href="https://code.org/learn" title="Code.org">Code.org</a></li>
 <li><a href="https://www.codecademy.com/" title="Code Academy">CodeAcademy</a></li>
