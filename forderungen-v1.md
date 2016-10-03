@@ -6,7 +6,7 @@ comments: true
 menu_forderungen: true
 ---
 
-Auf dieser Seite erarbeiten wir gemeinsam unsere Forderungen an das Bundesministerium für Inneres (BMI). Warum uns die Öffnung der Wahldaten in Österreich wichtig ist, kannst du auf der Seite Über uns [LINK] nachlesen. Die allerersten Forderungen haben wir bereits am 5. Juli als <a href="http://okfn.at/2016/07/05/open-data-schnittstelle-fuer-transparente-wahlergebnisse-schaffen/" title="Offener Brief">Offenen Brief</a> übermittelt. <a href="http://derstandard.at/2000040468184/Ruf-nach-freien-Wahlergebnissen-fuer-alle" title="Ruf nach freien Wahlergebnissen für alle - Standard">Hier</a> die offizielle Reaktion des BMI dazu.
+Auf dieser Seite erarbeiten wir gemeinsam unsere Forderungen an das Bundesministerium für Inneres (BMI). Warum uns die Öffnung der Wahldaten in Österreich wichtig ist, kannst du auf der Seite über <a href="/ueber-uns" title="Über uns">das Projekt</a> nachlesen. Die allerersten Forderungen haben wir bereits am 5. Juli als <a href="http://okfn.at/2016/07/05/open-data-schnittstelle-fuer-transparente-wahlergebnisse-schaffen/" title="Offener Brief">Offenen Brief</a> übermittelt. <a href="http://derstandard.at/2000040468184/Ruf-nach-freien-Wahlergebnissen-fuer-alle" title="Ruf nach freien Wahlergebnissen für alle - Standard">Hier</a> die offizielle Reaktion des BMI dazu.
 
 Die Seite wird versioniert. Aktuell liegen sie unter der **Version 1** vor, bei genügend Änderungen wird eine Version hochgezählt.  
 

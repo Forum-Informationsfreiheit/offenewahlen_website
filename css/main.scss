@@ -506,8 +506,8 @@ header {
   }
 }
 
-#disqus_thread {
-  margin-top: 30px;
+#dsq-app1 {
+  margin-top: 80px;
 }
 
 .padded-row {
@@ -551,10 +551,10 @@ header {
   }
   .lead-in-sub {
     font-size: 0.8em;
-    color: #777;
+    color: #555;
   }
   .lead-in-sub a {
-    color: #777;
+    color: #555;
     font-weight: normal;
   }
 }
@@ -624,20 +624,39 @@ header {
   font-size: 1.5em;
 }
 
-// einbringen
+// beitragen
 
-.schwerpunkte {
-  margin-top: 30px;
-}
-.wo-einbringen {
-  margin-top: 30px;
-}
-.wie-einbringen {
-  margin-top: 30px;
-}
-.wie-einbringen a {
-  margin-top: 30px;
-  margin-bottom: 30px;
+#page-beitragen {
+
+  .beitrage-punkt {
+    height: 620px;
+    margin: 30px 0px;
+  }
+  h3 {
+    font-weight: bold;
+  }
+  img {
+    margin: 20px 0px;
+  }
+  .wo-beitragen {
+    margin-top: 50px;
+    h2 {
+      margin-top: 80px;
+    }
+    .highlight-link {
+      margin: 5px 0px;
+    }
+  }
+  .wie-beitragen {
+    margin-top: 50px;
+    h2 {
+      margin-top: 70px;
+      margin-bottom: 50px;
+    }
+    a {
+      margin-top: 20px;
+    }
+  }
 }
 
 // bootstrap overwrites

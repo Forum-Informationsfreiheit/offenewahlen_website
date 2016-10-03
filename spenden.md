@@ -6,7 +6,9 @@ menu_kontakt: yes
 comments: true
 ---
 
-Offene Wahlen Österreich genauso wie Open Knowledge Österreich sind ehrenamtliche Initiativen. Deswegen sind wir auf finanzielle und ideelle Unterstützung aus der Zivilgesellschaft angewiesen und freuen uns sehr über jegliche Zuwendung.
+**Unterstützen Sie Offene Wahlen Österreich und helfen Sie mit Wissen zu befreien.**
+
+Offene Wahlen Österreich ist eine ehrenamtliche organisierte Initiative von Open Knowledge Österreich. Wir sind daher auf die Unterstützung von Außen angewiesen um unsere Aktivitäten erfolgreich umzusetzen.
 
 ### Bankverbindung
 Open Knowledge Forum Österreich

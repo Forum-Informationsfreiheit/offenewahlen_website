@@ -34,3 +34,7 @@ Alle Inhalte sind offen lizenziert unter der [Creative Commons Attribution 4.0](
 Erstellter Quellcode ist freie Software: du kannst es teilen und/oder anpasse nach den Bedingungen der MIT Lizenz. Besuche [http://opensource.org/licenses/MIT](http://opensource.org/licenses/MIT) um mehr über die Lizenz zu lernen.
 
 Die Inhalte werden weitergegeben in der Hoffnung, dass sie nützlich sind, aber OHNE JEGLICHE HAFTUNG; ohne die implizite Haftung der Gebrauchstauglichkeit oder EIGNUNG FÜR EINEN BESTIMMTEN ZWECK.
+
+#### Verwendete Bildmaterialien
+- Startseite: Bild [RefugeeHack](http://okfn.at/2015/10/11/recap-gutedaten-beim-refugeehack/) von Sonja Fischbauer (CC BY)
+- Startseite: Bild Bar-Chart von Flooh Perlot (CC BY)
