@@ -1,18 +1,17 @@
 ---
 layout: page
-title: Offene Wahlen Hackathon @ metalab
+title: Offene Wahlen Hackathon
 permalink: /hackathon-metalab
 comments: true
 ---
 
-<p class="text-center">Druck dir deine Wahlergebnisse in 3d, sammle Wissen zu Wahlen und Open Data oder analysiere Daten aus der Wahlforschung - gemeinsam wollen wir uns zwei Wochen vor der Bundespräsidentenwahl mit Wahlen und offenen Daten spielerisch beschäftigen.</p>
+<h4 class="text-center lead">Druck dir deine Wahlergebnisse in 3d, sammle Wissen zu Wahlen und Open Data oder analysiere Daten aus der Wahlforschung - gemeinsam wollen wir uns zwei Wochen vor der Bundespräsidentenwahl spielerisch mit Wahlen und offenen Daten beschäftigen.</h4>
 
-<div class="col-xs-12 col-md-6">
+<div class="row col-xs-12 col-md-8">
 <ul>
-<li><strong>Datum:</strong> 19. November 2016</li>
+<li><strong>Datum:</strong> 19. November 2016, 12 - 19 Uhr</li>
 <li><strong>Ort:</strong> <a href="https://metalab.at/" title="metalab">metalab</a> - Rathausstraße 6, 1010 Wien</li>
-<li><a href="https://metalab.at/wiki/Lage" title="Anreise">Anreise</a></li>
-<li><strong>Zielgruppen:</strong> Kreative, SozialwissenschaftlerInnen, Coder, Interessierte BürgerInnen, JournalistInnen, uvm.</li>
+<li><strong>Zielgruppen:</strong> Kreative, SozialwissenschaftlerInnen, Coder, BürgerInnen, JournalistInnen, Maker, etc.</li>
 <li><strong>Facilitator:</strong> <a href="https://stefankasberger.eu" title="Website">Stefan Kasberger</a></li>
 <li><strong>Anmelden:</strong> <a href="https://www.meetup.com/de-DE/Open-Knowledge-Foundation-Austria-MeetUp/events/233894500/?eventId=233894500" title="Meetup">Meetup Event</a></li>
 <li><a href="http://pad.okfn.org/p/OffeneWahlenAT-Metalab" title="Etherpad">Etherpad</a>: zum Arbeiten vor Ort</li>
@@ -31,12 +30,11 @@ Es ist keinerlei Vorwissen notwendig, um an dem Tag mitzumachen.
 </ul>
 </div>
 
-<div class="col-xs-12 col-md-6">
-<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://www.openstreetmap.org/export/embed.html?bbox=16.35267198085785%2C48.2074009588649%2C16.359753012657162%2C48.211040222525746&amp;layer=mapnik&amp;marker=48.20922062302247%2C16.356212496757507" style="border: 1px solid black"></iframe><br/><small><a href="http://www.openstreetmap.org/?mlat=48.20922&amp;mlon=16.35621#map=18/48.20922/16.35621">View Larger Map</a></small>
-
+<div class="col-xs-12 col-md-4">
+<iframe width="220" height="200" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://www.openstreetmap.org/export/embed.html?bbox=16.35267198085785%2C48.2074009588649%2C16.359753012657162%2C48.211040222525746&amp;layer=mapnik&amp;marker=48.20922062302247%2C16.356212496757507" style="border: 1px solid black"></iframe><br/><small><a href="http://www.openstreetmap.org/?mlat=48.20922&amp;mlon=16.35621#map=18/48.20922/16.35621">View Larger Map</a></small>
 </div>
 
-<div class="col-xs-12">
+<div class="row col-xs-12">
 <h3>Eine Veranstaltung von:</h3>
 <a href="http://okfn.at" title="Open Knowledge Österreich"><img class="logo" src="{{ site.staticurl }}logos/logo-ok-at.svg" width="400" alt="Open Knowledge Österreich" /></a>
 

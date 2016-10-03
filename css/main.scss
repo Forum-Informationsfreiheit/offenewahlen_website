@@ -673,8 +673,10 @@ header {
 
 // Workshop Spektral
 
-.logo {
-  padding: 10px 0px;
+.partner {
+  .logo {
+    padding: 20px 0px;
+  }
 }
 
 // Import partials from `sass_dir` (defaults to `_sass`)
