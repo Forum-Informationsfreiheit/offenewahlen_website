@@ -5,7 +5,9 @@ permalink: /visualisierungen
 comments: true
 ---
 
-<p class="text-center">Visualisierung von politischen Daten</p>
+<p class="text-center">Visualisierung von Wahldaten</p>
+
+Der folgende Text soll eine kurze und einfache Einführung in das Thema Visualisierung von Wahldaten geben. Dazu wird das Wahlergebnis der Bundespräsidentenwahl 2016/erster Wahlgang verwendet. Zunächst geht es um die Quelle und die Aufbereitung der Daten, anschließend wird Schritt für Schritt eine Grafik zum Gesamtergebnis erstellt.
 
 ### Generell zu Visualisierungen
 Die Idee einer Visualisierung ist, etwas grafisch so darzustellen, dass es auch grafisch verstanden werden kann (sprich ohne die genauen Daten) - im Idealfall sogar besser/zugänglicher.
@@ -21,12 +23,55 @@ Im Grunde lassen sich viele Daten unter einem politischen Blickwinkel betrachten
 
 Gut wäre es, sich ein ungefähres Ziel zu überlegen: Will ich eine Sache konkret darstellen? Oder will ich einfach ausprobieren, wie die Daten (in unterschiedlicher Form) aussehen? Je nachdem kann man sich anders an eine Grafik machen.
 
-### Ein Beispiel
-Die Bundespräsidentenwahl 2016 eignet sich als Beispiel für vieles, daher auch für eine Visualisierung. Das Ziel ist zunächst einfach, das Ergebnis des ersten Wahlganges darzustellen. Dazu holt man sich die Ergebnisdatei vom [Innenministerium](http://www.bmi.gv.at/cms/BMI_wahlen/bundespraes/bpw_2016/FILES/Endgueltiges_Gesamtergebnis_BPW16_1WG.xlsx) - und diese schaut so aus: ![Beispiel BMI Ergebnisdatei](http://www.drawingdata.net/tutorial/beispiel_bmi.jpg)
 
-Die Spalten sind recht selbsterklärend, für viele Darstellungen hilfreich ist die "GKZ" oder Gemeindekennziffer: Die erste Stelle steht für das Bundesland, die ersten drei Stellen für den Bezirk und die gesamte Zahl für eine Gemeinde (das vorangestellte "G" kann man ignorieren).
+### Die Datenquelle
+Daten zu Wahlergebnissen auf Bundesebene findet man in Österreich beim [Innenministerium](http://www.bmi.gv.at/cms/bmi_wahlen/). Dort sind alle Ergebnisse zu den Wahlen seit 1945 - Nationalrat, Bundespräsidentschaft, EU-Parlament - gesammelt, allerdings gibt es erst ab den 2000er Jahren Datensätze, die auch direkt weiterverarbeitet werden können (üblicherweise Excel-Dateien).
 
-Die Datei enthält neben den Gemeinde-, Bezirks- und Bundeslandergebnissen auch weitere Zeilen speziell zu Wahlkarten - das heißt, man muss sich die gewünschten Zeilen heraussuchen und kann nicht automatisch die gesamte Datei verwenden. Wir bleiben vorerst einfach beim Österreich-Ergebnis und probieren eine erste Darstellung der Stimmanteile, also der Prozentwerte der KandidatInnen:
+Die Ergebnisdatei zum ersten Wahlgang gibt es [hier](http://www.bmi.gv.at/cms/BMI_wahlen/bundespraes/bpw_2016/FILES/Endgueltiges_Gesamtergebnis_BPW16_1WG.xlsx) - und diese schaut so aus: ![Beispiel BMI Ergebnisdatei](http://www.drawingdata.net/tutorial/beispiel_bmi.jpg)
+
+
+*hier ein Teil zu den Nutzungsrechten?*
+
+
+Die Spalten sind soweit selbsterklärend, für viele Darstellungen hilfreich ist die "GKZ" oder Gemeindekennziffer: Die erste Stelle steht für das Bundesland, die ersten drei Stellen für den Bezirk und die gesamte Zahl für eine Gemeinde (das vorangestellte "G" kann man ignorieren).
+
+Neben der Zahl der Wahlberechtigten finden sich die abgegebenen, ungültigen und gültigen Stimmen in absoluten Zahlen. Hier ist es wichtig zu wissen, welche Basis jeweils für die Ergebnisberechnung verwendet wird: Die Wahlbeteiligung berechnet sich aus der Zahl der abgegebenen Stimmen (abgegebene Stimmen / Wahlberechtigte), die Stimmenanteile der KandidatInnen aus den gültigen abgegebenen Stimmen (Stimmenanteil KandidatIn / gültige Stimmen).
+
+
+### Aufbereitung der Daten
+In der Spalte "Gebietsname" stehen neben den Gemeinde-, Bezirks- und Bundeslandergebnissen auch weitere Zeilen speziell zu Wahlkarten - das heißt, man muss sich die gewünschten Zeilen heraussuchen und kann nicht automatisch die gesamte Datei verwenden.
+
+Die Auswahl der relevanten Daten ist meistens der erste Schritt auf dem Weg zu einer grafischen Darstellung. Uns interessiert in erster Linie einmal das Gesamtergebnis der KandidatInnen. Das heißt, wir arbeiten mit der ersten Zeile - dem Österreich-Ergebnis - weiter. Um die Datenquelle übersichtlicher zu gestalten könnten wir alle Spalten bis auf die Prozentwerte der kandidierenden Personen löschen. Allerdings werden diese in der BMI-Datei durch eine Formel erst im Excel selbst berechnet, daher müssen wir sie behalten, oder aber die Daten als Werte neu einfügen.
+
+Oft ist es besser, in der Quelldatei mit den absoluten Zahlen zu arbeiten, und etwaige Prozent-Werte erst im Zuge der Visualisierung zu berechnen - das macht das Arbeiten flexibler, da man später weitere Berechnungen anstellen kann, ohne wieder rückrechnen zu müssen.
+
+Was gegen ein Löschen der Spalten spricht ist, dass wir damit Informationen verlieren. Diese sind vielleicht momentan noch nicht wichtig, aber können später interessant werden, wenn wir durch unsere Visualisierung auf etwas gestoßen sind, das wir überprüfen wollen. Ein nachträgliches Einfügen gelöschter Daten ist meistens mühsam und fehleranfällig.
+
+Je nachdem, mit welchem Programm die Visualisierung umgesetzt wird, kann es nötig sein, die Daten dort neu zu importieren. Ein gängiges Format dafür sind CSV-Dateien, das sind Text-Dateien, in denen jede Spalte mit einem eindeutigen Trennzeichen - normalerweise einem "," - getrennt wird. Dieses Trennzeichen kann aber auch etwas anderes sein, das deutschsprachige Excel verwendet etwa einen ";".
+
+Diese Kleinigkeit hat große Auswirkungen, sobald ein anderes Programm automatisch mit einem "," rechnet. In dem Fall kann es die Spalten nicht finden. Zusätzlich würden dann ",", die als Komma-Zeichen verwendet werden, als ein Trennzeichen interpretiert, so kommt es zu neuen und falschen Spaltenzuordnungen. Daher ist es wichtig, auf diese Formatierung zu achten und sie zu vereinheitlichen.
+
+Ein weiterer Punkt ist das so genannte Encoding einer Datei: Das bestimmt den Zeichensatz, der verwendet wird, kurz gesagt die Buchstaben. In deutschsprachigen Programmen ist es ganz klar, dass es Umlaute gibt, im englischen Sprachraum gibt es diese Zeichen nicht. Um die zahlreichen Umlaute in den österreichischen Gemeindenamen nicht zu verlieren, sollte man als Encoding immer UTF-8 verwenden.
+
+Das BMI (nicht nur) nutzt in den Namen von Bezirken - speziell Wien - teilweise Beistriche, was beim Export als CSV problematisch sein kann, daher sollte man diese Beistriche vorab löschen.
+
+Letzter Punkt ist die Formatierung: Englischsprachige Tools verwenden andere Trennzeichen in Zahlen als deutschsprachige Programme: Die Zahl 100.000,99 (100tausend Komma 99) versteht ein englischsprachiges Programm als 100,0 (plus Formatfehler). Umgekehrt würde sie englischsprachig so aussehen : 100,000.99.
+
+*Exkurs: Vom (deutschen) Excel zum (englischen) CSV*
+Es kann mitunter umständlich sein, aus einer Excel-Datei ein CSV zu machen, das dann problemlos weiterverwendet werden kann. Ein möglicher Weg ist:
+
+* zuerst im Excel einstellen, dass keine Tausender-Trennzeichen verwendet werden
+* die Excel-Datei dann mit "Speichern als" als "Unicode Text" speichern
+* anschließend diese Datei mit einem Texteditor (zb [Notepad++](https://notepad-plus-plus.org/) öffnen
+* mittels Suchen/Ersetzen alle "," durch "." ersetzen (ersetzt alle Komma-Zeichen)
+* die Datei verwendet wahrscheinlich das Tabulator-Zeichen als Trennzeichen zwischen Spalten - am besten markiert man den leeren Platz zwischen zwei Einträgen und kopiert diesen
+* mittels Suchen/Ersetzen alle "  " durch "," ersetzen (ersetzt alle Tabulator-Zeichen)
+* jetzt kann man die Dateiendung noch auf ".csv" ändern
+
+
+### die erste Grafik
+
+Wir bleiben vorerst einfach beim Österreich-Ergebnis und probieren eine erste Darstellung der Stimmanteile, also der Prozentwerte der KandidatInnen:
 
 ![Ergebnis BP-Wahl Beispiel 1](http://www.drawingdata.net/tutorial/1_pie_chart.jpg)
 
@@ -42,7 +87,9 @@ Die Darstellung hat aber noch Luft nach oben: Zunächst lässt sie sich dadurch 
 
 ![Ergebnis BP-Wahl Beispiel 3](http://www.drawingdata.net/tutorial/3_bar_chart_sorted.jpg)
 
-Es macht oft Sinn, Daten zu sortieren, bevor man sie visualisiert, da dadurch erst Muster klar erkennbar werden. Die Sortierung muss dabei auch nicht automatisch dem größten Wert folgen, es kann Sinn machen, Daten nach ganz anderen Kriterien zu sortieren. Im konkreten Fall freilich - siehe die Zielsetzung - ist die absteigende Reihung passend und verbessert die Aussage der Grafik. Die Reihenfolge ist auf einen Blick erkennbar, auch das relativ knappe Ergebnis zwischen Platz 2 und 3 gut vergleichbar.
+Es macht oft Sinn, Daten zu sortieren, bevor man sie visualisiert, da dadurch erst Muster klar erkennbar werden. Man nimmt so auch dem Betrachter viel Arbeit ab und hilft beim "Lesen" und Verstehen der Daten. 
+
+Die Sortierung muss dabei auch nicht automatisch dem größten Wert folgen, es kann Sinn machen, Daten nach ganz anderen Kriterien zu sortieren. Im konkreten Fall freilich - siehe die Zielsetzung - ist die absteigende Reihung passend und verbessert die Aussage der Grafik. Die Reihenfolge ist auf einen Blick erkennbar, auch das relativ knappe Ergebnis zwischen Platz 2 und 3 gut vergleichbar.
 
 Nachdem die grundlegende Form einmal stimmt, können wir den visuellen Eindruck noch ausbauen. Das beginnt bei den Farben: Diese sind zwar hier gut unterscheidbar, aber grell und wenig ansehnlich. Matte und gedeckte Farben sind in diesem Fall eine bessere Wahl.
 
@@ -103,17 +150,6 @@ In den Bundesländern finden sich vor allem die Landtagswahl-Ergebnisse, teilwei
 * [Vorarlberg](http://www.vorarlberg.at/wahlen)
 * [Wien](https://www.wien.gv.at/politik/wahlen/index.html)
 
-### Vorarbeiten mit den Daten
-Die Daten liegen üblicherweise entweder als Excel- oder CSV-Dateien vor. Beim Weiterverarbeiten ist u.a. zu beachten:
-
-* Oft ist es besser, in der Quelldatei mit den absoluten Zahlen zu arbeiten, und etwaige Prozent-Werte erst im Zuge der Visualisierung zu berechnen - das macht das Arbeiten flexibler, da man später weitere Berechnungen anstellen kann, ohne wieder rückrechnen zu müssen.
-* Formatierung: Englischsprachige Tools verwenden andere Trennzeichen als deutschsprachige Programme: Die Zahl 100.000,99 (100tausend Komma 99) versteht ein englischsprachiges Programm als 100,0 (plus Formatfehler).
-* Umgekehrt würde sie englischsprachig so aussehen : 100,000.99.
-* Ebenfalls verwendet das deutsche Layout im Excel den ";" als Trennzeichen in einer CSV-Datei, im Englischen wird das "," verwendet.
-* Daher die Daten möglichst "roh", also unformatiert, speichern, um sie gut weiterverarbeiten zu können.
-* Österreichs Länder und Gemeinden tragen zudem viele Umlaute im Namen - gerade beim Export einer CSV-Datei aus Excel sollte man daher aufs Encoding (UTF-8) achten.
-* Das BMI (nicht nur) nutzt in den Namen von Bezirken - speziell Wien - teilweise Beistriche, was beim Export als CSV problematisch sein kann - sollte vorab geändert werden.
-
 ### Österreich-Spezifika
 * Wahlrecht: Stimmenanteile berechnen sich immer nur auf die gültigen Stimmen; Wahlkarten werden bundesweit nur auf Bezirksebene gezählt, Gemeindeergebnisse sind immer ohne Wahlkarten (bei "Gemeinden" wie Linz oder Graz können Bezirk und Gemeinde identisch sein).
 * Daher enthalten die Excel-Dateien des BMI auch viele zusätzliche Ergebniszeilen neben den Gemeinden, die man je nach Bedarf filtern muss (Bezirke gesamt, nur Wahlkarten Bezirk, Wahlkreis, Bundesland gesamt usw.)
@@ -124,3 +160,8 @@ Unterschiedliche Typen von Grafiken eignen sich besser oder schlechter für vers
 
 * [Properties and Best Uses of Visual Encodings](https://ebiinterfaces.files.wordpress.com/2012/07/visualpropertiestable2.gif)
 * [The data Visualisation Catalogue](http://www.datavizcatalogue.com/)
+
+
+### Ressourcen
+
+tbc...
