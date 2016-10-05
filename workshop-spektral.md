@@ -8,7 +8,7 @@ comments: true
 <h4 class="text-center lead">Gemeinsam coden lernen - Wir zeigen dir wie du Ergebnisse von Wahlen visuell darstellst und mittels Programmiersprachen bearbeiten kannst.</h4>
 
 <div class="row col-xs-12 col-md-8">
-<p>Du möchtest gerne Coden lernen, hast das aber noch nie probiert und weißt nicht wo du starten sollst? Dann bist du an dem Abend gut aufgehoben. Erfahrene Trainer begleiten dich bei deinen ersten Schritten in der Programmier-Welt - von Scratch über HTML bis hin zu JavaScript. Dazu werden wir Ergebnisse von Wahlen bearbeiten und am Ende auf einer Karte visuell darstellen. Aber auch Apps oder Websites werden erstellt - je nachdem was dich interessiert bzw. wie erfahren du bist.</p>
+<p>Du möchtest gerne Coden lernen, hast es aber noch nie probiert und weißt nicht wo du starten sollst? Dann bist du an dem Abend gut aufgehoben. Erfahrene Trainer begleiten dich bei deinen ersten Schritten in der Programmier-Welt - von Scratch über HTML bis hin zu JavaScript. Dazu werden wir Ergebnisse von Wahlen bearbeiten und am Ende auf einer Karte visuell darstellen. Aber du kansnt auch deine erste Websites erstellen - gemacht wird, was dich interessiert bzw. was wir gemeinsam schaffen.</p>
 
 <ul>
 <li><strong>Datum:</strong> 19. Oktober 2016, 18-22 Uhr</li>
