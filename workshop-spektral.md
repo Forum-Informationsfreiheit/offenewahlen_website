@@ -30,7 +30,7 @@ Vielen Dank an das <a href="https://spektral.at/" title="Spektral">Spektral</a> 
 
 <div class="row col-sm-12">
 <h3>Ressourcen</h3>
-<p>Es ist keinerlei Vorwissen notwendig, um an dem Tag mitzumachen. Hier ein paar Info-Quellen für besonders Motivierte.</p>
+<p>Es ist keinerlei Vorwissen notwendig, um an dem Tag mitzumachen. Hier ein paar Ressourcen.</p>
 <div class="col-xs-12 col-sm-6">
 <h4>Coden lernen</h4>
 <ul>
