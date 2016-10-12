@@ -14,7 +14,7 @@ comments: true
 <li><strong>Datum:</strong> 19. Oktober 2016, 18-22 Uhr</li>
 <li><strong>Ort:</strong> <a href="https://spektral.at/" title="Spektral">Spektral</a> - Lendkai 45, 8020 Graz</li>
 <li><strong>Zielgruppen:</strong> AnfängerInnen, StudentInnen, Kreative, SchülerInnen</li>
-<li><strong>Trainer:</strong> <a href="https://stefankasberger.eu" title="Website">Stefan Kasberger</a></li>
+<li><strong>Trainer:</strong> <a href="http://stefankasberger.eu" title="Website">Stefan Kasberger</a></li>
 <li><strong>Anmelden:</strong> <a href="https://docs.google.com/forms/d/e/1FAIpQLSc0cf1YS88fsgaF9zejR_AhX0DqYoGdJIDy-1zRGlcGAgJdFg/viewform?entry.1560647131&entry.805191984&entry.1321289864&entry.1811347659=Ja" title="Anmeldung">Anmelde-Formular</a></li>
 <li><a href="http://pad.okfn.org/p/OffeneWahlenAT-Spektral" title="Etherpad">Etherpad</a>: zum Arbeiten vor Ort</li>
 <li><a href="https://twitter.com/search?f=tweets&q=%23OffeneWahlenAT&src=typd" title="OffeneWahlenAT"><i class="fa fa-hashtag" aria-hidden="true"></i>OffeneWahlenAT</a></li>
@@ -57,10 +57,15 @@ Vielen Dank an das <a href="https://spektral.at/" title="Spektral">Spektral</a> 
 <a class="logo" href="http://okfn.at" title="Open Knowledge Österreich"><img class="logo" src="{{ site.staticurl }}logos/logo-ok-at.svg" width="400" alt="Open Knowledge Österreich" /></a>
 <a class="logo" href="http://elevate.at/" title="Elevate Festival"><img class="logo" src="{{ site.staticurl }}logos/logo-elevate.png" width="400" alt="Elevate Festival" /></a>
 <a href="http://esc.mur.at/" title="esc medien kunst labor"><img class="logo" src="{{ site.staticurl }}logos/logo-esc.png" width="400" alt="esc medien kunst labor" /></a>
-<a class="logo" href="http://spektral.at/" title="Spektral"><img class="logo" src="{{ site.staticurl }}logos/logo-spektral.png" width="200" alt="Spektral" /></a>
+<a href="http://spektral.at/" title="Spektral"><img class="logo" src="{{ site.staticurl }}logos/logo-spektral.png" width="200" alt="Spektral" /></a>
 </div>
 
 <div class="col-sm-6">
 <p>Der Workshop ist ein Satelliten-Event des <a href="http://elevate.at" title="Elevate Festival">Elevate Festivals</a> und Teil der <a href="http://events.codeweek.eu/view/13031/coding-workshop-zu-wahlen/" title="EU Codeweek">EU CodeWeek</a>.</p>
 <p><a href="http://codeweek.eu/" title="EU CodeWeek"><img class="logo" src="{{ site.staticurl }}logos/logo-codeweek.jpg" width="200" alt="EU CodeWeek" /></a></p>
+</div>
+
+<div class="row col-xs-12">
+  <h4>Partner:</h4>
+  <a href="http://www.stadtlaborgraz.at/index.php/referenzen/forsch-gef/bdn" title="Büro der Nachbarschaften"><img class="logo" src="{{ site.staticurl }}logos/logo-buero-der-nachbarschaften.jpg" width="200" alt="Büro der Nachbarschaften" /></a>
 </div>

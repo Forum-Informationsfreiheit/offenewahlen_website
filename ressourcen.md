@@ -53,6 +53,9 @@ menu_ressourcen: true
 - [Manifest Project](https://manifestoproject.wzb.eu/)
 - [Chapel Hill](http://chesdata.eu/)
 - [Volksbegehren](https://github.com/OKFNat/data/tree/master/volksbegehren)
+- [European Social Survey](http://www.europeansocialsurvey.org/)
+  - [Austria](http://www.europeansocialsurvey.org/data/country.html?c=austria)
+  - [Politics](http://www.europeansocialsurvey.org/data/themes.html?t=politics)
 
 ### <i class="fa fa-university" aria-hidden="true"></i> Wahlforschung
 - [Wikipedia - Wahlforschung](https://de.wikipedia.org/wiki/Wahlforschung)

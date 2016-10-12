@@ -22,6 +22,13 @@ Details
 **Mitbringen**
 - Laptop mit Maus + Netzteil
 
+Vorbereiten
+- Text Editor installieren
+  - Windows
+  - Linux
+  - Mac
+
+
 ## ABLAUF
 
 | Timetable     | Agenda       |
@@ -72,3 +79,13 @@ Was du lernst: Python, Datenverarbeitung
 - offene wahlen mithelfen: 2-3 konkrete sachen anbieten: hackathon wien besuchen, text lektorieren, idee mit freunden diskutieren, website verteilen im social web,
 
 ## SONSTIGES
+
+
+
+<h2>Full online courses for advanced learners</h2>
+<ul>
+	<li><strong><a href="https://www.edx.org/course-list/allschools/computer-science/allcourses" target="_blank">edX</a></strong>: EdX offers interactive online classes and MOOCs from the world’s best universities. Online courses from MITx, HarvardX, BerkeleyX, UTx and many other universities.</li>
+	<li><strong><a href="http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/" target="_blank">MIT OpenCourseWare</a></strong>: MIT OpenCourseWare (OCW) is a web-based publication of virtually all MIT course content. OCW is open and available to the world and is a permanent MIT activity.</li>
+	<li><strong><a href="https://www.coursera.org/courses?orderby=upcoming&cats=cs-programming" target="_blank">Coursera</a></strong>: Coursera is an education platform that partners with top universities and organizations worldwide, to offer courses online for anyone to take, for free.</li>
+	<li><strong><a href="https://www.udacity.com/courses#!/all" target="_blank">Udacity</a></strong>: Online education that bridges the gap between academic and real world skills. Taught by industry leaders excited to share their expertise from companies such as Google, Facebook, Cloudera, and MongoDB.</li>
+</ul>
