@@ -61,7 +61,7 @@ Vielen Dank an das <a href="https://spektral.at/" title="Spektral">Spektral</a> 
 </div>
 
 <div class="col-sm-6">
-<p>Der Workshop ist ein Satelliten-Event des <a href="http://elevate.at" title="Elevate Festival">Elevate Festivals</a> und Teil der <a href="http://events.codeweek.eu/view/13031/coding-workshop-zu-wahlen/" title="EU Codeweek">EU CodeWeek</a>.</p>
+<p>Der Workshop findet als Satelliten-Event des <a href="http://elevate.at" title="Elevate Festival">Elevate Festivals</a> und im Zuge der <a href="http://events.codeweek.eu/view/13031/coding-workshop-zu-wahlen/" title="EU Codeweek">EU CodeWeek</a> statt.</p>
 <p><a href="http://codeweek.eu/" title="EU CodeWeek"><img class="logo" src="{{ site.staticurl }}logos/logo-codeweek.jpg" width="200" alt="EU CodeWeek" /></a></p>
 </div>
 
