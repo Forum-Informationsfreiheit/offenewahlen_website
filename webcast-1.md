@@ -18,12 +18,6 @@ comments: true
 </div>
 
 <div class="row col-xs-12">
-<h3 class="text-center">Nimm am Webcast teil!</h3>
-<p>Als Software für den Webcast verwenden wir Google Hangout, damit können bis zu 15 Personen teilnehmen. </p>
-<h4 class="text-center"><a href="https://hangouts.google.com/hangouts/_/ytl/xxxCapOs7Jx6CuB_I8kfZNiCorAgOGeRev7h_dkjVQQ=" title="Offene Wahlen Webcast" class="highlight-link">Google Hangout starten!</a></h4>
-
-<p>Wenn du Google Hangouts zum ersten mal verwendest, wirst du aufgefordert, ein Browser-Plugin zu installieren (alles selbsterklärend sobald du auf den Link klickst), dauert ca. 3 Minuten. Daher am besten kurz vorher starten und testen.</p>
-
 <h3 class="text-center">Schick uns deine Fragen!</h3>
 Wenn du nicht teilnehmen kannst, hinterlasse deine Fragen, Anregungen und Feedback für den Webcast:
 <ul>
