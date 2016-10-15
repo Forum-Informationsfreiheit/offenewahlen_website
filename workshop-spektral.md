@@ -15,7 +15,7 @@ comments: true
 <li><strong>Ort:</strong> <a href="https://spektral.at/" title="Spektral">Spektral</a> - Lendkai 45, 8020 Graz</li>
 <li><strong>Zielgruppen:</strong> AnfängerInnen, StudentInnen, Kreative, SchülerInnen</li>
 <li><strong>Trainer:</strong> <a href="http://stefankasberger.eu" title="Website">Stefan Kasberger</a></li>
-<li><strong>Anmelden:</strong> <a href="https://docs.google.com/forms/d/e/1FAIpQLSc0cf1YS88fsgaF9zejR_AhX0DqYoGdJIDy-1zRGlcGAgJdFg/viewform?entry.1560647131&entry.805191984&entry.1321289864&entry.1811347659=Ja" title="Anmeldung">Anmelde-Formular</a></li>
+<li><strong>Anmelden:</strong> Bitte das <a href="https://docs.google.com/forms/d/e/1FAIpQLSc0cf1YS88fsgaF9zejR_AhX0DqYoGdJIDy-1zRGlcGAgJdFg/viewform?entry.1560647131&entry.805191984&entry.1321289864&entry.1811347659=Ja" title="Anmeldung">Anmelde-Formular</a> ausfüllen, damit wir uns auf besser vorbereiten können.</li>
 <li><a href="http://pad.okfn.org/p/OffeneWahlenAT-Spektral" title="Etherpad">Etherpad</a>: zum Arbeiten vor Ort</li>
 <li><a href="https://twitter.com/search?f=tweets&q=%23OffeneWahlenAT&src=typd" title="OffeneWahlenAT"><i class="fa fa-hashtag" aria-hidden="true"></i>OffeneWahlenAT</a></li>
 <li><strong>Mitnehmen:</strong> Laptop, Netzteil</li>
