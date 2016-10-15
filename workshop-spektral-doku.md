@@ -36,11 +36,11 @@ Vorbereiten
 | 18:00 - 18:10 | Willkommen |
 | 18:10 - 18:30 | Einleitung & Vorstellungsrunde |
 | 18:30 - 18:45 | Gruppen bilden |
-| 18:45 - 20:00 | Coden: Setup, erste Schritte |
+| 18:45 - 20:00 | Coden: Setup, Einführung, erste Schritte |
 | 20:00 - 20:15 | PAUSE |
-| 20:15 - 21:30 | Coden |
-| 21:30 - 21:45 | Show & Tell |
-| 21:45 - 22:00 | Sum Up & Good Bye |
+| 20:15 - 21:45 | Coden |
+| 21:45 - 21:55 | Show & Tell |
+| 21:55 - 22:00 | Sum Up & Good Bye |
 | 22:00         | ENDE |
 
 Einleitung
@@ -56,20 +56,15 @@ Einleitung
 
 **Quellen**
 
-### Aufgabe 1: Logik lernen mit Scratch (AnfängerInnen)
-Was du lernst: Logik des Programmierens
-
-### Aufgabe 2a: Wahlkarte mit JavaScript (AnfängerInnen)
+### Wahlkarte mit JavaScript (AnfängerInnen)
 Was du lernst: JavaScript
 
-### Aufgabe 2b: Säulendiagramm mit JavaScript (AnfängerInnen)
+### Säulendiagramm mit JavaScript (AnfängerInnen)
 Was du lernst: JavaScript
 
-### Aufgabe 3: Website mit GitHub (AnfängerInnen)
+### Website mit GitHub (AnfängerInnen)
 Was du lernst: HTML, GitHub Pages, CSS,
 
-### Aufgabe 4: Daten aufbereiten mit Python (Fortgeschritten)
-Was du lernst: Python, Datenverarbeitung
 
 ### Wie weiter machen?
 - Ressourcen anbieten
