@@ -23,6 +23,7 @@ menu_beitragen: true
 <img src="{{ site.staticurl }}blog/2016/10/refugeehack.jpg" alt="Bild Hackathon" class="img-rounded">
 <p>Besuche eine unserer Veranstaltungen. Wir suchen noch Freiwillige die Mithelfen und Sponsoren.</p>
 <a href="/workshop-spektral" title="Coding Workshop Spektral" class="highlight-link">19. Oktober: Coding Workshop für AnfängerInnen @ Spektral Graz</a>
+<a href="/webcast-1" title="Offene Wahlen Webcast" class="highlight-link">8. November: Offene Wahlen Webcast</a>
 <a href="/hackathon-metalab" title="Hackathon Metalab" class="highlight-link">19. November: Hackathon @ metalab Wien</a>
 </div>
 
