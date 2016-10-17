@@ -14,7 +14,7 @@ comments: true
 <li><strong>Datum:</strong> 19. Oktober 2016, 18-22 Uhr</li>
 <li><strong>Ort:</strong> <a href="https://spektral.at/" title="Spektral">Spektral</a> - Lendkai 45, 8020 Graz</li>
 <li><strong>Zielgruppe:</strong> AnfängerInnen, StudentInnen, Kreative, SchülerInnen</li>
-<li><strong>Trainer:</strong> <a href="http://stefankasberger.eu" title="Website">Stefan Kasberger</a></li>
+<li><strong>Trainer:</strong> <a href="http://stefankasberger.eu" title="Website">Stefan Kasberger</a>, <a href="http://petergrassberger.com/" title="Peter Grassberger">Peter Grassberger</a>, <a href="http://drawingdata.net/" title="Flooh Perlot">Flooh Perlot</a>, <a href="http://christopherkittel.eu/" title="Christopher Kittel">Christopher Kittel</a></li>
 <li><strong><a href="/workshop-spektral-doku" title="Dokumentation">Dokumentation</a></strong></li>
 <li><strong>Anmelden:</strong> Bitte das <a href="https://docs.google.com/forms/d/e/1FAIpQLSc0cf1YS88fsgaF9zejR_AhX0DqYoGdJIDy-1zRGlcGAgJdFg/viewform?entry.1560647131&entry.805191984&entry.1321289864&entry.1811347659=Ja" title="Anmeldung">Anmelde-Formular</a> ausfüllen, damit wir uns auf besser vorbereiten können.</li>
 <li><a href="http://pad.okfn.org/p/OffeneWahlenAT-Spektral" title="Etherpad">Etherpad</a>: zum Arbeiten vor Ort</li>
