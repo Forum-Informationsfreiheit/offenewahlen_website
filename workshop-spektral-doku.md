@@ -5,34 +5,27 @@ permalink: /workshop-spektral-doku
 comments: true
 ---
 
-<a href="https://twitter.com/search?f=tweets&q=%23OffeneWahlenAT&src=typd" title="OffeneWahlenAT"><i class="fa fa-hashtag" aria-hidden="true"></i>OffeneWahlenAT</a>
+**Details**
 
-**[Coding Workshop](/workshop-spektral)**
-
-Zweck
-- Coden lernen
-- in Gruppen lernen
-- Wahldaten nutzen
-- Spaß haben, neue Menschen kennen lernen
-
-Details
-- Betreuer: [Stefan Kasberger](http://stefankasberger.at) (Open Knowledge Austria)
+- [Website](/workshop-spektral)
+- Betreuer: [Stefan Kasberger](http://stefankasberger.at) (Open Knowledge Austria), [Peter Grassberger](http://petergrassberger.com/), [Flooh Perlot](http://drawingdata.net/), [Christopher Kittel](http://christopherkittel.eu/)
+- <a href="https://twitter.com/search?f=tweets&q=%23OffeneWahlenAT&src=typd" title="OffeneWahlenAT"><i class="fa fa-hashtag" aria-hidden="true"></i>OffeneWahlenAT</a>
 - UrheberInnenrecht: Der Inhalt steht, soweit nicht explizit anders erwähnt, unter der [Creative Commons Namensnennung 4.0 Lizenz](https://creativecommons.org/licenses/by/4.0/).
 
-**Mitbringen**
-- Laptop mit Maus + Netzteil
 
-Vorbereiten
+**Mitbringen**: Laptop mit Maus + Netzteil
+
+**Vorbereiten**
+
+- Browser installieren (Firefox oder Chrome wird empfohlen)
 - Text Editor installieren
-  - Windows
-  - Linux
-  - Mac
-
+- Optional
+  - [Tutorial Visualisierungen](/visualisierungen) ansehen
 
 ## ABLAUF
 
 | Timetable     | Agenda       |
-|---------------|--------------|
+| ------------- | ------------ |
 | 18:00 - 18:10 | Willkommen |
 | 18:10 - 18:30 | Einleitung & Vorstellungsrunde |
 | 18:30 - 18:45 | Gruppen bilden |
@@ -43,44 +36,63 @@ Vorbereiten
 | 21:55 - 22:00 | Sum Up & Good Bye |
 | 22:00         | ENDE |
 
-Einleitung
-- ABLAUF
-- Vorstellungsrunde
-- offene Wahlen
-- OK-AT
-
-### Einleitung Coden
-- Unterschiede in Programmiersprachen erklären die wir uns heute ansehen werden. (JavaScript, HTML)
-- Einfache Tools die einem Arbeit abnehmen zeigen
-- Offene Wahlen
-
-**Quellen**
-
-### Wahlkarte mit JavaScript (AnfängerInnen)
-Was du lernst: JavaScript
-
-### Säulendiagramm mit JavaScript (AnfängerInnen)
-Was du lernst: JavaScript
+### Einleitung
+- Willkommen
+- Ablauf
+- Vorstellen Trainer, Event und Offene Wahlen
+- Vorstellungsrunde TeilnehmerInnen
 
 ### Website mit GitHub (AnfängerInnen)
-Was du lernst: HTML, GitHub Pages, CSS,
+Was du lernst: HTML, GitHub Pages, CSS.
 
+[GitHub Pages](https://pages.github.com/)
 
-### Wie weiter machen?
-- Ressourcen anbieten
-- gibt es Treffen/Meetups in Graz dazu?
-- ergebnisse teilen: twittern, facebook,
-- ergebnisse online stellen: offenewahlen.at,
-- offene wahlen mithelfen: 2-3 konkrete sachen anbieten: hackathon wien besuchen, text lektorieren, idee mit freunden diskutieren, website verteilen im social web,
+[Bootstrap](http://getbootstrap.com/)
 
-## SONSTIGES
+[Font Awesome](http://fontawesome.io/)
 
+[Markdown](https://daringfireball.net/projects/markdown/), [GitHub Flavour](https://guides.github.com/features/mastering-markdown/)
 
+### Einführung in das Programmieren mit JavaScript
+Was du lernst: die Grundlagen des Programmierens in JavaScript.
 
-<h2>Full online courses for advanced learners</h2>
+[JavaScript](https://www.javascript.com/)
+
+### Säulendiagramm mit JavaScript (AnfängerInnen)
+Was du lernst: Wahlergebnisse als Säulendiagramm in JavaScript darstellen.
+
+### Wahlkarte mit JavaScript (AnfängerInnen)
+Was du lernst: Wahlergebnisse mittels JavaScript auf einer Karte darstellen.
+
+## WIE WEITER MACHEN?
+- Ergebnisse online stellen: offenewahlen.at,
+- Ergebnisse teilen: twittern, facebook,
+- auf Ressourcen verweisen
+- Beitragen zu Offene Wahlen:
+  - Thema zusammenfassen
+  - Idee mit FreundInnen diskutieren und im Web verbreiten
+  - Daten nutzen: Visualisierungen, etc.
+
+## RESOURCEN
+
+### Coden lernen
+- [w3schools](http://www.w3schools.com/): Lerne Web-Technologien wie HTML, CSS und JavaScript.
+- [Code.org](https://code.org/learn)
+- [Code Academy](https://www.codecademy.com/)
+- [Code School](https://www.codeschool.com/)
+- [SelfHTML](https://wiki.selfhtml.org/)
+- [CSS4you](www.css4you.de/)
+
+### Tools
+- Browser Plugins:
+  - Web Developer: [Firefox](https://addons.mozilla.org/de/firefox/addon/web-developer/), [Chrome](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm)
+  - Firebug: [Firefox](https://addons.mozilla.org/de/firefox/addon/firebug/)
+
+### Online Kurse
+
 <ul>
-	<li><strong><a href="https://www.edx.org/course-list/allschools/computer-science/allcourses" target="_blank">edX</a></strong>: EdX offers interactive online classes and MOOCs from the world’s best universities. Online courses from MITx, HarvardX, BerkeleyX, UTx and many other universities.</li>
-	<li><strong><a href="http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/" target="_blank">MIT OpenCourseWare</a></strong>: MIT OpenCourseWare (OCW) is a web-based publication of virtually all MIT course content. OCW is open and available to the world and is a permanent MIT activity.</li>
-	<li><strong><a href="https://www.coursera.org/courses?orderby=upcoming&cats=cs-programming" target="_blank">Coursera</a></strong>: Coursera is an education platform that partners with top universities and organizations worldwide, to offer courses online for anyone to take, for free.</li>
-	<li><strong><a href="https://www.udacity.com/courses#!/all" target="_blank">Udacity</a></strong>: Online education that bridges the gap between academic and real world skills. Taught by industry leaders excited to share their expertise from companies such as Google, Facebook, Cloudera, and MongoDB.</li>
+	<li><a href="https://www.edx.org/course-list/allschools/computer-science/allcourses" target="_blank">edX</a></li>
+	<li><a href="http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/" target="_blank">MIT OpenCourseWare</a></li>
+	<li><a href="https://www.coursera.org/courses?orderby=upcoming&cats=cs-programming" target="_blank">Coursera</a></li>
+	<li><a href="https://www.udacity.com/courses#!/all" target="_blank">Udacity</a></li>
 </ul>

@@ -13,12 +13,14 @@ comments: true
 <ul>
 <li><strong>Datum:</strong> 19. Oktober 2016, 18-22 Uhr</li>
 <li><strong>Ort:</strong> <a href="https://spektral.at/" title="Spektral">Spektral</a> - Lendkai 45, 8020 Graz</li>
-<li><strong>Zielgruppen:</strong> AnfängerInnen, StudentInnen, Kreative, SchülerInnen</li>
+<li><strong>Zielgruppe:</strong> AnfängerInnen, StudentInnen, Kreative, SchülerInnen</li>
 <li><strong>Trainer:</strong> <a href="http://stefankasberger.eu" title="Website">Stefan Kasberger</a></li>
+<li><strong><a href="/workshop-spektral-doku" title="Dokumentation">Dokumentation</a></strong></li>
 <li><strong>Anmelden:</strong> Bitte das <a href="https://docs.google.com/forms/d/e/1FAIpQLSc0cf1YS88fsgaF9zejR_AhX0DqYoGdJIDy-1zRGlcGAgJdFg/viewform?entry.1560647131&entry.805191984&entry.1321289864&entry.1811347659=Ja" title="Anmeldung">Anmelde-Formular</a> ausfüllen, damit wir uns auf besser vorbereiten können.</li>
 <li><a href="http://pad.okfn.org/p/OffeneWahlenAT-Spektral" title="Etherpad">Etherpad</a>: zum Arbeiten vor Ort</li>
 <li><a href="https://twitter.com/search?f=tweets&q=%23OffeneWahlenAT&src=typd" title="OffeneWahlenAT"><i class="fa fa-hashtag" aria-hidden="true"></i>OffeneWahlenAT</a></li>
-<li><strong>Mitnehmen:</strong> Laptop, Netzteil</li>
+<li><strong>Mitnehmen:</strong> Laptop mit Netzteil, optional Maus.</li>
+<li><strong>Vorbereiten:</strong> Ein Browser und Text-Editor sollte installiert sein.</li>
 <li>Kein Eintritt</li>
 </ul>
 
@@ -35,7 +37,6 @@ Vielen Dank an das <a href="https://spektral.at/" title="Spektral">Spektral</a> 
 <h4>Coden lernen</h4>
 <ul>
 <li><a href="http://www.w3schools.com/" title="w3schools.com">w3schools.com</a>: Lerne Web-Technologien wie HTML, CSS und JavaScript.</li>
-<li><a href="https://scratch.mit.edu/projects/76322168/?tip_bar=odetocode#editor" title="Scratch - Ode to Code">Scratch - Ode to Code</a></li>
 <li><a href="https://code.org/learn" title="Code.org">Code.org</a></li>
 <li><a href="https://www.codecademy.com/" title="Code Academy">CodeAcademy</a></li>
 <li><a href="https://www.codeschool.com/" title="Code School">Code School</a></li>
