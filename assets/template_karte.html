@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<title>Landkarte</title>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.17/d3.js" charset="utf-8"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/topojson/1.6.20/topojson.js" charset="utf-8"></script>
+<body>
+
+<script>
+var margin = { top:10, bottom:10, left:30, right:30, between:20 };
+var width = window.innerWidth - margin.left - margin.right;
+var height = window.innerHeight - margin.top - margin.bottom;
+
+var kandidaten = ["Griss", "Hofer", "Hundstorfer", "Khol", "Lugner", "Van der Bellen"];
+var farben = {"Griss":"#8E88A7", "Hofer":"#2657A8", "Hundstorfer":"#C83D44", "Khol":"#191919", "Lugner":"#E7B500", "Van der Bellen":"#89A04F"};
+
+var svg = d3.select("body").append("svg")
+	.attr("width", width)
+	.attr("height", height)
+	.attr("id", "svg");
+	
+var projection = d3.geo.mercator();
+var gemeinden = d3.geo.path().projection(projection);
+projection.scale(1).translate([0, 0]);
+
+d3.json("gemeinden.json", function(data)
+	{	
+	var map = topojson.feature(data, data.objects.gemeinden);
+		
+	b = gemeinden.bounds(map);	
+	box = d3.geo.bounds(map);	
+	var s = .95 / Math.max((b[1][0] - b[0][0]) / width, (b[1][1] - b[0][1]) / height);
+	projection.scale(s).center([(box[0][0]+box[1][0])/2,(box[0][1]+box[1][1])/2]).translate([width / 2, height / 2]);
+	
+	d3.csv("gemeindeergebnisse.csv", function(ergebnisse)
+		{
+		for (var i = 0; i < ergebnisse.length; i++)
+			{
+			for (var x in ergebnisse[i])
+				{
+				if (x != "GKZ" && x != "Gebietsname") ergebnisse[i][x] = +ergebnisse[i][x];
+				}			
+			}		
+		});
+	});
+
+</script>
+</body>
