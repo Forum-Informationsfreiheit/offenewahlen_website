@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<head>
+<title>Test</title>
+<meta charset="utf-8">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.17/d3.js" charset="utf-8"></script>
+</head>
+<body>
+<script>
+//anfang vorlage
+var margin = { top: 20, right: 10, bottom: 20, left: 10 };
+var width = window.innerWidth - margin.left - margin.right;
+var height = window.innerHeight - margin.top - margin.bottom;
+
+//svg erzeugen
+var svg = d3.select("body")
+	.append("svg")
+	.attr("width", width)
+	.attr("height", height)
+	.attr("id", "svg")
+	.append("g")
+	.attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+//ende vorlage
+
+</script>
+</body>
+</html>
