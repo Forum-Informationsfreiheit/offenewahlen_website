@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<head>
+<title>Test</title>
+<meta charset="utf-8">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.17/d3.js" charset="utf-8"></script>
+</head>
+<body>
+
+<script>
+var margin = { top: 20, right: 10, bottom: 20, left: 10 };  //abstände, damit die grafik nicht am seitenrand "klebt"
+var width = window.innerWidth - margin.left - margin.right;  //die ganze fensterbreite nutzen
+var height = window.innerHeight - margin.top - margin.bottom;  //die ganze fensterhöhe nutzen
+
+//svg erzeugen und in der variablen "svg" speichern
+var svg = d3.select("body")
+	.append("svg")
+	.attr("width", width)
+	.attr("height", height)
+	.attr("id", "svg")
+	.append("g")
+	.attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+//die einzelnen schritte werden durch das entfernen der // abgerufen - immer nur einen step aktivieren
+
+//step_1();  //alles statisch und hardcoded, erklärung ad koordinationsystem, höhe umdrehen
+//step_2();  //positionierung und größe relativ, abstand als variable; höhe als prozentwert verwenden, breite und höhe variieren
+//step_3();  //farben; hex und rgb kurz erklären; farben ausprobieren
+//step_4();  //array; loop; variable länge verwenden
+//step_5();  //sortierung, array of objects; beschriftung
+
+function step_1()
+{
+svg.append("rect")  //zeichnen eines rechtecks auf dem svg
+	.attr("x", 0)  //x-koordinate der linken oberen ecke des rechtecks = 0
+	.attr("y", 100 - 18.94) //y-koordinate = gewünschte grundlinie - wert; //ist nötig, da die ursprungskoordinaten einer grafik immer links oben sind
+	.attr("width", 50)  //breite rechteck = 50 pixel
+	.attr("height", 18.94)  //höhe rechteck = 18.94pixel = ergebnis
+	.style("fill", "grey");  //farbe des rechtecks = grau
+	
+svg.append("rect")
+	.attr("x", 55)  //der zweite balken wird neben dem ersten balken positioniert: breite des ersten balkens + 5 pixel abstand
+	.attr("y", 100 - 35.05)  //anpassung des werts
+	.attr("width", 50)
+	.attr("height", 35.05)
+	.style("fill", "grey");
+	
+svg.append("rect")
+	.attr("x", 110)
+	.attr("y", 100 - 11.28)
+	.attr("width", 50)
+	.attr("height", 11.28)
+	.style("fill", "grey");
+	
+svg.append("rect")
+	.attr("x", 165)
+	.attr("y", 100 - 11.12)
+	.attr("width", 50)
+	.attr("height", 11.12)
+	.style("fill", "grey");
+	
+svg.append("rect")
+	.attr("x", 220)
+	.attr("y", 100 - 2.26)
+	.attr("width", 50)
+	.attr("height", 2.26)
+	.style("fill", "grey");
+	
+svg.append("rect")
+	.attr("x", 275)
+	.attr("y", 100 - 21.34)
+	.attr("width", 50)
+	.attr("height", 21.34)
+	.style("fill", "grey");
+}
+
+function step_2()
+{
+var abstand = 5;  //abstand als variable definieren - damit kann man den wert leicht ändern
+var balkenbreite = width / 6 - abstand;  //breite der balken im verhältnis zur breite des svg berechnen
+var balkenhoehe = height - margin.top - margin.bottom;  //die ganze höhe für die balken ausnutzen
+
+svg.append("rect")
+	.attr("x", balkenbreite * 0 + abstand * 0)  //alle angaben bleiben gleich wie bei step_1, nur ersetzen wir die zahlen durch die neuen variablen
+	.attr("y", balkenhoehe - balkenhoehe * 18.94 / 100)
+	.attr("width", balkenbreite)
+	.attr("height", balkenhoehe * 18.94 / 100)  //die höhe des balkens als prozentwert der gesamthöhe berechnen
+	.style("fill", "grey");
+	
+svg.append("rect")
+	.attr("x", balkenbreite * 1 + abstand * 1)
+	.attr("y", balkenhoehe - balkenhoehe * 35.05 / 100)
+	.attr("width", balkenbreite)
+	.attr("height", balkenhoehe * 35.05 / 100)
+	.style("fill", "grey");
+	
+svg.append("rect")
+	.attr("x", balkenbreite * 2 + abstand * 2)
+	.attr("y", balkenhoehe - balkenhoehe * 11.28 / 100)
+	.attr("width", balkenbreite)
+	.attr("height", balkenhoehe * 11.28 / 100)
+	.style("fill", "grey");
+	
+svg.append("rect")
+	.attr("x", balkenbreite * 3 + abstand * 3)
+	.attr("y", balkenhoehe - balkenhoehe * 11.12 / 100)
+	.attr("width", balkenbreite)
+	.attr("height", balkenhoehe * 11.12 / 100)
+	.style("fill", "grey");
+	
+svg.append("rect")
+	.attr("x", balkenbreite * 4 + abstand * 4)
+	.attr("y", balkenhoehe - balkenhoehe * 2.26 / 100)
+	.attr("width", balkenbreite)
+	.attr("height", balkenhoehe * 2.26 / 100)
+	.style("fill", "grey");
+	
+svg.append("rect")
+	.attr("x", balkenbreite * 5 + abstand * 5)
+	.attr("y", balkenhoehe - balkenhoehe * 21.34 / 100)
+	.attr("width", balkenbreite)
+	.attr("height", balkenhoehe * 21.34 / 100)
+	.style("fill", "grey");
+}
+
+
+function step_3()
+{
+//http://www.w3schools.com/colors/colors_picker.asp
+//http://tristen.ca/hcl-picker/#/hlc/6/1/15534C/E2E062
+
+var abstand = 5;
+var balkenbreite = width / 6 - abstand;
+var balkenhoehe = height - margin.top - margin.bottom;
+
+svg.append("rect")
+	.attr("x", balkenbreite * 0 + abstand * 0)
+	.attr("y", balkenhoehe - balkenhoehe * 18.94 / 100)
+	.attr("width", balkenbreite)
+	.attr("height", balkenhoehe * 18.94 / 100)
+	.style("fill", "#8E88A7");  //alles bleibt gleich, aber wir geben jedem balken eine individuelle farbe
+	
+svg.append("rect")
+	.attr("x", balkenbreite * 1 + abstand * 1)
+	.attr("y", balkenhoehe - balkenhoehe * 35.05 / 100)
+	.attr("width", balkenbreite)
+	.attr("height", balkenhoehe * 35.05 / 100)
+	.style("fill", "#2657A8");
+	
+svg.append("rect")
+	.attr("x", balkenbreite * 2 + abstand * 2)
+	.attr("y", balkenhoehe - balkenhoehe * 11.28 / 100)
+	.attr("width", balkenbreite)
+	.attr("height", balkenhoehe * 11.28 / 100)
+	.style("fill", "#C83D44");
+	
+svg.append("rect")
+	.attr("x", balkenbreite * 3 + abstand * 3)
+	.attr("y", balkenhoehe - balkenhoehe * 11.12 / 100)
+	.attr("width", balkenbreite)
+	.attr("height", balkenhoehe * 11.12 / 100)
+	.style("fill", "#191919");
+	
+svg.append("rect")
+	.attr("x", balkenbreite * 4 + abstand * 4)
+	.attr("y", balkenhoehe - balkenhoehe * 2.26 / 100)
+	.attr("width", balkenbreite)
+	.attr("height", balkenhoehe * 2.26 / 100)
+	.style("fill", "#E7B500");
+	
+svg.append("rect")
+	.attr("x", balkenbreite * 5 + abstand * 5)
+	.attr("y", balkenhoehe - balkenhoehe * 21.34 / 100)
+	.attr("width", balkenbreite)
+	.attr("height", balkenhoehe * 21.34 / 100)
+	.style("fill", "#89A04F");
+}
+
+
+function step_4()
+{
+var ergebnis = [18.94, 35.05, 11.28, 11.12, 2.26, 21.34]; //die ergebnisse in einem array speichern - achtung, der erste wert steht immer an position 0
+var farben = ["#8E88A7", "#2657A8", "#C83D44", "#191919", "#E7B500", "#89A04F"];  //die farben in einem array speichern - achtung, muss gleich geordnet sein wie die ergebnisse
+
+var abstand = 5;
+var balkenbreite = width / ergebnis.length - abstand;  //die balkenbreite auf basis der anzahl der werte im array berechnen
+var balkenhoehe = height - margin.top - margin.bottom;
+
+for (var i = 0; i < ergebnis.length; i++)  //for-schleife; zählervariable i festlegen, die schleife läuft solange, solange i kleiner als die länge des array ist
+	{
+	svg.append("rect")
+		.attr("x", balkenbreite * i + abstand * i)  //x-position berechnen
+		.attr("y", balkenhoehe - balkenhoehe * ergebnis[i] / 100)  //ergebnis an der stelle i im array ergebnis abrufen
+		.attr("width", balkenbreite)
+		.attr("height", balkenhoehe * ergebnis[i] / 100)
+		.style("fill", farben[i]);  //farbe an der stelle i im array farbe abrufen
+	}
+}
+
+
+function step_5()
+{
+var ergebnis = [18.94, 35.05, 11.28, 11.12, 2.26, 21.34];
+var farben = ["#8E88A7", "#2657A8", "#C83D44", "#191919", "#E7B500", "#89A04F"];
+
+ergebnis.sort(function(a, b) { return a < b; });  // sortiert den array, allerdings nicht die farben - aufbau eines neuen arrays, bestehend aus kandidaten-objects, mit den eigenschaften "name", "ergebnis" und farbe
+
+var ergebnis = [
+	{"name":"Griss", "ergebnis":18.94, "farbe":"#8E88A7"},  //achtung, zahlen stehen ohne "", der rest mit ""
+	{"name":"Hofer", "ergebnis":35.05, "farbe":"#2657A8"},
+	{"name":"Hundstorfer", "ergebnis":11.28, "farbe":"#C83D44"},
+	{"name":"Khol", "ergebnis":11.12, "farbe":"#191919"},
+	{"name":"Lugner", "ergebnis":2.26, "farbe":"#E7B500"},
+	{"name":"Van der Bellen", "ergebnis":21.34, "farbe":"#89A04F"},
+	];
+
+ergebnis.sort(function(a, b) { return a.ergebnis < b.ergebnis; });  //den array sortieren - um jetzt an das ergebnis zu kommen, muss die eigenschaft mit .ergebnis direkt angesprochen werden
+
+var abstand = 5;
+var balkenbreite = width / ergebnis.length - abstand;
+var balkenhoehe = height - margin.top - margin.bottom;
+
+for (var i = 0; i < ergebnis.length; i++)
+	{
+	svg.append("rect")
+		.attr("x", balkenbreite * i + abstand * i)
+		.attr("y", balkenhoehe - balkenhoehe * ergebnis[i].ergebnis / 100)  //ergebnis direkt ansprechen
+		.attr("width", balkenbreite)
+		.attr("height", balkenhoehe * ergebnis[i].ergebnis / 100)
+		.style("fill", ergebnis[i].farbe);
+	
+	svg.append("text")  //beschriftung anhängen
+		.attr("x", balkenbreite * i + abstand * i + balkenbreite / 2)  //text in die mitte des balkens schieben
+		.attr("y", balkenhoehe - balkenhoehe * ergebnis[i].ergebnis / 100 - 5)  //etwas über dem balken positionieren
+		.style("fill", ergebnis[i].farbe)  //schriftfarbe
+		.style("font-size", "24px")  //schriftgröße
+		.style("text-anchor", "middle")  //zentrieren
+		.text(ergebnis[i].ergebnis);  //der text an sich
+	}
+}
+</script>
+</body>
+</html>
