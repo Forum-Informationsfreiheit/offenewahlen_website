@@ -15,8 +15,6 @@ comments: true
 <li><strong>Ort:</strong> <a href="https://spektral.at/" title="Spektral">Spektral</a> - Lendkai 45, 8020 Graz</li>
 <li><strong>Zielgruppe:</strong> AnfängerInnen, StudentInnen, Kreative, SchülerInnen</li>
 <li><strong>Trainer:</strong> <a href="http://stefankasberger.eu" title="Website">Stefan Kasberger</a>, <a href="http://petergrassberger.com/" title="Peter Grassberger">Peter Grassberger</a>, <a href="http://drawingdata.net/" title="Flooh Perlot">Flooh Perlot</a>, <a href="http://christopherkittel.eu/" title="Christopher Kittel">Christopher Kittel</a></li>
-<li><strong><a href="/workshop-spektral-doku" title="Dokumentation">Dokumentation</a></strong></li>
-<li><strong>Anmelden:</strong> Bitte das <a href="https://docs.google.com/forms/d/e/1FAIpQLSc0cf1YS88fsgaF9zejR_AhX0DqYoGdJIDy-1zRGlcGAgJdFg/viewform?entry.1560647131&entry.805191984&entry.1321289864&entry.1811347659=Ja" title="Anmeldung">Anmelde-Formular</a> ausfüllen, damit wir uns auf besser vorbereiten können.</li>
 <li><a href="http://pad.okfn.org/p/OffeneWahlenAT-Spektral" title="Etherpad">Etherpad</a>: zum Arbeiten vor Ort</li>
 <li><a href="https://twitter.com/search?f=tweets&q=%23OffeneWahlenAT&src=typd" title="OffeneWahlenAT"><i class="fa fa-hashtag" aria-hidden="true"></i>OffeneWahlenAT</a></li>
 <li><strong>Mitnehmen:</strong> Laptop mit Netzteil, optional Maus.</li>
@@ -28,27 +26,11 @@ Vielen Dank an das <a href="https://spektral.at/" title="Spektral">Spektral</a> 
 </div>
 
 <div class="col-xs-12 col-sm-4">
-<iframe width="220" height="200" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://www.openstreetmap.org/export/embed.html?bbox=15.4314860701561%2C47.074553601949326%2C15.43485224246979%2C47.07619396057556&amp;layer=mapnik&amp;marker=47.075373787574264%2C15.43317049741745" style="border: 1px solid black"></iframe><br/><small><a href="http://www.openstreetmap.org/?mlat=47.07537&amp;mlon=15.43317#map=19/47.07537/15.43317">View Larger Map</a></small></div>
+<iframe width="220" height="200" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://www.openstreetmap.org/export/embed.html?bbox=15.4314860701561%2C47.074553601949326%2C15.43485224246979%2C47.07619396057556&amp;layer=mapnik&amp;marker=47.075373787574264%2C15.43317049741745" style="border: 1px solid black"></iframe><br/><small><a href="http://www.openstreetmap.org/?mlat=47.07537&amp;mlon=15.43317#map=19/47.07537/15.43317">View Larger Map</a></small>
+</div>
 
 <div class="row col-sm-12">
-<h3>Ressourcen</h3>
-<p>Es ist keinerlei Vorwissen notwendig, um an dem Tag mitzumachen. Hier ein paar Ressourcen.</p>
-<div class="col-xs-12 col-sm-6">
-<h4>Coden lernen</h4>
-<ul>
-<li><a href="http://www.w3schools.com/" title="w3schools.com">w3schools.com</a>: Lerne Web-Technologien wie HTML, CSS und JavaScript.</li>
-<li><a href="https://code.org/learn" title="Code.org">Code.org</a></li>
-<li><a href="https://www.codecademy.com/" title="Code Academy">CodeAcademy</a></li>
-<li><a href="https://www.codeschool.com/" title="Code School">Code School</a></li>
-</ul>
-</div>
-<div class="col-xs-12 col-sm-6">
-<h4>Offene Wahlen</h4>
-<ul>
-<li><a href="https://www.youtube.com/watch?v=LMK99tF9xYo" title="Video">Video - 8. Netzpolitischer Abend Wien</a>:  Was ist Offene Wahlen Österreich?</li>
-<li><a href="/ressourcen" title="Ressourcen">Ressourcen</a> ansehen</li>
-</ul>
-</div>
+<a href="{{ site.baseurl }}/workshop-spektral-doku" class="highlight-link">Workshop Dokumentation & Resourcen </a>
 </div>
 
 <div class="partner row col-xs-12">
