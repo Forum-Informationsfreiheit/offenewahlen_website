@@ -3,7 +3,6 @@ layout: page
 title: Kontakt
 permalink: /kontakt
 menu_kontakt: yes
-comments: true
 ---
 
 <div class="col-xs-12 col-md-8">

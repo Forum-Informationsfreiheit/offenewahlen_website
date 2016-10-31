@@ -12,6 +12,10 @@ menu_ressourcen: true
 - [derStandard.at - Ruf nach freien Wahlergebnissen für alle](http://derstandard.at/2000040468184/Ruf-nach-freien-Wahlergebnissen-fuer-alle)
 - [okfn.at - Open Data Schnittstelle für transparente Wahlergebnisse schaffen!](http://okfn.at/2016/07/05/open-data-schnittstelle-fuer-transparente-wahlergebnisse-schaffen/)
 
+### <i class="fa fa-wrench" aria-hidden="true"></i> Tutorials
+- [Wahl-Ergebnisse als Balkendiagramm visuell darstellen](/tutorials/balkendiagramm)
+- [Wahl-Ergebnisse auf einer Karte visualisieren](/tutorials/karte)
+
 ### <i class="fa fa-check-square-o" aria-hidden="true"></i> Wahlen in Österreich
 - [Wikipedia - Wahlen in Österreich](https://de.wikipedia.org/wiki/Wahlen_in_%C3%96sterreich)
 - [help.gv.at - Wahlen](https://www.help.gv.at/Portal.Node/hlpd/public/content/32/Seite.320000.html)

@@ -30,7 +30,7 @@ Vielen Dank an das <a href="https://spektral.at/" title="Spektral">Spektral</a> 
 </div>
 
 <div class="row col-sm-12">
-<a href="{{ site.baseurl }}/workshop-spektral-doku" class="highlight-link">Workshop Dokumentation & Resourcen </a>
+<a href="{{ site.baseurl }}/workshop-spektral-doku" title="Workshop Dokumentation & Resources"><button class="button-full-red">Workshop Dokumentation & Resourcen</button></a>
 </div>
 
 <div class="partner row col-xs-12">

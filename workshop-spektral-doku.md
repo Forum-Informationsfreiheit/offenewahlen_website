@@ -10,8 +10,10 @@ comments: true
   - [Stefan Kasberger](http://stefankasberger.at) (Open Knowledge Austria)
   - [Peter Grassberger](http://petergrassberger.com/)
   - [Flooh Perlot](http://drawingdata.net/) (Drawing Data)
-  - [Christopher Kittel](http://christopherkittel.eu/) (Open Knowledge Austria) 
+  - [Christopher Kittel](http://christopherkittel.eu/) (Open Knowledge Austria)
 - <a href="https://twitter.com/search?f=tweets&q=%23OffeneWahlenAT&src=typd" title="OffeneWahlenAT"><i class="fa fa-hashtag" aria-hidden="true"></i>OffeneWahlenAT</a>
+
+Es gibt von [@murdelta](https://twitter.com/murdelta) auch [Fotos](https://www.flickr.com/photos/murdelta/sets/72157674468625782) vom Abend (unter CC BY). Vielen lieben Dank.
 
 **UrheberInnenrecht**
 

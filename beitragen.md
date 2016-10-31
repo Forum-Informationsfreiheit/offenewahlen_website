@@ -10,6 +10,7 @@ menu_beitragen: true
 <h4 class="col-sm-10 col-sm-offset-1 text-center">Im Geiste von freier Software ist jedeR dazu ermutigt, sich einzubringen und das Projekt zu verbessern - Offenheit lebt von Teilhabe. Hier einige Möglichkeiten wie du dich einbringen kannst.</h4>
 
 <div class="wo-beitragen">
+
 <h2 class="col-xs-12">Wo kann man sich einbringen?</h2>
 
 <div class="col-xs-12 col-md-6 beitrage-punkt">
@@ -21,10 +22,9 @@ menu_beitragen: true
 <div class="col-xs-12 col-md-6 beitrage-punkt">
 <h3 class="text-center"><i class="fa fa-calendar" aria-hidden="true"></i> Veranstaltungen</h3>
 <img src="{{ site.staticurl }}blog/2016/10/refugeehack.jpg" alt="Bild Hackathon" class="img-rounded">
-<p>Besuche eine unserer Veranstaltungen oder hilf mit als Freiwilliger.</p>
-<a href="/workshop-spektral" title="Coding Workshop Spektral" class="highlight-link">19. Oktober: Coding Workshop für AnfängerInnen @ Spektral Graz</a>
-<a href="/webcast-1" title="Offene Wahlen Webcast" class="highlight-link">8. November: Offene Wahlen Webcast</a>
-<a href="/hackathon-metalab" title="Hackathon Metalab" class="highlight-link">19. November: Hackathon @ metalab Wien</a>
+<p>Besuche eine unserer <a href="/veranstaltungen" title="Veranstaltungen">Veranstaltungen</a> oder hilf mit als Freiwilliger.</p>
+<a href="/webcast-1" title="Offene Wahlen Webcast"><button class="button-full-red">8. November: Offene Wahlen Webcast</button></a>
+<a href="/hackathon-metalab" title="Hackathon Metalab"><button class="button-full-red">19. November: Hackathon @ metalab Wien</button></a>
 </div>
 
 <div class="col-xs-12 col-md-6 beitrage-punkt">
@@ -61,8 +61,8 @@ Die Website ist eine <a href="https://pages.github.com/" alt="GitHub Pages">GitH
 
 <div class="col-xs-12 col-sm-6">
 
-<a href="/kontakt" class="highlight-link" alt="Kontakt"><i class="fa fa-comments-o" aria-hidden="true"></i> Kontakt aufnehmen</a>
-<a href="/spenden" class="highlight-link" alt="Spenden"><i class="fa fa-life-ring" aria-hidden="true"></i> Spenden</a>
+<a href="/kontakt" alt="Kontakt"><button class="button-full-red"><i class="fa fa-comments-o" aria-hidden="true"></i> Kontakt aufnehmen</button></a>
+<a href="/spenden" alt="Spenden"><button class="button-full-red"><i class="fa fa-life-ring" aria-hidden="true"></i> Spenden</button></a>
 
 </div>
 
