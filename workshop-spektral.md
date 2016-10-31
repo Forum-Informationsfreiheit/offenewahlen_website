@@ -30,8 +30,11 @@ Vielen Dank an das <a href="https://spektral.at/" title="Spektral">Spektral</a> 
 </div>
 
 <div class="row col-sm-12">
-<a href="{{ site.baseurl }}/workshop-spektral-doku" title="Workshop Dokumentation & Resources"><button class="button-full-red">Workshop Dokumentation & Resourcen</button></a>
+<a href="/workshop-spektral-doku" title="Workshop Dokumentation & Resources"><button class="button-full-red">Workshop Dokumentation & Resourcen</button></a>
 </div>
+
+<img src="{{ site.staticurl }}pages/workshop-spektral/workshop-spektral.jpg" alt="Workshop Spektral">
+<p><a href="https://www.flickr.com/photos/murdelta/30369387720/in/album-72157674468625782/" title="Foto">Foto</a> by murdelta (CC BY 2.0)</p>
 
 <div class="partner row col-xs-12">
 <h3>Eine Veranstaltung von:</h3>
