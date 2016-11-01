@@ -39,7 +39,8 @@ Es ist keinerlei Vorwissen notwendig, um an dem Tag mitzumachen.
 <a href="http://okfn.at" title="Open Knowledge Österreich"><img class="logo" src="{{ site.staticurl }}logos/logo-ok-at.svg" width="400" alt="Open Knowledge Österreich" /></a>
 
 <h4>Partner</h4>
-<p><a href="http://openscienceasap.org/" title="openscienceASAP"><img class="logo" src="{{ site.staticurl }}logos/logo-openscienceASAP.png" alt="openscienceASAP" /></a></p>
+<div class="col-md-6 partner-logo-event"><a title="Open3" href="https://open3.at/"><img src="{{ site.staticurl }}logos/logo-open3.jpg" alt="Logo Open3" width="220" /></a></div>
+<div class="col-md-6 partner-logo-event"><a href="http://openscienceasap.org/" title="openscienceASAP"><img class="logo" src="{{ site.staticurl }}logos/logo-openscienceASAP.png" alt="openscienceASAP" /></a></div>
+<div class="col-md-6 partner-logo-event"><a href="http://dossier.at/" title="Dossier"><img class="logo" src="{{ site.staticurl }}logos/logo-dossier.png" width="300" alt="Dossier" /></a></div>
 
-<p><a href="http://dossier.at/" title="Dossier"><img class="logo" src="{{ site.staticurl }}logos/logo-dossier.png" width="300" alt="Dossier" /></a></p>
 </div>
