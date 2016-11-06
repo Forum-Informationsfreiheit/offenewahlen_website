@@ -9,19 +9,17 @@ Das folgende Tutorial erstellt eine [Ergebnis-Landkarte](http://bl.ocks.org/gins
 
 Das Tutorial baut auf dem Beispiel zum [Balken-Diagramm](tutorial balkendiagramm.md) auf und setzt die dort behandelten Punkte voraus. Der Code verwendet Version 4 von d3.js.
 
-
 ## Zu Landkarten generell
 Ergebnis-Landkarten zu Wahlen gehören wohl zum Standard-Repertoire von Visualisierungen. Von der Darstellung der [Sieger](http://driven-by-data.net/2016/06/23/brexit-map.html) bis zu [Heat-Maps](http://orf.at/wahl/bp16/#ersterwahlgang/globus/hun) der Stimmenverteilung sind verschiedenste Formen möglich.
 
 Um eine Landkarte zu erzeugen benötigt man zunächst eine Datei mit den geometrischen Formen der Gemeinden, Bezirke oder Länder. Es gibt unterschiedliche Formate, in d3.js verwendet man üblicherweise das `topojson`-Format, das eine vergleichsweise kleine Dateigröße erlaubt. Der grundsätzliche Weg zu einer Karte ist [hier](https://bost.ocks.org/mike/map/) erläutert.
 
-Geographische Grenzen für Österreich gibt es u.a. hier:
-* [Gemeindegrenzen als shp](https://www.data.gv.at/katalog/dataset/c33d36b0-f184-4f2a-89cc-839ca7fcf88a)
+Geographische Grenzen für Österreich als Open Data gibt es hier:
+
+* [Gemeindegrenzen als Shape-File](https://www.data.gv.at/katalog/dataset/c33d36b0-f184-4f2a-89cc-839ca7fcf88a)
 * [Gemeindegrenzen als geojson/topojson](https://github.com/ginseng666/GeoJSON-TopoJSON-Austria)
 
-
 Inhaltlich und vor allem im politischen Kontext ist zu bedenken, dass die geographische Fläche einer Einheit nicht gleichbedeutend mit ihrer Bedeutung ist - oder anders ausgedrückt, die meisten Wahlberechtigten wohnen in Österreich in geographisch kleinräumigen Städten, wie das Projekt [austromorph](https://austromorph.space/) schön demonstriert. Man kann auch [hier](http://www.drawingdata.net/colormaps) mit Kartenformen und -farben experimentieren.
-
 
 ## Das Grundgerüst
 Wir können wieder das gleiche Grundgerüst wie beim Balken-Diagramm verwenden und auch gleich ein SVG erzeugen. Achtung: Neben d3.js müssen wir nun auch topojson.js als library laden:
@@ -338,5 +336,12 @@ d3.json("gemeinden.json", function(grenzen)
 Von diesem Punkt aus kann man die Karte erweitern und verbessern - z.B. Ergebnisse via `mouseover` anzeigen, die Gemeindenamen inkludieren, die Grenzen umfärben oder weglassen,  die Farben nach den Stimmenanteilen schattieren usw..
 
 Zwei Punkte sind noch zu beachten:
+
 * Wien als Gemeinde hat an sich keine eigene Gemeindekennziffer, es gibt nur Wien als Bundesland - und dieser Wert enthält schon die Wahlkarten. Das ist streng genommen nicht korrekt, da alle anderen Gemeinden ohne Wahlkarten abgebildet sind. Hier könnte man den entsprechenden Eintrag ändern, bzw. auch die `iso` in der Kartendatei auf ein anderes Ergebnis verweisen lassen.
 * Die `siegerliste` enthält neben den Gemeinden jetzt auch Bezirke, Bundesländer und Wahlkarten-Ergebnisse: Diese sollte man bei der Zusammenstellung filtern (z.B. mit einer `if`-Abfrage, die die letzten Stellen der `GKZ` überprüft?), um falsche Zuordnungen zu vermeiden (siehe Punkt 1 zu Wien, hier wird das Landes-Ergebnis verwendet).
+
+## Die Ressourcen
+**Offene Daten**
+
+* [Gemeindegrenzen als Shape-File](https://www.data.gv.at/katalog/dataset/c33d36b0-f184-4f2a-89cc-839ca7fcf88a)
+* [Gemeindegrenzen als geojson/topojson](https://github.com/ginseng666/GeoJSON-TopoJSON-Austria)

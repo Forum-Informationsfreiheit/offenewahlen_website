@@ -1,37 +1,33 @@
 ---
 layout: page
-title: Offene Wahlen Hackathon
+title: Hackathon @ metalab
 permalink: /hackathon-metalab
 comments: true
 ---
 
-<h4 class="text-center lead">Druck dir deine Wahlergebnisse in 3d, sammle Wissen zu Wahlen und Open Data oder analysiere Daten aus der Wahlforschung - gemeinsam wollen wir uns zwei Wochen vor der Bundespräsidentenwahl spielerisch mit Wahlen und offenen Daten beschäftigen.</h4>
+<h4 class="text-center lead">Hacken, Basteln und Programmieren rund um Wahlen. Zwei Wochen vor der Bundespräsidentenwahl laden wir zum gemeinsamen Tüfteln mit offenen Wahldaten ein.</h4>
 
 <div class="row col-xs-12 col-md-8">
+<p>Dazu brauchst du kein Technik-Profi sein! Viel wichtiger ist, dass du an Wahlen interessiert bist und gerne Neues lernst. Vor allem Kreative, Maker, Studierende, Coder und JournalistInnen werden sich wohl fühlen. Es ist keinerlei Vorwissen notwendig um mitzumachen.</p>
 <ul>
 <li><strong>Datum:</strong> 19. November 2016, 12 - 19 Uhr</li>
 <li><strong>Ort:</strong> <a href="https://metalab.at/" title="metalab">metalab</a> - Rathausstraße 6, 1010 Wien</li>
-<li><strong>Zielgruppen:</strong> Kreative, SozialwissenschaftlerInnen, Coder, BürgerInnen, JournalistInnen, Maker, etc.</li>
 <li><strong>Facilitator:</strong> <a href="https://stefankasberger.eu" title="Website">Stefan Kasberger</a></li>
-<li><strong>Anmelden:</strong> <a href="https://www.meetup.com/de-DE/Open-Knowledge-Foundation-Austria-MeetUp/events/233894500/?eventId=233894500" title="Meetup">Meetup Event</a></li>
 <li><a href="http://pad.okfn.org/p/OffeneWahlenAT-Metalab" title="Etherpad">Etherpad</a>: zum Arbeiten vor Ort</li>
 <li><a href="https://twitter.com/search?f=tweets&q=%23OffeneWahlenAT&src=typd" title="OffeneWahlenAT"><i class="fa fa-hashtag" aria-hidden="true"></i>OffeneWahlenAT</a></li>
 <li>Kein Eintritt</li>
-<li><strong>Gesucht:</strong> Freiwillige, die bei der Organisation des Hackathons sowie vor Ort mithelfen. Falls du mitmachen willst, melde dich <a href="/kontakt" title="Kontakt">hier</a>.</li>
 </ul>
+
+Wir suchen noch Freiwillige, die uns vor Ort helfen. Interessierte bitte <a href="/kontakt">hier</a> melden.
 
 Vielen Dank an das <a href="https://metalab.at/" title="metalab">metalab</a> für die Räumlichkeiten.
 
-<h3>Ressourcen</h3>
-Es ist keinerlei Vorwissen notwendig, um an dem Tag mitzumachen.
-<ul>
-<li><a href="https://www.youtube.com/watch?v=LMK99tF9xYo" title="Video">Video - 8. Netzpolitischer Abend Wien</a>:  Einführung in das Projekt</li>
-<li><a href="/ressourcen" title="Ressourcen">Ressourcen</a> ansehen</li>
-</ul>
 </div>
 
 <div class="col-xs-12 col-md-4">
 <iframe width="220" height="200" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://www.openstreetmap.org/export/embed.html?bbox=16.35267198085785%2C48.2074009588649%2C16.359753012657162%2C48.211040222525746&amp;layer=mapnik&amp;marker=48.20922062302247%2C16.356212496757507" style="border: 1px solid black"></iframe><br/><small><a href="http://www.openstreetmap.org/?mlat=48.20922&amp;mlon=16.35621#map=18/48.20922/16.35621">View Larger Map</a></small>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSc01dkc0zYEefgCnyefZPcuReUCKEixzGIk6F4pp9TZVbW2_A/viewform?entry.1560647131&entry.805191984&entry.1901626104&entry.1321289864&entry.1811347659=Ja&entry.2035578759=Ja" class="col-xs-12"><button class="button-border-red">Zum Hackathon anmelden!</button></a>
+<a href="https://www.meetup.com/de-DE/Open-Knowledge-Oesterreich/events/233894500/" class="col-xs-12"><button class="button-border-red">Meetup</button></a>
 </div>
 
 <div class="row col-xs-12">
