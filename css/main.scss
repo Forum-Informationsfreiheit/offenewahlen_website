@@ -25,8 +25,8 @@ $okf-background: #f5f4e9;
 
 $primary:          #ef3340;
 $primary-dark:     #6F181E;
-$primary-light:    #F27C84;
-$secondary:        #1B73A2;
+$primary-light:    #F2727B;
+$secondary:        #6F6364;
 
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
@@ -613,7 +613,7 @@ a .button-border-red:hover {
   }
   #call-to-action {
     background-color: $primary;
-    border: 2px solid $primary;
+    border: 3px solid black;
     border-radius: 10px;
     padding: 25px;
 
