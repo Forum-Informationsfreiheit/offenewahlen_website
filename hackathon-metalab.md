@@ -5,7 +5,7 @@ permalink: /hackathon-metalab
 comments: true
 ---
 
-<h4 class="text-center lead">Hacken, Basteln und Programmieren rund um Wahlen. Zwei Wochen vor der Bundespräsidentenwahl laden wir zum gemeinsamen Tüfteln mit offenen Wahldaten ein.</h4>
+<h4 class="text-center lead">Gemeinsam Hacken, Basteln und Programmieren rund um Wahlen. Zwei Wochen vor der Bundespräsidentenwahl laden wir zum Tüfteln mit offenen Wahldaten ein.</h4>
 
 <div class="row col-xs-12 col-md-8">
 <p>Dazu brauchst du kein Technik-Profi sein! Viel wichtiger ist, dass du an Wahlen interessiert bist und gerne Neues lernst. Vor allem Kreative, Maker, Studierende, Coder und JournalistInnen werden sich wohl fühlen. Es ist keinerlei Vorwissen notwendig um mitzumachen.</p>
