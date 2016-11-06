@@ -26,7 +26,7 @@ $okf-background: #f5f4e9;
 $primary:          #ef3340;
 $primary-dark:     #6F181E;
 $primary-light:    #F2727B;
-$secondary:        #6F6364;
+$secondary:        #75696A;
 
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
@@ -518,19 +518,19 @@ header {
 a .button-full-red {
   display: inline-block;
   line-height: 2em;
-  border: 2px solid $primary;
+  border: 2px solid black;
   padding: 0.5em;
   text-align: center;
   background-color: $primary;
   width: 100%;
   margin: 20px 0;
-  color: white;
+  color: black;
 }
 a .button-full-red:hover {
   background-color: white;
   text-decoration: none;
-  color: darken($primary, 20%);
-  border-color: darken($primary, 20%);
+  color: $primary;
+  border-color: $primary;
 }
 a .button-border-red {
   display: inline-block;
@@ -618,7 +618,7 @@ a .button-border-red:hover {
     padding: 25px;
 
     .lead-in-newsletter {
-      color: white;
+      color: black;
       font-size: 1em;
       font-weight: bold;
     }
@@ -627,21 +627,18 @@ a .button-border-red:hover {
       margin-right: 0px;
     }
     #mce-EMAIL {
-      border: 2px solid white;
+      border: 2px solid black;
       width: 100%;
       height: 100%;
     }
     #mc-embedded-subscribe {
-      border: 2px solid white;
+      border: 2px solid black;
       height: 100%;
-      color: white;
-      background-color: $primary;
+      color: black;
+      background-color: darken($primary, 10%);
     }
     #mc-embedded-subscribe:hover {
-      border: 2px solid $primary;
-      height: 100%;
-      color: $primary;
-      background-color: white;
+      background-color: lighten($primary, 10%);
     }
     #mce-EMAIL {
       margin-right: 20px;
