@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hackathon @ metalab
+title: OpenCon 2016 Offene Wahlen Hackathon
 permalink: /hackathon-metalab
 comments: true
 ---
@@ -8,19 +8,21 @@ comments: true
 <h4 class="text-center lead">Gemeinsam Hacken, Basteln und Programmieren rund um Wahlen. Zwei Wochen vor der Bundespräsidentenwahl laden wir zum Tüfteln mit offenen Wahldaten ein.</h4>
 
 <div class="row col-xs-12 col-md-8">
-<p>Dazu brauchst du kein Technik-Profi sein! Viel wichtiger ist, dass du an Wahlen interessiert bist und gerne Neues lernst. Vor allem Kreative, Maker, Studierende, Coder und JournalistInnen werden sich wohl fühlen. Es ist keinerlei Vorwissen notwendig um mitzumachen.</p>
+<p>Dazu brauchst du kein Technik-Profi sein! Viel wichtiger ist, dass du an Wahlen interessiert bist und gerne Neues lernst. Vor allem Kreative, Maker, Studierende, Coder, WissenschaftlerInnen und JournalistInnen werden sich wohl fühlen. Im metalab ist die Nutzung eines 3D-Druckers und Laserscanners möglich. Es ist keinerlei Vorwissen notwendig um mitzumachen.</p>
 <ul>
 <li><strong>Datum:</strong> 19. November 2016, 12 - 19 Uhr</li>
 <li><strong>Ort:</strong> <a href="https://metalab.at/" title="metalab">metalab</a> - Rathausstraße 6, 1010 Wien</li>
 <li><strong>Facilitator:</strong> <a href="https://stefankasberger.eu" title="Website">Stefan Kasberger</a></li>
-<li><a href="http://pad.okfn.org/p/OffeneWahlenAT-Metalab" title="Etherpad">Etherpad</a>: zum Arbeiten vor Ort</li>
 <li><a href="https://twitter.com/search?f=tweets&q=%23OffeneWahlenAT&src=typd" title="OffeneWahlenAT"><i class="fa fa-hashtag" aria-hidden="true"></i>OffeneWahlenAT</a></li>
+<li><strong>Mitnehmen:</strong> eventuell Laptop mit Netzteil, optional Maus.</li>
 <li>Kein Eintritt</li>
 </ul>
 
+Der Hackathon findet als <a href="http://www.opencon2016.org/39914/opencon_2016_offene_wahlen_hackathon" title="OpenCon Satelitte Event">OpenCon 2016 Satellite Event</a> statt.
+
 Wir suchen noch Freiwillige, die uns vor Ort helfen. Interessierte bitte <a href="/kontakt">hier</a> melden.
 
-Vielen Dank an das <a href="https://metalab.at/" title="metalab">metalab</a> für die Räumlichkeiten.
+Vielen Dank an das <a href="https://metalab.at/" title="metalab">metalab</a> für das zur Verfügung stellen der Räumlichkeiten.
 
 </div>
 
@@ -29,6 +31,8 @@ Vielen Dank an das <a href="https://metalab.at/" title="metalab">metalab</a> fü
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSc01dkc0zYEefgCnyefZPcuReUCKEixzGIk6F4pp9TZVbW2_A/viewform?entry.1560647131&entry.805191984&entry.1901626104&entry.1321289864&entry.1811347659=Ja&entry.2035578759=Ja" class="col-xs-12"><button class="button-border-red">Zum Hackathon anmelden!</button></a>
 <a href="https://www.meetup.com/de-DE/Open-Knowledge-Oesterreich/events/233894500/" class="col-xs-12"><button class="button-border-red">Meetup</button></a>
 </div>
+
+<a href="/hackathon-metalab-doku" title="Hackathon metalab Dokumentation & Resources"><button class="button-full-red">Hackathon Dokumentation & Ressourcen</button></a>
 
 <div class="row col-xs-12">
 <h3>Eine Veranstaltung von:</h3>

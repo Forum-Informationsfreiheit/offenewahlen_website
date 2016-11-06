@@ -148,7 +148,7 @@ Die Dateien von [Flooh Perlot](http://drawingdata.net/):
 - [gemeinden.json]({{ site.staticurl }}pages/workshop-spektral/gemeinden.json)
 
 ## WIE WEITER MACHEN?
-- Ergebnisse online stellen: Selber machen oder bei uns ()[Schreib uns!](/kontakt)).
+- Ergebnisse online stellen: Selber machen oder bei uns ([Schreib uns!](/kontakt)).
 - Ergebnisse teilen: FreundInnen erzählen, twittern, facebook, bloggen, etc.
 - diskutiere was du gemacht und gehört hast mit deinen FreundInnen und im Web
 - nutze die Daten um weitere Visualisierungen zu erstellen.

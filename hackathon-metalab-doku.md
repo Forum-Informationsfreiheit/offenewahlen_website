@@ -16,7 +16,7 @@ Der Inhalt steht, soweit nicht explizit anders erwähnt, unter der [Creative Com
 
 **Mitbringen**
 
-Laptop mit Maus + Netzteil
+Eventuell Laptop mit Maus + Netzteil.
 
 ## ABLAUF
 <table class="table">
@@ -25,36 +25,44 @@ Laptop mit Maus + Netzteil
  <th>Agenda</th>
 </tr>
 <tr>
- <td>18:00 - 18:10</td>
+ <td>12:00</td>
  <td>Willkommen</td>
 </tr>
 <tr>
- <td>18:10 - 18:30</td>
- <td>Einleitung & Vorstellungsrunde</td>
+ <td>12:10 - 12:20</td>
+ <td>Einleitung Hackathon</td>
 </tr>
 <tr>
- <td>18:30 - 18:45</td>
- <td>Gruppen bilden</td>
+ <td>12:20 - 12:35</td>
+ <td>Einführung Offene Wahlen Österreich</td>
 </tr>
 <tr>
- <td>18:45 - 20:00</td>
- <td>Coden: Setup, Einführung, erste Schritte</td>
+ <td>12:35 - 13:10</td>
+ <td>Brainstormen</td>
 </tr>
 <tr>
- <td>20:00 - 20:15</td>
+ <td>13:10 - 13:25</td>
+ <td>Ideen vorstellen und Gruppenfindung</td>
+</tr>
+<tr>
+ <td>13:25 - 15:45</td>
+ <td>Hacken, Basteln und Programmieren</td>
+</tr>
+<tr>
+ <td>15:45 - 16:00</td>
  <td>PAUSE</td>
 </tr>
 <tr>
- <td>20:15 - 21:45</td>
- <td>Coden</td>
+ <td>16:00 - 18:30</td>
+ <td>Hacken, Basteln und Programmieren</td>
 </tr>
 <tr>
- <td>21:45 - 21:55</td>
- <td>Show & Tell</td>
+ <td>18:30 - 18:50</td>
+ <td>Präsentieren der Ergebnisse</td>
 </tr>
 <tr>
- <td>21:55 - 22:00</td>
- <td>Sum Up & Good Bye</td>
+ <td>18:50 - 19:00</td>
+ <td>Verabschiedung</td>
 </tr>
 <tr>
  <td>19:00</td>
@@ -62,20 +70,38 @@ Laptop mit Maus + Netzteil
 </tr>
 </table>
 
-### Einleitung
+### Einleitung Hackathon
 - Willkommen
 - Ablauf
-- Vorstellen Trainer, Event und Offene Wahlen
 - Vorstellungsrunde TeilnehmerInnen
 
+### Einleitung Offene Wahlen Österreich
+- Projekt vorstellen
+- Open Data Datensätze vorstellen
+
+
+### Brainstormen
+In kleinen Gruppen (3-4 Personen) werden Ideen gesammelt und diskutiert.
+
+### Ideen präsentieren und Gruppenfindung
+Jeder und jede kann eine Idee vorstellen. Nach den Ideen wählen die TeilnehmerInnen selbstständig die woran Sie die folgenden Stunden arbeiten wollen. Dies soll Gruppen zwischen 3 und 5 Personen ergeben.
+
+### Hacken, Basteln und Programmieren
+Hier wird gearbeitet. :)
+
+### Präsentieren der Ergebnisse
+Zum Schluss präsentieren die Gruppen ihre Ergebnisse.
+
+### Verabschiedung
+Kurzes Good Bye, bevor es ins Gemütliche übergeht.
 
 ## WIE WEITER MACHEN?
-- Ergebnisse online stellen: Selber machen oder bei uns ()[Schreib uns!](/kontakt)).
+- Ergebnisse online stellen: Selber machen oder bei uns ([Schreib uns!](/kontakt)).
 - Ergebnisse teilen: FreundInnen erzählen, twittern, facebook, bloggen, etc.
 - diskutiere was du gemacht und gehört hast mit deinen FreundInnen und im Web
 - nutze die Daten um weitere Visualisierungen zu erstellen.
 
-## RESOURCEN ALLGEMEIN
+## RESSOURCEN ALLGEMEIN
 
 ### Coden lernen
 - [Stackoverflow](https://stackoverflow.com): dort findet man jeden Menge Antworten auf häufig gestellte Fragen und kann auch selber Fragen an die Community stellen. Zuerst aber bitte nachsehen, ob die eigene Frage nicht schon mal wo beantwortet wurde (was zu Beginn zu 99% der Fälle so der Fall ist).
