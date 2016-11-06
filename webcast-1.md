@@ -9,7 +9,7 @@ comments: true
 
 <div class="col-xs-12 col-sm-10 col-sm-offset-1 intro-webcast">
 <p><strong>8. November 2016, 18 - 19 Uhr</strong></p>
-<p>Es sind noch knappe zwei Monate bis zur Bundespräsidentenwahl. Wir möchten die Zeit nutzen und gemeinsam mit euch an den Forderungen zu Offenen Wahldaten arbeiten. Beim ersten öffentlichen Webcast stellen wir <a href="/ueber-uns" title="Über uns">das Projekt</a> vor und stehen euren Fragen zur Verfügung.</p>
+<p>Es ist noch knapp ein Monat bis zur Bundespräsidentenwahl. Wir möchten die Zeit nutzen und gemeinsam mit euch an den Forderungen zu Offenen Wahldaten arbeiten. Beim ersten öffentlichen Webcast stellen wir <a href="/ueber-uns" title="Über uns">das Projekt</a> vor und stehen euren Fragen zur Verfügung.</p>
 </div>
 
 <h2 class="text-center">Schick uns deine Fragen!</h2>
