@@ -18,8 +18,6 @@ comments: true
 <li>Kein Eintritt</li>
 </ul>
 
-Der Hackathon findet als <a href="http://www.opencon2016.org/39914/opencon_2016_offene_wahlen_hackathon" title="OpenCon Satelitte Event">OpenCon 2016 Satellite Event</a> statt.
-
 Wir suchen noch Freiwillige, die uns vor Ort helfen. Interessierte bitte <a href="/kontakt">hier</a> melden.
 
 Vielen Dank an das <a href="https://metalab.at/" title="metalab">metalab</a> für das zur Verfügung stellen der Räumlichkeiten.
@@ -31,6 +29,12 @@ Vielen Dank an das <a href="https://metalab.at/" title="metalab">metalab</a> fü
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSc01dkc0zYEefgCnyefZPcuReUCKEixzGIk6F4pp9TZVbW2_A/viewform?entry.1560647131&entry.805191984&entry.1901626104&entry.1321289864&entry.1811347659=Ja&entry.2035578759=Ja" class="col-xs-12"><button class="button-border-red">Zum Hackathon anmelden!</button></a>
 <a href="https://www.meetup.com/de-DE/Open-Knowledge-Oesterreich/events/233894500/" class="col-xs-12"><button class="button-border-red">Meetup</button></a>
 </div>
+
+<div id="opencon" class="text-center col-xs-12">
+<p>Der Hackathon findet als <a href="http://www.opencon2016.org/opencon_2016_offene_wahlen_hackathon" title="OpenCon Satelitte Event">OpenCon 2016 Satellite Event</a> statt.</p>
+<a title="OpenCon Banner" href="http://www.opencon2016.org/opencon_2016_offene_wahlen_hackathon"><img src="{{ site.staticurl }}pages/metalab-hackathon/opencon-banner.png" alt="OpenCon Banner" /></a>
+</div>
+
 
 <a href="/hackathon-metalab-doku" title="Hackathon metalab Dokumentation & Resources"><button class="button-full-red">Hackathon Dokumentation & Ressourcen</button></a>
 
