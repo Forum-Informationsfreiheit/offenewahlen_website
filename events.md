@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Veranstaltungen
-permalink: /veranstaltungen
+title: Events
+permalink: /events
 comments: true
-menu_veranstaltungen: true
+menu_events: true
 ---
 
 <div class="">

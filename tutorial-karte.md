@@ -159,7 +159,7 @@ Jetzt können wir die Datei speichern. Um aus dem deutschen Excel eine gut verwe
 * die Datei speichern
 * die Dateiendung auf ".csv" ändern
 
-Eine fertige Datei kann [hier](gemeindeergebnisse.csv) heruntergeladen werden.
+Eine fertige Datei kann [hier](gemeindeergebnisse.csv) heruntergeladen werden (Achtung: die Datei unterliegt dem Urheberrecht der [Original-Datei vom BMI](http://www.bmi.gv.at/cms/BMI_wahlen/bundespraes/bpw_2016/FILES/Endgueltiges_Gesamtergebnis_BPW16_1WG.xlsx)).
 
 Nach dieser Tour de force ist das Laden der Datei in Javascript ein kleiner Schritt:
 
