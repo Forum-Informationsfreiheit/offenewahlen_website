@@ -38,10 +38,12 @@ Vielen Dank an das <a href="https://metalab.at/" title="metalab">metalab</a> fü
 <h3>Eine Veranstaltung von:</h3>
 <a href="http://okfn.at" title="Open Knowledge Österreich"><img class="logo" src="{{ site.staticurl }}logos/logo-ok-at.svg" width="400" alt="Open Knowledge Österreich" /></a>
 
-<h4>Partner</h4>
+<h4>in Kooperation mit:</h4>
 <div class="col-xs-12 col-sm-6 partner-logo-event"><a title="Open3" href="https://open3.at/"><img src="{{ site.staticurl }}logos/logo-open3.jpg" alt="Logo Open3" width="220" /></a></div>
 <div class="col-xs-12 col-sm-6 partner-logo-event"><a href="http://neuwal.com/" title="Neuwahl"><img class="logo" src="{{ site.staticurl }}logos/logo-neuwal.png" width="300" alt="Neuwal" /></a></div>
 <div class="col-xs-12 col-sm-6 partner-logo-event"><a href="http://openscienceasap.org/" title="openscienceASAP"><img class="logo" src="{{ site.staticurl }}logos/logo-openscienceASAP.png" alt="openscienceASAP" /></a></div>
 <div class="col-xs-12 col-sm-6 partner-logo-event"><a href="http://dossier.at/" title="Dossier"><img class="logo" src="{{ site.staticurl }}logos/logo-dossier.png" width="300" alt="Dossier" /></a></div>
 <div class="col-xs-12 col-sm-6 partner-logo-event"><a href="http://www.informationsfreiheit.at/" title="Forum Informationsfreiheit"><img class="logo" src="{{ site.staticurl }}logos/logo-foi.png" width="300" alt="Forum Informationsfreiheit" /></a></div>
+<div class="col-xs-12 col-sm-6 partner-logo-event"><a href="http://zurpolitik.com/" title="Zur Politik"><img class="logo" src="{{ site.staticurl }}logos/logo-zurpolitik.png" width="300" alt="Zur Politik" /></a></div>
+<div class="col-xs-12 col-sm-6 partner-logo-event"><a href="http://openknowledgemaps.org/" title="Open Knowledge Maps"><img class="logo" src="{{ site.staticurl }}logos/logo-okm.png" width="300" alt="Open Knowledge Maps" /></a></div>
 </div>
