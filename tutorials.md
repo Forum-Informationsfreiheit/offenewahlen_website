@@ -2,7 +2,6 @@
 layout: page-10
 title: Tutorials
 permalink: /tutorials/
-comments: true
 menu_tutorials: true
 ---
 
