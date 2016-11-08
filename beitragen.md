@@ -20,10 +20,9 @@ menu_beitragen: true
 </div>
 
 <div class="col-xs-12 col-md-6 beitrage-punkt">
-<h3 class="text-center"><i class="fa fa-calendar" aria-hidden="true"></i> Veranstaltungen</h3>
+<h3 class="text-center"><i class="fa fa-calendar" aria-hidden="true"></i> Termine</h3>
 <img src="{{ site.staticurl }}blog/2016/10/refugeehack.jpg" alt="Bild Hackathon" class="img-rounded">
-<p>Besuche eine unserer <a href="/veranstaltungen" title="Veranstaltungen">Veranstaltungen</a> oder hilf mit als Freiwilliger.</p>
-<a href="/webcast-1" title="Offene Wahlen Webcast"><button class="button-full-red">8. November: Offene Wahlen Webcast</button></a>
+<p>Besuche eine unserer <a href="/termine/" title="Termine">Veranstaltungen</a> oder hilf mit als Freiwilliger.</p>
 <a href="/hackathon-metalab" title="Hackathon Metalab"><button class="button-full-red">19. November: Hackathon @ metalab Wien</button></a>
 </div>
 

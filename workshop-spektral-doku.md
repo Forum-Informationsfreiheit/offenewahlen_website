@@ -1,11 +1,11 @@
 ---
 layout: page
 title: Dokumentation
-permalink: /workshop-spektral-doku
+permalink: /termine/workshop-spektral/doku
 comments: true
 ---
 
-- [Workshop Spektral](/workshop-spektral), 19. Oktober 2016, 18 - 22 Uhr
+- [Workshop Spektral](/termine/workshop-spektral), 19. Oktober 2016, 18 - 22 Uhr
 - Betreuer:
   - [Stefan Kasberger](http://stefankasberger.at) (Open Knowledge Austria)
   - [Peter Grassberger](http://petergrassberger.com/)

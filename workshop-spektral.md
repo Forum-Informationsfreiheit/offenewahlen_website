@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Coding-Workshop für AnfängerInnen
-permalink: /workshop-spektral
+permalink: /termine/workshop-spektral/
 comments: true
 ---
 
@@ -29,7 +29,7 @@ Vielen Dank an das <a href="https://spektral.at/" title="Spektral">Spektral</a> 
 <iframe width="220" height="200" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://www.openstreetmap.org/export/embed.html?bbox=15.4314860701561%2C47.074553601949326%2C15.43485224246979%2C47.07619396057556&amp;layer=mapnik&amp;marker=47.075373787574264%2C15.43317049741745" style="border: 1px solid black"></iframe><br/><small><a href="http://www.openstreetmap.org/?mlat=47.07537&amp;mlon=15.43317#map=19/47.07537/15.43317">View Larger Map</a></small>
 </div>
 
-<a href="/workshop-spektral-doku" title="Workshop Dokumentation & Resources"><button class="button-full-red">Workshop Dokumentation & Ressourcen</button></a>
+<a href="/termine/workshop-spektral/doku" title="Workshop Dokumentation & Resources"><button class="button-full-red">Workshop Dokumentation & Ressourcen</button></a>
 
 <img src="{{ site.staticurl }}pages/workshop-spektral/workshop-spektral.jpg" alt="Workshop Spektral" class="img-rounded">
 <p><a href="https://www.flickr.com/photos/murdelta/30369387720/in/album-72157674468625782/" title="Foto">Foto</a> by murdelta (CC BY 2.0)</p>
