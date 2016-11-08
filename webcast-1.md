@@ -14,7 +14,7 @@ comments: true
 
 <div class="col-xs-12">
 <p>Als Software für den Webcast wird Google Hangout verwendet, welche es maximal 15 TeilnehmerInnen erlaubt aktiv teilzunehmen. Um bei Google Hangouts teilnehmen zu können, muss ein Browser-Plugin installiert sein. Daher am besten vorher kurz starten und testen.</p>
-<a href="https://hangouts.google.com/hangouts/_/ytl/xxxCapOs7Jx6CuB_I8kfZNiCorAgOGeRev7h_dkjVQQ=?hl=de_DE&authuser=1" title="Google Hangout" class="col-xs-12"><button class="button-full-red">Zu Webcast einwählen (Google Hangout)</button></a>
+<a href="https://hangouts.google.com/hangouts/_/ytl/xxxCapOs7Jx6CuB_I8kfZNiCorAgOGeRev7h_dkjVQQ=?hl=de_DE&authuser=1" title="Google Hangout" class="col-xs-12"><button class="button-full-red">Zum Webcast (Google Hangout) beitreten!</button></a>
 </div>
 
 <h2 class="text-center">Schick uns deine Fragen!</h2>
