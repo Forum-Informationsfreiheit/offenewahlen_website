@@ -8,7 +8,8 @@ comments: true
 - [Hackathon Metalab](/hackathon-metalab), 19. November 2016, 12 - 19 Uhr
 - Betreuer:
   - [Stefan Kasberger](http://stefankasberger.at) (Open Knowledge Austria)
-- <a href="https://twitter.com/search?f=tweets&q=%23OffeneWahlenAT&src=typd" title="OffeneWahlenAT"><i class="fa fa-hashtag" aria-hidden="true"></i>OffeneWahlenAT</a>
+- [Etherpad](http://pad.okfn.org/p/OffeneWahlenAT-Metalab)
+- <a href="https://twitter.com/search?f=tweets&q=%23OffeneWahlenAT&src=typd" title="OffeneWahlenAT"><i class="fa fa-hashtag" aria-hidden="true"></i>OffeneWahlenAT</a> <a href="https://twitter.com/search?f=tweets&q=%23OpenCon&src=typd" title="OpenCon"><i class="fa fa-hashtag" aria-hidden="true"></i>OpenCon</a> <a href="https://twitter.com/search?f=tweets&q=%23BPW16&src=typd" title="BPW16"><i class="fa fa-hashtag" aria-hidden="true"></i>BPW16</a>
 
 **UrheberInnenrecht**
 

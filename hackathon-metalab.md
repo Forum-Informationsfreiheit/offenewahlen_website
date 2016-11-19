@@ -13,12 +13,11 @@ comments: true
 <li><strong>Datum:</strong> 19. November 2016, 12 - 19 Uhr</li>
 <li><strong>Ort:</strong> <a href="https://metalab.at/" title="metalab">metalab</a> - Rathausstraße 6, 1010 Wien</li>
 <li><strong>Facilitator:</strong> <a href="https://stefankasberger.eu" title="Website">Stefan Kasberger</a></li>
-<li><a href="https://twitter.com/search?f=tweets&q=%23OffeneWahlenAT&src=typd" title="OffeneWahlenAT"><i class="fa fa-hashtag" aria-hidden="true"></i>OffeneWahlenAT</a></li>
+<li><a href="http://pad.okfn.org/p/OffeneWahlenAT-Metalab" title="Etherpad">Etherpad</a></li>
+<li><a href="https://twitter.com/search?f=tweets&q=%23OffeneWahlenAT&src=typd" title="OffeneWahlenAT"><i class="fa fa-hashtag" aria-hidden="true"></i>OffeneWahlenAT</a> <a href="https://twitter.com/search?f=tweets&q=%23OpenCon&src=typd" title="OpenCon"><i class="fa fa-hashtag" aria-hidden="true"></i>OpenCon</a> <a href="https://twitter.com/search?f=tweets&q=%23BPW16&src=typd" title="BPW16"><i class="fa fa-hashtag" aria-hidden="true"></i>BPW16</a></li>
 <li><strong>Mitnehmen:</strong> eventuell Laptop mit Netzteil, optional Maus.</li>
 <li>Kein Eintritt</li>
 </ul>
-
-Wir suchen noch Freiwillige, die uns vor Ort helfen. Interessierte bitte <a href="/kontakt">hier</a> melden.
 
 Vielen Dank an das <a href="https://metalab.at/" title="metalab">metalab</a> für das zur Verfügung stellen der Räumlichkeiten.
 
