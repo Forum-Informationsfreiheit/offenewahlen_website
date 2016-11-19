@@ -85,7 +85,7 @@ Eventuell Laptop mit Maus + Netzteil.
 In kleinen Gruppen (3-4 Personen) werden Ideen gesammelt und diskutiert.
 
 ### Ideen präsentieren und Gruppenfindung
-Jeder und jede kann eine Idee vorstellen. Nach den Ideen wählen die TeilnehmerInnen selbstständig die woran Sie die folgenden Stunden arbeiten wollen. Dies soll Gruppen zwischen 3 und 5 Personen ergeben.
+Jeder und jede kann eine Idee vorstellen. Nach den Ideen wählen die TeilnehmerInnen selbstständig woran Sie die folgenden Stunden arbeiten wollen. Dies soll Gruppen zwischen 3 und 5 Personen ergeben.
 
 ### Hacken, Basteln und Programmieren
 Hier wird gearbeitet. :)
@@ -103,6 +103,26 @@ Kurzes Good Bye, bevor es ins Gemütliche übergeht.
 - nutze die Daten um weitere Visualisierungen zu erstellen.
 
 ## RESSOURCEN ALLGEMEIN
+
+### <i class="fa fa-database" aria-hidden="true"></i> Wahldaten
+
+#### Open Data
+- [Ergebnisse EU Wahl 2014](https://www.data.gv.at/katalog/dataset/2b10a91b-51d5-4e34-b992-8fd3a3121f0d)
+- [Ergebnisse Nationalratswahl 2013](https://www.data.gv.at/katalog/dataset/09716341-2bea-4298-9525-e936d8247d19)
+- [Weitere Ergebnisse unter Suchbegriff "wahl"](https://www.data.gv.at/suche/?search-term=wahl&connection=and&search-data-only=search-data-only#showresults): hierbei handelt es sich um Teilergebnisse oder um nicht-bundesweite Wahlen (Landtags-, Gemeindewahlen)
+- [Liste österreichischer Parteien](https://github.com/OKFNat/data/tree/master/parteienverzeichnis)
+
+#### nicht-offene Daten
+- [SunSITE Universität Wien](http://sunsite.univie.ac.at/Austria/elections/)
+- [Österr. Wahlstudien @ AUTNES](http://autnes.at/?q=node/42)
+- [European Election Database](http://www.nsd.uib.no/european_election_database/country/austria/)
+- [MAPP](http://www.projectmapp.eu/databases/)
+- [Manifest Project](https://manifestoproject.wzb.eu/)
+- [Chapel Hill](http://chesdata.eu/)
+- [Volksbegehren](https://github.com/OKFNat/data/tree/master/volksbegehren)
+- [European Social Survey](http://www.europeansocialsurvey.org/)
+  - [Austria](http://www.europeansocialsurvey.org/data/country.html?c=austria)
+  - [Politics](http://www.europeansocialsurvey.org/data/themes.html?t=politics)
 
 ### Coden lernen
 - [Stackoverflow](https://stackoverflow.com): dort findet man jeden Menge Antworten auf häufig gestellte Fragen und kann auch selber Fragen an die Community stellen. Zuerst aber bitte nachsehen, ob die eigene Frage nicht schon mal wo beantwortet wurde (was zu Beginn zu 99% der Fälle so der Fall ist).
