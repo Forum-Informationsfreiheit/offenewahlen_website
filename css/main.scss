@@ -515,6 +515,20 @@ header {
     margin-bottom: 40px;
 }
 
+.content-source {
+  font-size: 0.8em;
+}
+.button-border-black {
+  display: inline-block;
+  line-height: 2em;
+  border: 2px solid black;
+  padding: 0.5em;
+  text-align: center;
+  background-color: white;
+  width: 100%;
+  margin: 20px 0;
+  color: black;
+}
 a .button-full-red {
   display: inline-block;
   line-height: 2em;

@@ -19,6 +19,9 @@ Der Inhalt steht, soweit nicht explizit anders erwähnt, unter der [Creative Com
 
 Eventuell Laptop mit Maus + Netzteil.
 
+<img src="{{ site.staticurl }}pages/metalab-hackathon/photo-3.jpg" alt="Hackathon Metalab" class="img-rounded">
+<p class="content-source">Foto by Stefan Kasberger (CC BY 4.0)</p>
+
 ## ABLAUF
 <table class="table">
 <tr>
@@ -71,6 +74,9 @@ Eventuell Laptop mit Maus + Netzteil.
 </tr>
 </table>
 
+<img src="{{ site.staticurl }}pages/metalab-hackathon/photo-1.jpg" alt="Hackathon Metalab" class="img-rounded">
+<p class="content-source">Foto by Stefan Kasberger (CC BY 4.0)</p>
+
 ### Einleitung Hackathon
 - Willkommen
 - Ablauf
@@ -79,7 +85,6 @@ Eventuell Laptop mit Maus + Netzteil.
 ### Einleitung Offene Wahlen Österreich
 - Projekt vorstellen
 - Open Data Datensätze vorstellen
-
 
 ### Brainstormen
 In kleinen Gruppen (3-4 Personen) werden Ideen gesammelt und diskutiert.
@@ -95,6 +100,9 @@ Zum Schluss präsentieren die Gruppen ihre Ergebnisse.
 
 ### Verabschiedung
 Kurzes Good Bye, bevor es ins Gemütliche übergeht.
+
+<img src="{{ site.staticurl }}pages/metalab-hackathon/photo-2.jpg" alt="Hackathon Metalab" class="img-rounded">
+<p class="content-source">Foto by Stefan Kasberger (CC BY 4.0)</p>
 
 ## WIE WEITER MACHEN?
 - Ergebnisse online stellen: Selber machen oder bei uns ([Schreib uns!](/kontakt)).

@@ -33,7 +33,7 @@ Laptop mit Maus + Netzteil
   - [Tutorial Visualisierungen](/visualisierungen) ansehen
 
 <img src="{{ site.staticurl }}pages/workshop-spektral/workshop-spektral.jpg" alt="Workshop Spektral" class="img-rounded">
-<p><a href="https://www.flickr.com/photos/murdelta/30369387720/in/album-72157674468625782/" title="Foto">Foto</a> by murdelta (CC BY 2.0)</p>
+<p class="content-source"><a href="https://www.flickr.com/photos/murdelta/30369387720/in/album-72157674468625782/" title="Foto">Foto</a> by murdelta (CC BY 2.0)</p>
 
 ## ABLAUF
 <table class="table">

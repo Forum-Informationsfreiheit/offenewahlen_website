@@ -11,6 +11,7 @@ menu_ressourcen: true
 - [Futurezone.at - Community-Projekt Offene Wahlen gestartet](https://futurezone.at/netzpolitik/community-projekt-offene-wahlen-gestartet/219.250.524)
 - [derStandard.at - Ruf nach freien Wahlergebnissen für alle](http://derstandard.at/2000040468184/Ruf-nach-freien-Wahlergebnissen-fuer-alle)
 - [okfn.at - Open Data Schnittstelle für transparente Wahlergebnisse schaffen!](http://okfn.at/2016/07/05/open-data-schnittstelle-fuer-transparente-wahlergebnisse-schaffen/)
+- [Spezifikation einer offenen Schnittstelle für Wahlergebnisse](https://github.com/ximex/offenewahlen-api-spec)
 
 ### <i class="fa fa-check-square-o" aria-hidden="true"></i> Wahlen in Österreich
 - [Wikipedia - Wahlen in Österreich](https://de.wikipedia.org/wiki/Wahlen_in_%C3%96sterreich)

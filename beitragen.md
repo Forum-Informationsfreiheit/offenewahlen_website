@@ -20,10 +20,9 @@ menu_beitragen: true
 </div>
 
 <div class="col-xs-12 col-md-6 beitrage-punkt">
-<h3 class="text-center"><i class="fa fa-calendar" aria-hidden="true"></i> Termine</h3>
-<img src="{{ site.staticurl }}blog/2016/10/refugeehack.jpg" alt="Bild Hackathon" class="img-rounded">
-<p>Besuche eine unserer <a href="/termine/" title="Termine">Veranstaltungen</a> oder hilf mit als Freiwilliger.</p>
-<a href="/hackathon-metalab" title="Hackathon Metalab"><button class="button-full-red">19. November: Hackathon @ metalab Wien</button></a>
+<h3 class="text-center"><i class="fa fa-file-code-o" aria-hidden="true"></i> Offener Datenstandard</h3>
+<img src="{{ site.staticurl }}pages/datenstandard/datenstandard.png" alt="Datenstandard" class="img-rounded">
+<p>Hilf mit einen offenen Datenstandard für die Wahldaten zu erstellen. Bei Interesse bitte mit uns <a href="/kontakt" title="Kontakt">Kontakt</a> aufnehmen.</p>
 </div>
 
 <div class="col-xs-12 col-md-6 beitrage-punkt">
