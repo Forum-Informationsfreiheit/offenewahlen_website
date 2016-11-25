@@ -7,7 +7,7 @@ menu_beitragen: true
 ---
 
 <div id="page-beitragen">
-<h4 class="col-sm-10 col-sm-offset-1 text-center">Im Geiste von freier Software ist jedeR dazu ermutigt, sich einzubringen und das Projekt zu verbessern - Offenheit lebt von Teilhabe. Hier einige Möglichkeiten wie du dich einbringen kannst.</h4>
+<h4 class="col-sm-10 col-sm-offset-1 text-center">Im Geiste von freier Software ist jedeR dazu ermutigt, sich einzubringen und das Projekt zu verbessern - Offenheit lebt von Teilhabe. Hier einige Möglichkeiten, wie du dich einbringen kannst.</h4>
 
 <div class="wo-beitragen">
 
@@ -16,19 +16,19 @@ menu_beitragen: true
 <div class="col-xs-12 col-md-6 beitrage-punkt">
 <h3 class="text-center"><i class="fa fa-pencil" aria-hidden="true"></i> Forderungen</h3>
 <img src="{{ site.staticurl }}blog/2016/10/forderungen.png" alt="Screenshot Forderungen" class="img-rounded">
-<p>Die Forderungen werden gemeinsam mit der Community online ausgearbeitet und dann dem BMI überbracht. Weiters wird ein offener Datenstandard für die Ergebnis-Daten übermittelt. Näheres dazu auf der <a href="/forderungen-v1" alt="Forderungen">Seite</a>.</p>
+<p>Die Forderungen werden gemeinsam online ausgearbeitet und dann dem Innenministerium überreicht. Weiters wird ein offener Datenstandard für die Ergebnis-Daten übermittelt. Näheres dazu auf der <a href="/forderungen-v1" alt="Forderungen">Seite</a>.</p>
 </div>
 
 <div class="col-xs-12 col-md-6 beitrage-punkt">
 <h3 class="text-center"><i class="fa fa-file-code-o" aria-hidden="true"></i> Offener Datenstandard</h3>
 <img src="{{ site.staticurl }}pages/datenstandard/datenstandard.png" alt="Datenstandard" class="img-rounded">
-<p>Hilf mit einen offenen Datenstandard für die Wahldaten zu erstellen. Bei Interesse bitte mit uns <a href="/kontakt" title="Kontakt">Kontakt</a> aufnehmen.</p>
+<p>Hilf mit, einen offenen Datenstandard für die Wahldaten zu erstellen. Bei Interesse nimm bitte mit uns <a href="/kontakt" title="Kontakt">Kontakt</a> auf.</p>
 </div>
 
 <div class="col-xs-12 col-md-6 beitrage-punkt">
 <h3 class="text-center"><i class="fa fa-bar-chart" aria-hidden="true"></i> Daten nutzen</h3>
 <img src="{{ site.staticurl }}blog/2016/10/saeulen-diagramm.png" alt="Bild Säulendiagramm" class="img-rounded">
-Letzten Endes sollen die Daten natürlich genutzt werden und daraus ein gesellschaftlicher Mehrwert entstehen. Wenn du Ideen dazu hast oder selber Daten für eine <strong>Visualisierung</strong>, eine <strong>App</strong>, eine <strong>wissenschaftliche Analyse</strong> oder sonst wie verwendest: melde dich bitte damit wir dies hier sichtbar machen können.
+Schließlich sollen die Daten natürlich genutzt werden und daraus ein gesellschaftlicher Mehrwert entstehen. Wenn du Ideen dazu hast oder selber Daten für eine <strong>Visualisierung</strong>, eine <strong>App</strong>, eine <strong>wissenschaftliche Analyse</strong> oder sonst wie verwendest: Melde dich bitte damit wir dies hier sichtbar machen können.
 </div>
 
 <div class="col-xs-12 col-md-6 beitrage-punkt">

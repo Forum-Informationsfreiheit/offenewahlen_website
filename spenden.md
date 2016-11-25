@@ -6,12 +6,12 @@ menu_kontakt: yes
 comments: true
 ---
 
-**Unterstützen Sie Offene Wahlen Österreich und helfen Sie mit Wissen zu befreien.**
+**Unterstützen Sie Offene Wahlen Österreich und helfen Sie, mit Wissen zu befreien.**
 
-Offene Wahlen Österreich ist eine ehrenamtliche organisierte Initiative von Open Knowledge Österreich. Wir sind daher auf die Unterstützung von Außen angewiesen um unsere Aktivitäten erfolgreich umzusetzen.
+Offene Wahlen Österreich ist eine ehrenamtliche organisierte Initiative von Open Knowledge Österreich. Wir sind daher auf die Unterstützung von außen angewiesen, um unsere Aktivitäten erfolgreich umzusetzen.
 
 ### Bankverbindung
-Open Knowledge Forum Österreich
+Verein Open Knowledge Forum Österreich
 
 IBAN AT18 2011 1823 1789 3600
 

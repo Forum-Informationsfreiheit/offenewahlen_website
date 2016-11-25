@@ -6,7 +6,7 @@ menu_tutorials: true
 ---
 
 <div id="tutorials">
-<h4 class="col-sm-10 col-sm-offset-1 text-center">Im Geiste von freier Software ist jedeR dazu ermutigt, sich einzubringen und das Projekt zu verbessern - Offenheit lebt von Teilhabe. Hier einige Möglichkeiten wie du dich einbringen kannst.</h4>
+<h4 class="col-sm-10 col-sm-offset-1 text-center">Wahldaten warten darauf, weiterverarbeitet zu werden. Hier findest du Inspiration dazu.</h4>
 
 <div class="tutorial col-xs-12 col-sm-6">
 
