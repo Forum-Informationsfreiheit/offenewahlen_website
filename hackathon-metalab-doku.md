@@ -102,6 +102,8 @@ Peter Kraker beschäftigte sich mit der Nachrichtenflut zu Wahlen, die nur noch 
 
 Thomas Rupprecht und Markus Stoff haben an einer Spezifikation einer Rest-API (also einer standardisierten Schnittstelle auf die Wahldaten) gearbeitet. Hierfür wurde das Tool [Swagger](http://swagger.io/) und die Spezifikations-Vorlage von [Open API Initiative](https://www.openapis.org/) ([Open API Specification v2.0](https://github.com/OAI/OpenAPI-Specification/blob/master/versions/2.0.md)) verwendet. Jeder kann an dem [ersten Draft der Spezifikation](https://github.com/ximex/offenewahlen-api-spec) weitermachen. Einfach den [GUI Editor](http://www.booknds.com/SwaggerGraphicalEditor/index.html) öffnen, dort die Spezifikation laden die im Github Repository liegt und schon kann die Spezifikation verändert bzw. erweitert werden. Die Änderungen können dann via Pull Request wieder zurück geführt werden.
 
+Weiters wurde über eine passende visuelle Darstellung von Nicht-Wahlberechtigten mittels 3D-Druck-Technologie überlegt. Anforderung ist ein ästhetisch ansprechendes Modell zu erstellen, welches als Schichtmodell die Nicht-Wahlberechtigten, die NichtwählerInnen plus ungültig gewählten Stimmen, die Hofer Stimmen und die Van der Bellen Stimmen des zweiten Wahlganges der Bundespräsidentenwahl beinhaltet. Im Sinne des Lego-Baustein-Systems sollen die Schichten dann je nach eigener Vorliebe aufeinander gesteckt werden können.
+
 ### Verabschiedung
 Kurzes Good Bye, bevor es ins Gemütliche übergeht.
 
