@@ -98,6 +98,10 @@ Hier wird gearbeitet. :)
 ### Präsentieren der Ergebnisse
 Zum Schluss präsentieren die Gruppen ihre Ergebnisse.
 
+Peter Kraker beschäftigte sich mit der Nachrichtenflut zu Wahlen, die nur noch schwer überschaubar ist. Konkret präsentierte eine Erweiterung von [Open Knowledge Maps](http://openknowledgemaps.org) auf Nachrichten. Damit lassen sich die neusten Einträge von Google News für eine beliebige Suchanfrage clustern und interaktiv explorieren.
+
+Thomas Rupprecht und Markus Stoff haben an einer Spezifikation einer Rest-API (also einer standardisierten Schnittstelle auf die Wahldaten) gearbeitet. Hierfür wurde das Tool [Swagger](http://swagger.io/) und die Spezifikations-Vorlage von [Open API Initiative](https://www.openapis.org/) ([Open API Specification v2.0](https://github.com/OAI/OpenAPI-Specification/blob/master/versions/2.0.md)) verwendet. Jeder kann an dem [ersten Draft der Spezifikation](https://github.com/ximex/offenewahlen-api-spec) weitermachen. Einfach den [GUI Editor](http://www.booknds.com/SwaggerGraphicalEditor/index.html) öffnen, dort die Spezifikation laden die im Github Repository liegt und schon kann die Spezifikation verändert bzw. erweitert werden. Die Änderungen können dann via Pull Request wieder zurück geführt werden.
+
 ### Verabschiedung
 Kurzes Good Bye, bevor es ins Gemütliche übergeht.
 
