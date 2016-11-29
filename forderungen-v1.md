@@ -6,12 +6,22 @@ comments: true
 menu_forderungen: true
 ---
 
-Auf dieser Seite erarbeiten wir gemeinsam unsere Forderungen an das Bundesministerium für Inneres (BMI). Warum uns die Öffnung der Wahldaten in Österreich wichtig ist, kannst du auf der Seite über <a href="/ueber-uns" title="Über uns">das Projekt</a> nachlesen. Die allerersten Forderungen haben wir bereits am 5. Juli als <a href="http://okfn.at/2016/07/05/open-data-schnittstelle-fuer-transparente-wahlergebnisse-schaffen/" title="Offener Brief">Offenen Brief</a> übermittelt. <a href="http://derstandard.at/2000040468184/Ruf-nach-freien-Wahlergebnissen-fuer-alle" title="Ruf nach freien Wahlergebnissen für alle - Standard">Hier</a> die offizielle Reaktion des BMI dazu.
+<div class="text-center"><strong>Bring dich ein, und erarbeite mit uns gemeinsam Forderungen für offene Wahldaten an die Politik.</strong></div><br>
 
-Die Seite wird versioniert. Aktuell liegen sie unter der **Version 1** vor, bei genügend Änderungen wird eine Version hochgezählt.  
+Hier werden die Forderungen zur Wahlrechtsreform 2017 in Bezug auf Open Data erarbeitet. Bring dich jetzt dazu ein um eine möglichst gute Wahlrechtsreform zu erwirken. Aus den gesammelten Einreichungen erstellen wir dann den finalen Forderungs-Katalog zur Wahlrechtsreform. Dieser wird Anfang 2017 dem Innenministerium sowie den politischen Parteien übergeben und dient uns als Grundlage für Gespräche mit den verschiedenen Akteuren. Wenn du dich fragst, warum offene Wahldaten überhaupt notwendig sind, kannst du dazu auf der <a href="/ueber-uns" title="Über uns">Projekt-Seite</a> nachlesen.
+
+## Bring dich ein
+Dies ist jetzt der erste Vorschlag, denn wir gemeinsam mit euch diskutieren und verbessern wollen. Um sich einzubringen, gibt es mehrere Möglichkeiten:
+
+**1. Annotiere deine Meinung direkt im Artikel.** Diese Seite verwendet das Annotations-Tool [Hypothesis](https://hypothes.is/), welches rechts als Seitenleiste ausklappbar ist. Damit kann einfach Text (einen Absatz, ein Wort oder einfach nur ein Satzzeichen) markiert und eine Nachricht dazu angehängt (annotiert) werden. Dies kann auch zum gesamten Dokument mittels “new page note” gemacht werden (z. B. für Meta-Themen und Allgemeines). Nach der Registrierung deines Accounts, kannst du gleich loslegen und annotieren.
+
+**2. Bring dein Feedback als <i class="fa fa-pencil-square-o" aria-hidden="true"></i> Kommentar unten ein**.
+
+**3. Nutze den Hashtag** [<i class="fa fa-hashtag" aria-hidden="true"></i>OffeneWahlenAT](https://twitter.com/search?f=tweets&q=%23OffeneWahlenAT&src=typd) auf Twitter.
+
+**4. [Kontakt](/kontakt)** aufnehmen.
 
 ## Unsere Forderungen
-Bei Ergebnissen sind immer die Vorergebnisse bei noch nicht kompletten Auszählungsgrad gemeint.
 
 <ol class="liste-forderungen">
 <li><strong>Offene Urheberrechts-Lizenzen:</strong> Daten und Content sollen frei zugänglich, nutzbar und teilbar sein - für jeden Zweck und für alle.</li>
@@ -27,7 +37,7 @@ Bei Ergebnissen sind immer die Vorergebnisse bei noch nicht kompletten Auszählu
 <li><strong>Rückwirkend:</strong> auf der Schnittstelle sollen auch die Ergebnisse vergangener Wahlen für einen einfachen Vergleich aufbereitet sein.</li>
 </ol>
 
-## Details
+## Details zu den Forderungen
 
 ### 1: Offene Lizenzen
 Das Urheberrecht für die Werke ist der wichtigste Punkt für Open Data. Dabei ist sich an die Open Definition und den [Open Government Data Grundsätzen](https://www.data.gv.at/infos/cooperation-ogd-oesterreich/) zu orientieren. Das BMI erlaubt aktuell die Nutzung, nimmt aber kommerzielle Aktivitäten aus. Dies ist eine unnötige Barriere die Innovation verhindert. Weiters ist die Klausel rechtlich nicht klar definiert, und so betrifft dies auch die Wikipedia, da auch diese Ein- und Ausnahmen hat. Es ist davor prinzipiell zu prüfen, ob die Daten überhaupt dem Urheberrecht oder einem anderen rechtlichen Schutz wie dem Leistungsschutzrecht unterliegen. An und für sich ist Public Domain für öffentliche Daten vorzuziehen, ansonst ist der Open Government Data Standard in Österreich für Daten und Content die [CC BY 3.0 AT](https://creativecommons.org/licenses/by/3.0/at/) Lizenz.
@@ -68,15 +78,6 @@ Die Daten sollen permanent zugänglich gemacht werden. Dazu benötigt es einen s
 ### 11: Rückwirkend
 Um Vergleiche über längere Zeiträume machen und die politische Veränderung Österreichs kartieren zu können, braucht es auch rückwirkend die Ergebnisse aus vergangenen Wahlen.
 
-## Bring dich ein
-Dies ist jetzt der erste Vorschlag, denn wir gemeinsam mit euch diskutieren und verbessern wollen. Um sich einzubringen, gibt es mehrere Möglichkeiten:
-
-**1. Annotiere deine Meinung direkt im Artikel.** Diese Seite verwendet das Annotations-Tool [Hypothesis](https://hypothes.is/), welches rechts als Seitenleiste ausklappbar ist. Damit kann einfach Text (einen Absatz, ein Wort oder einfach nur ein Satzzeichen) markiert und eine Nachricht dazu angehängt (annotiert) werden. Dies kann auch zum gesamten Dokument mittels “new page note” gemacht werden (z. B. für Meta-Themen und Allgemeines). Nach der Registrierung deines Accounts, kannst du gleich loslegen und annotieren.
-
-**2. Bring dein Feedback als <i class="fa fa-pencil-square-o" aria-hidden="true"></i> Kommentar ein**.
-
-**3. Nutze den Hashtag** <i class="fa fa-hashtag" aria-hidden="true"></i>[OffeneWahlenAT](https://twitter.com/search?f=tweets&q=%23OffeneWahlenAT&src=typd) auf Twitter.
-
-**4. [Kontakt](/kontakt)** aufnehmen.
+Die Seite wird versioniert. Aktuell liegt sie unter der **Version 1** vor, bei genügend Änderungen wird eine Version hochgezählt.  
 
 <script async defer src="https://hypothes.is/embed.js"></script>
