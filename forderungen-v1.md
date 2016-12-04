@@ -33,7 +33,7 @@ Dies ist jetzt der erste Vorschlag, denn wir gemeinsam mit euch diskutieren und 
 <li><strong>Gesamter Wahlprozess:</strong> Eine Wahl ist viel mehr als nur der Wahltag. Für die Nutzung braucht es die Informationen zum gesamten Wahlprozess.</li>
 <li><strong>Komplett und als Ganzes:</strong> Daten sollen richtig und vollständig sein.</li>
 <li><strong>Granular:</strong> die Daten sollen in der möglichst kleinsten räumlichen (Sprengel) und zeitlichen Auflösung, also als Rohdaten, angeboten werden.</li>
-<li><strong>Permanten zugänglich:</strong> URL’s und Repository sollen konstanten und langfristigen Zugang über Jahrzehnte sicherstellen.</li>
+<li><strong>Permanent zugänglich:</strong> URL’s und Repository sollen konstanten und langfristigen Zugang über Jahrzehnte sicherstellen.</li>
 <li><strong>Rückwirkend:</strong> auf der Schnittstelle sollen auch die Ergebnisse vergangener Wahlen für einen einfachen Vergleich aufbereitet sein.</li>
 </ol>
 
