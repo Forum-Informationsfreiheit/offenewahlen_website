@@ -28,7 +28,7 @@ menu_beitragen: true
 <div class="col-xs-12 col-md-6 beitrage-punkt">
 <h3 class="text-center"><i class="fa fa-bar-chart" aria-hidden="true"></i> Daten nutzen</h3>
 <img src="{{ site.staticurl }}blog/2016/10/saeulen-diagramm.png" alt="Bild Säulendiagramm" class="img-rounded">
-Schließlich sollen die Daten natürlich genutzt werden und daraus ein <strong>gesellschaftlicher Mehrwert</strong> entstehen. Wenn du Ideen dazu hast oder selber Daten für eine Visualisierung, eine App, eine wissenschaftliche Analyse oder sonst wie verwendest: Melde dich bitte damit wir dies hier sichtbar machen können.
+Die Daten sollen genutzt werden und so daraus ein <strong>gesellschaftlicher Mehrwert</strong> entstehen. Zur Anregung haben wir ein paar <a href="Tutorials" title="Tutorials">Tutorials</a> erstellt. Wenn du Ideen hast oder selber Daten für eine Visualisierung, eine App, eine wissenschaftliche Analyse oder sonst wie verwendest: Melde dich bitte damit wir dies hier sichtbar machen können.
 </div>
 
 <div class="col-xs-12 col-md-6 beitrage-punkt">

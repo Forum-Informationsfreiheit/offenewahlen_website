@@ -118,3 +118,37 @@ Peter interessiert sich für Wahlen und programmiert gerne. Er bringt sich vor a
 </div>
 
 </div>
+
+<div class="infos col-sm-10 col-sm-offset-1">
+
+<h3><i class="fa fa-info-circle" aria-hidden="true"></i> Infos zum Projekt</h3>
+<ul>
+<li><a href="https://youtu.be/LMK99tF9xYo" title="Video: Projekt-Launch beim 8. netzpolitischen Abend @ metalab">Video: Projekt-Launch beim 8. netzpolitischen Abend @ metalab</a></li>
+<li><a href="https://futurezone.at/netzpolitik/community-projekt-offene-wahlen-gestartet/219.250.524" title="Futurezone.at - Community-Projekt Offene Wahlen gestartet">Futurezone.at - Community-Projekt Offene Wahlen gestartet</a></li>
+<li><a href="http://derstandard.at/2000040468184/Ruf-nach-freien-Wahlergebnissen-fuer-alle" title="derStandard.at - Ruf nach freien Wahlergebnissen für alle">derStandard.at - Ruf nach freien Wahlergebnissen für alle</a></li>
+<li><a href="http://okfn.at/2016/07/05/open-data-schnittstelle-fuer-transparente-wahlergebnisse-schaffen/" title="okfn.at - Open Data Schnittstelle für transparente Wahlergebnisse schaffen!">okfn.at - Open Data Schnittstelle für transparente Wahlergebnisse schaffen!</a></li>
+<li><a href="https://github.com/ximex/offenewahlen-api-spec" title="Spezifikation einer offenen Schnittstelle für Wahlergebnisse">Spezifikation einer offenen Schnittstelle für Wahlergebnisse</a></li>
+</ul>
+
+<h3 id="i-classfa-fa-check-square-o-aria-hiddentruei-wahlen-in-sterreich"><i class="fa fa-check-square-o" aria-hidden="true"></i> Wahlen in Österreich</h3>
+<ul>
+  <li><a href="https://de.wikipedia.org/wiki/Wahlen_in_%C3%96sterreich">Wikipedia - Wahlen in Österreich</a></li>
+  <li><a href="https://www.help.gv.at/Portal.Node/hlpd/public/content/32/Seite.320000.html">help.gv.at - Wahlen</a></li>
+  <li><a href="https://de.wikipedia.org/wiki/Bundespr%C3%A4sidentenwahl_in_%C3%96sterreich_2016">Wikipedia - Bundespräsidentenwahl in Österreich 2016</a></li>
+  <li><a href="http://www.bmi.gv.at/cms/bmi_wahlen/">Bundesministerium für Inneres (BMI): Wahlen</a></li>
+  <li><a href="https://www.washingtonpost.com/news/monkey-cage/wp/2016/07/01/we-checked-austrias-extremely-close-may-2016-election-for-fraud-heres-what-we-found/">Washington Post - The Austrian presidential election shows no evidence of fraud. We used election forensics to check.</a></li>
+  <li><a href="https://cms.falter.at/falter/2016/09/06/eine-mathematik-lektion-fuer-den-vfgh/">Falter - Eine Mathematik-Lektion für den VfGH</a></li>
+  <li><a href="http://derstandard.at/2000041882174/Bundespraesidentenwahl-Manipulation-schaut-anders-aus?ref=article">Der Standard - Bundespräsidentenwahl: Manipulation schaut anders aus</a></li>
+  <li><a href="http://orf.at//stories/2340649/">ORF - „Wundersame Wählervermehrung“ in Waidhofen/Ybbs</a></li>
+  <li><a href="https://soundcloud.com/nzz-at/clubabend-die-wahl-der-qual">NZZ - Die Qual der Wahl (Podcast)</a></li>
+</ul>
+
+<h3 id="i-classfa-fa-info-circle-aria-hiddentruei-informationen-zu-open-data-und-wahlen"><i class="fa fa-info-circle" aria-hidden="true"></i> Informationen zu Open Data und Wahlen</h3>
+<ul>
+  <li><a href="http://www.openelectiondata.net/en/">Open Election Data Inintiative</a></li>
+  <li><a href="https://blog.openelections.net/">OpenElections</a></li>
+  <li><a href="http://opendatahandbook.org/">Open Data Handbook</a></li>
+  <li><a href="http://sunlightfoundation.com/opendataguidelines/">Sunlight Foundation: Open Data Policy Guidelines</a></li>
+</ul>
+
+</div>
