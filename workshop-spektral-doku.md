@@ -32,7 +32,7 @@ Laptop mit Maus + Netzteil
 - Optional
   - [Tutorial Visualisierungen](/visualisierungen) ansehen
 
-<img src="{{ site.staticurl }}pages/workshop-spektral/workshop-spektral.jpg" alt="Workshop Spektral" class="img-rounded">
+<img src="{{ site.staticurl }}pages/2016-10-19-workshop-spektral/workshop-spektral.jpg" alt="Workshop Spektral" class="img-rounded">
 <p class="content-source"><a href="https://www.flickr.com/photos/murdelta/30369387720/in/album-72157674468625782/" title="Foto">Foto</a> by murdelta (CC BY 2.0)</p>
 
 ## ABLAUF
@@ -79,11 +79,16 @@ Laptop mit Maus + Netzteil
 </tr>
 </table>
 
-### Einleitung
+## Einleitung
 - Willkommen
 - Ablauf
 - Vorstellen Trainer, Event und Offene Wahlen
 - Vorstellungsrunde TeilnehmerInnen
+
+### Offene Wahlen Österreich
+Vorstellung des Projektes durch Stefan Kasberger ([Folien]({{ site.staticurl }}pages/2016-10-19-workshop-spektral/presentation-offene-wahlen.pdf)).
+
+## Workshops
 
 ### Website mit GitHub (AnfängerInnen)
 **Was du lernst:** Website erstellen in HTML und CSS mit [GitHub Pages](https://pages.github.com/) mit [Christopher Kittel](http://christopherkittel.eu/) und [Stefan Kasberger](http://stefankasberger.at).
@@ -119,7 +124,7 @@ Laptop mit Maus + Netzteil
 
 **Ablauf**
 
-Hier die [Präsentation]({{ site.staticurl }}pages/workshop-spektral/JS-Coden-101.pdf).
+Hier die [Präsentation]({{ site.staticurl }}pages/2016-10-19-workshop-spektral/JS-Coden-101.pdf).
 
 **Ressourcen**
 
@@ -135,17 +140,17 @@ Hier die [Präsentation]({{ site.staticurl }}pages/workshop-spektral/JS-Coden-10
 
 Die Dateien von [Flooh Perlot](http://drawingdata.net/):
 
-- [balken.html]({{ site.staticurl }}pages/workshop-spektral/balken.html)
-- [template_balken.html]({{ site.staticurl }}pages/workshop-spektral/template_balken.html)
+- [balken.html]({{ site.staticurl }}pages/2016-10-19-workshop-spektral/balken.html)
+- [template_balken.html]({{ site.staticurl }}pages/2016-10-19-workshop-spektral/template_balken.html)
 
 ### Wahlkarte mit JavaScript (AnfängerInnen)
 **Was du lernst:** Wahlergebnisse mittels JavaScript auf einer Karte darstellen.
 
 Die Dateien von [Flooh Perlot](http://drawingdata.net/):
 
-- [template_karte.html]({{ site.staticurl }}pages/workshop-spektral/template_karte.html)
-- [gemeindeergebnisse.csv]({{ site.staticurl }}pages/workshop-spektral/gemeindeergebnisse.csv)
-- [gemeinden.json]({{ site.staticurl }}pages/workshop-spektral/gemeinden.json)
+- [template_karte.html]({{ site.staticurl }}pages/2016-10-19-workshop-spektral/template_karte.html)
+- [gemeindeergebnisse.csv]({{ site.staticurl }}pages/2016-10-19-workshop-spektral/gemeindeergebnisse.csv)
+- [gemeinden.json]({{ site.staticurl }}pages/2016-10-19-workshop-spektral/gemeinden.json)
 
 ## WIE WEITER MACHEN?
 - Ergebnisse online stellen: Selber machen oder bei uns ([Schreib uns!](/kontakt)).

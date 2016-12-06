@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 'Offene Wahlen Webcast #1'
-permalink: /webcast-1
+permalink: /termine/webcast-1/
 comments: true
 ---
 
@@ -21,7 +21,8 @@ Und verfolge den Webcast-Chat (keine Webcam) via Youtube, live oder im Nachhinei
 
 <h2 class="text-center">Webcast-Aufzeichnung auf Youtube ansehen</h2>
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/OHw4cCBajiQ" frameborder="0" allowfullscreen></iframe>
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/oxXJ2oaPfeInOl" width="750" height="600" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/cheeseman1983/offene-wahlen-webcast-1" title="Offene Wahlen Webcast #1" target="_blank">Offene Wahlen Webcast #1</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/cheeseman1983">Stefan Kasberger</a></strong> </div>
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/oxXJ2oaPfeInOl" width="750" height="600" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/cheeseman1983/offene-wahlen-webcast-1" title="Offene Wahlen Webcast #1" target="_blank">Offene Wahlen Webcast #1</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/cheeseman1983">Stefan Kasberger</a></strong> (<a href="{{ site.staticurl }}pages/2016-11-08-webcast/presentation-offene-wahlen.pdf" title="Folien">*.pdf</a>)</div>
 
 <div class="col-xs-12">
 <h2 class="text-center">Webcast Evaluierung</h2>

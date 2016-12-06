@@ -1,7 +1,7 @@
 ---
 layout: page
 title: OpenCon 2016 Offene Wahlen Hackathon
-permalink: /hackathon-metalab
+permalink: /termine/hackathon-metalab/
 comments: true
 ---
 
@@ -31,11 +31,11 @@ Vielen Dank an das <a href="https://metalab.at/" title="metalab">metalab</a> fü
 
 <div id="opencon" class="text-center col-xs-12">
 <p>Der Hackathon findet als <a href="http://www.opencon2016.org/opencon_2016_offene_wahlen_hackathon" title="OpenCon Satelitte Event">OpenCon 2016 Satellite Event</a> statt.</p>
-<a title="OpenCon Banner" href="http://www.opencon2016.org/opencon_2016_offene_wahlen_hackathon"><img src="{{ site.staticurl }}pages/metalab-hackathon/opencon-banner.png" alt="OpenCon Banner" /></a>
+<a title="OpenCon Banner" href="http://www.opencon2016.org/opencon_2016_offene_wahlen_hackathon"><img src="{{ site.staticurl }}pages/2016-11-19-hackathon-metalab/opencon-banner.png" alt="OpenCon Banner" /></a>
 </div>
 
 
-<a href="/hackathon-metalab-doku" title="Hackathon metalab Dokumentation & Resources"><button class="button-full-red">Hackathon Dokumentation & Ressourcen</button></a>
+<a href="/termine/hackathon-metalab/doku" title="Hackathon metalab Dokumentation & Resources"><button class="button-full-red">Hackathon Dokumentation & Ressourcen</button></a>
 
 <div class="row col-xs-12">
 <h3>Eine Veranstaltung von:</h3>

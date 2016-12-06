@@ -1,13 +1,14 @@
 ---
 layout: page
 title: Dokumentation Hackathon @ Metalab
-permalink: /hackathon-metalab-doku
+permalink: /termine/hackathon-metalab/doku/
 comments: true
 ---
 
-- [Hackathon Metalab](/hackathon-metalab), 19. November 2016, 12 - 19 Uhr
+- [Hackathon Metalab](/termin/hackathon-metalab), 19. November 2016, 12 - 19 Uhr
 - Betreuer:
   - [Stefan Kasberger](http://stefankasberger.at) (Open Knowledge Austria)
+- [Präsentation]({{ site.staticurl }}pages/2016-11-19-hackathon-metalab/presentation-offene-wahlen.pdf)
 - [Etherpad](http://pad.okfn.org/p/OffeneWahlenAT-Metalab)
 - <a href="https://twitter.com/search?f=tweets&q=%23OffeneWahlenAT&src=typd" title="OffeneWahlenAT"><i class="fa fa-hashtag" aria-hidden="true"></i>OffeneWahlenAT</a> <a href="https://twitter.com/search?f=tweets&q=%23OpenCon&src=typd" title="OpenCon"><i class="fa fa-hashtag" aria-hidden="true"></i>OpenCon</a> <a href="https://twitter.com/search?f=tweets&q=%23BPW16&src=typd" title="BPW16"><i class="fa fa-hashtag" aria-hidden="true"></i>BPW16</a>
 
@@ -19,7 +20,7 @@ Der Inhalt steht, soweit nicht explizit anders erwähnt, unter der [Creative Com
 
 Eventuell Laptop mit Maus + Netzteil.
 
-<img src="{{ site.staticurl }}pages/metalab-hackathon/photo-3.jpg" alt="Hackathon Metalab" class="img-rounded">
+<img src="{{ site.staticurl }}pages/2016-11-19-hackathon-metalab/photo-3.jpg" alt="Hackathon Metalab" class="img-rounded">
 <p class="content-source">Foto by Stefan Kasberger (CC BY 4.0)</p>
 
 ## ABLAUF
@@ -74,7 +75,7 @@ Eventuell Laptop mit Maus + Netzteil.
 </tr>
 </table>
 
-<img src="{{ site.staticurl }}pages/metalab-hackathon/photo-1.jpg" alt="Hackathon Metalab" class="img-rounded">
+<img src="{{ site.staticurl }}pages/2016-11-19-hackathon-metalab/photo-1.jpg" alt="Hackathon Metalab" class="img-rounded">
 <p class="content-source">Foto by Stefan Kasberger (CC BY 4.0)</p>
 
 ### Einleitung Hackathon
@@ -82,9 +83,13 @@ Eventuell Laptop mit Maus + Netzteil.
 - Ablauf
 - Vorstellungsrunde TeilnehmerInnen
 
+[Folien]({{ site.staticurl }}pages/2016-11-19-hackathon-metalab/presentation-offene-wahlen.pdf)
+
 ### Einleitung Offene Wahlen Österreich
 - Projekt vorstellen
 - Open Data Datensätze vorstellen
+
+[Folien]({{ site.staticurl }}pages/2016-11-19-hackathon-metalab/presentation-offene-wahlen.pdf)
 
 ### Brainstormen
 In kleinen Gruppen (3-4 Personen) werden Ideen gesammelt und diskutiert.
@@ -107,7 +112,7 @@ Weiters wurde über eine passende visuelle Darstellung von Nicht-Wahlberechtigte
 ### Verabschiedung
 Kurzes Good Bye, bevor es ins Gemütliche übergeht.
 
-<img src="{{ site.staticurl }}pages/metalab-hackathon/photo-2.jpg" alt="Hackathon Metalab" class="img-rounded">
+<img src="{{ site.staticurl }}pages/2016-11-19-hackathon-metalab/photo-2.jpg" alt="Hackathon Metalab" class="img-rounded">
 <p class="content-source">Foto by Stefan Kasberger (CC BY 4.0)</p>
 
 ## WIE WEITER MACHEN?
