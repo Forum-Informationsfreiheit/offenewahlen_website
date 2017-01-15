@@ -4,3 +4,7 @@ _site
 test.md
 notes.md
 todo/
+*.sublime-project
+*.sublime-workspace
+notes/
+
