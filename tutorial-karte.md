@@ -70,7 +70,7 @@ Wir definieren zunächst eine Variable `projection` mit der in d3.js vorgegebene
 
 Auf den ersten Blick mag das kryptisch wirken. Dieser Ablauf ist für viele Kartendarstellungen identisch, man kann ihn daher einfach auch kopieren und verwenden. Das Verständnis stellt sich meistens im Lauf der Zeit ein.
 
-Als nächstes laden wir die Kartendatei ([hier](gemeinden.json)), die als `json` vorliegt, mit dem entsprechenden Befehl und speichern sie in die Variable `map`:
+Als nächstes laden wir die Kartendatei ([hier](assets/pages/tutorial-karte/gemeinden.json)), die als `json` vorliegt, mit dem entsprechenden Befehl und speichern sie in die Variable `map`:
 
 ```javascript
 d3.json("gemeinden.json", function(grenzen)
@@ -159,7 +159,7 @@ Jetzt können wir die Datei speichern. Um aus dem deutschen Excel eine gut verwe
 * die Datei speichern
 * die Dateiendung auf ".csv" ändern
 
-Eine fertige Datei kann [hier](gemeindeergebnisse.csv) heruntergeladen werden (Achtung: die Datei unterliegt dem Urheberrecht der [Original-Datei vom BMI](http://www.bmi.gv.at/cms/BMI_wahlen/bundespraes/bpw_2016/FILES/Endgueltiges_Gesamtergebnis_BPW16_1WG.xlsx)).
+Eine fertige Datei kann [hier](assets/pages/tutorial-karte/gemeindeergebnisse.csv) heruntergeladen werden (Achtung: die Datei unterliegt dem Urheberrecht der [Original-Datei vom BMI](http://www.bmi.gv.at/cms/BMI_wahlen/bundespraes/bpw_2016/FILES/Endgueltiges_Gesamtergebnis_BPW16_1WG.xlsx)).
 
 Nach dieser Tour de force ist das Laden der Datei in Javascript ein kleiner Schritt:
 
@@ -200,7 +200,7 @@ Soweit gerüstet geht es nun nur mehr darum, die Karte und die Ergebnisse zu ver
 * die ersten drei Ziffern stehen für einen politischen Bezirk
 * die letzten zwei Ziffern erlauben die Unterscheidung, ob es sich bei einem Eintrag um eine Gemeinde handelt, um Wahlkarten (99), oder um eine höhere Ebene (00)
 
-Wenn wir uns die [topojson-Datei](gemeinden.json) in einem Texteditor anschauen, dann finden wir auch dort - im ganzen Wirrwarr - die Gemeindekennziffern, bezeichnet als `iso`. Ein kleiner Unterschied sollte uns auffallen: In der Ergebnis-Datei beginnt die GKZ mit `G`, die iso beginnt aber gleich mit der Zahl. Darauf ist bei der Verknüpfung zu achten.
+Wenn wir uns die [topojson-Datei](assets/pages/tutorial-karte/gemeinden.json) in einem Texteditor anschauen, dann finden wir auch dort - im ganzen Wirrwarr - die Gemeindekennziffern, bezeichnet als `iso`. Ein kleiner Unterschied sollte uns auffallen: In der Ergebnis-Datei beginnt die GKZ mit `G`, die iso beginnt aber gleich mit der Zahl. Darauf ist bei der Verknüpfung zu achten.
 
 Um die Idee der Verknüpfung zu illustrieren, gehen wir zurück zum Code für die Kartenerstellung und ergänzen zwei Dinge: Wir stellen `.style("fill", "white")` ein sowie hängen einen `mouseover`-Effekt an:
 
