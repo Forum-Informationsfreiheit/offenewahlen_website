@@ -118,6 +118,7 @@ Vorstellung des Projektes durch Stefan Kasberger ([Folien]({{ site.staticurl }}p
 - [w3schools.com](http://www.w3schools.com/): Lerne Web-Technologien wie HTML, CSS und JavaScript.
 - [Codeacademy](https://www.codecademy.com/): Lerne verschiedene Technologien und Praktiken rund um Web-Entwicklung.
 - [Code School](https://www.codeschool.com/): Lerne verschiedene Technologien und Praktiken rund um Web-Entwicklung.
+- [Udacity Course: Intro to HTML & CSS](https://www.udacity.com/course/intro-to-html-and-css--ud304)
 
 ### Einführung in das Programmieren mit JavaScript
 **Was du lernst:** Die Grundlagen des Programmierens in [JavaScript](https://www.javascript.com/) mit [Peter Grassberger](http://petergrassberger.com/).
@@ -134,6 +135,9 @@ Hier die [Präsentation]({{ site.staticurl }}pages/2016-10-19-workshop-spektral/
 - [Interaktiv Lernen: CodeAcademy](https://www.codecademy.com)
 - [Interaktiv Lernen: Code School](https://www.codeschool.com/)
 - [Interaktiv Lernen: Khan Academy](https://www.khanacademy.org/computing/computer-programming/programming)
+- [Udacity Course: JavaScript Basis for Beginners](https://www.udacity.com/course/javascript-basics--ud804)
+- [Intro to jQuery](https://www.udacity.com/course/intro-to-jquery--ud245)
+- [Data Visualization and D3.js](https://www.udacity.com/course/data-visualization-and-d3js--ud507)
 
 ### Säulendiagramm mit JavaScript (AnfängerInnen)
 **Was du lernst:** Wahlergebnisse als Säulendiagramm in JavaScript darstellen.
