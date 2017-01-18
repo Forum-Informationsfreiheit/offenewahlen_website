@@ -22,7 +22,7 @@ menu_beitragen: true
 <div class="col-xs-12 col-md-6 beitrage-punkt">
 <h3 class="text-center"><i class="fa fa-file-code-o" aria-hidden="true"></i> Offener Datenstandard</h3>
 <a href="https://github.com/OKFNat/offenewahlen-api-specification" title="Offener Wahldaten Standard Specification"><img src="{{ site.staticurl }}pages/datenstandard/datenstandard.png" alt="Datenstandard" class="img-rounded"></a>
-<p>Hilf mit, einen offenen Datenstandard für die Wahldaten zu erstellen. Bei Interesse nimm bitte mit uns <a href="/kontakt" title="Kontakt">Kontakt</a> auf.</p>
+<p>Hilf mit, einen <a href="https://github.com/OKFNat/offenewahlen-api-specification" title="Offener Wahldaten Standard Specification">offenen Datenstandard</a> für die Wahldaten zu erstellen.</p>
 </div>
 
 <div class="col-xs-12 col-md-6 api-punkt">
