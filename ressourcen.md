@@ -23,7 +23,14 @@ menu_ressourcen: true
 
 </div>
 
-<h3 id="i-classfa-fa-database-aria-hiddentruei-wahldaten"><i class="fa fa-database" aria-hidden="true"></i> Wahldaten</h3>
+<h3><i class="fa fa-info" aria-hidden="true"></i> Offene Wahlen Österreich</h3>
+<ul>
+  <li><a href="https://offenewahlen-api.herokuapp.com/" title="Offene Wahlen Österreich API">Offene Wahlen Österreich API</a> (<a href="https://github.com/OKFNat/offenewahlen-api" title="GitHub">GitHub</a>): Schnittstelle für offene Wahldaten</li>
+  <li>Wahldaten Converter (<a href="https://github.com/OKFNat/offenewahlen-gov2openconverter" title="GitHub">GitHub</a>): Python Script, welches die veröffentlichten Daten in den offenen Datenstandard für die Wahldaten-API konvertiert.</li>
+  <li><a href="http://offenewahlen.at" title="Offene Wahlen Website">Website</a> (<a href="https://github.com/OKFNat/offenewahlen-website" title="GitHub">GitHub</a>)</li>
+</ul>
+
+<h3><i class="fa fa-database" aria-hidden="true"></i> Wahldaten</h3>
 
 <h4 id="open-data">Open Data</h4>
 <ul>
