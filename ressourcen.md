@@ -27,7 +27,8 @@ menu_ressourcen: true
 <ul>
   <li><a href="https://offenewahlen-api.herokuapp.com/" title="Offene Wahlen Österreich API">Offene Wahlen Österreich API</a> (<a href="https://github.com/OKFNat/offenewahlen-api" title="GitHub">GitHub</a>): Schnittstelle für offene Wahldaten</li>
   <li>Wahldaten Converter (<a href="https://github.com/OKFNat/offenewahlen-gov2openconverter" title="GitHub">GitHub</a>): Python Script, welches die veröffentlichten Daten in den offenen Datenstandard für die Wahldaten-API konvertiert.</li>
-  <li><a href="http://offenewahlen.at" title="Offene Wahlen Website">Website</a> (<a href="https://github.com/OKFNat/offenewahlen-website" title="GitHub">GitHub</a>)</li>
+  <li>Website: <a href="https://github.com/OKFNat/offenewahlen-website" title="GitHub">GitHub</a></li>
+  <li><a href="http://www.slideshare.net/cheeseman1983/offene-wahlen-sterreich-arge-digitalisierung" title="Präsentation Offene Wahlen @ ARGE Digitalisierung">Präsentation Offene Wahlen Österreich @ ARGE Digitalisierung</a></li>
 </ul>
 
 <h3><i class="fa fa-database" aria-hidden="true"></i> Wahldaten</h3>
