@@ -118,7 +118,7 @@ Peter interessiert sich für Wahlen und programmiert gerne. Er bringt sich vor a
 </div>
 
 <h4>UnterstützerInnen</h4>
-<p>Wir bedanken uns herzlich bei unseren UnterstützterInnen:</p>
+<p>Wir bedanken uns herzlich bei unseren UnterstützerInnen:</p>
 
 <div class="row">
 <div class="col-sm-4">
