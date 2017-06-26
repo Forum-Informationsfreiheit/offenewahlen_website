@@ -31,6 +31,12 @@ menu_ressourcen: true
   <li><a href="http://www.slideshare.net/cheeseman1983/offene-wahlen-sterreich-arge-digitalisierung" title="Präsentation Offene Wahlen @ ARGE Digitalisierung">Präsentation Offene Wahlen Österreich @ ARGE Digitalisierung</a></li>
 </ul>
 
+<h3 id="wissen"><i class="fa fa-university" aria-hidden="true"></i> Wahlforschung</h3>
+<ul>
+  <li><a href="http://lineardigressions.com/episodes/2016/8/20/election-forecasting">Podcast über Wahlprognosen: Ein Crash-Kurs zu bekannten Problemen bei den Wahlumfragen und -modellen.</a></li>
+  <li><a href="http://www.scholarsstrategynetwork.org/podcast/polls-polls-polls">No Jargon Podcast über Wahl-Polls</a></li>
+</ul>
+
 <h3><i class="fa fa-database" aria-hidden="true"></i> Wahldaten</h3>
 
 <h4 id="open-data">Open Data</h4>
@@ -73,7 +79,7 @@ menu_ressourcen: true
   </li>
 </ul>
 
-<h3 id="i-classfa-fa-info-circle-aria-hiddentruei-projekte-rund-um-wahlen"><i class="fa fa-info-circle" aria-hidden="true"></i> Projekte rund um Wahlen</h3>
+<h3 id="projekte-rund-um-wahlen"><i class="fa fa-info-circle" aria-hidden="true"></i> Projekte rund um Wahlen</h3>
 <ul>
   <li><a href="http://drawingdata.net/">drawingdata</a>: Visualisierungen von politischen Daten aus Österreich, by Flooh Perlot.</li>
   <li><a href="https://neuwal.com/">Neuwal</a></li>
@@ -84,7 +90,7 @@ menu_ressourcen: true
   <li><a href="http://www.usa2016.at/">USA2016.at</a></li>
 </ul>
 
-<h3 id="i-classfa-fa-university-aria-hiddentruei-wahlforschung"><i class="fa fa-university" aria-hidden="true"></i> Wahlforschung</h3>
+<h3 id="wahlforschung"><i class="fa fa-university" aria-hidden="true"></i> Wahlforschung</h3>
 <ul>
   <li><a href="https://de.wikipedia.org/wiki/Wahlforschung">Wikipedia - Wahlforschung</a></li>
   <li><a href="http://www.autnes.at/">AUTNES</a></li>
