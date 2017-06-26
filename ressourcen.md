@@ -26,7 +26,7 @@ menu_ressourcen: true
 <h3><i class="fa fa-info" aria-hidden="true"></i> Offene Wahlen Österreich</h3>
 <ul>
   <li><a href="https://offenewahlen-api.herokuapp.com/" title="Offene Wahlen Österreich API">API</a>: Schnittstelle für offene Wahldaten (<a href="https://github.com/OKFNat/offenewahlen-api" title="GitHub">GitHub</a>)</li>
-  <li>API Spezifikation: Spezifikation zur Open Data API (<a href="https://github.com/OKFNat/offenewahlen-api-specification" title="API Specification">GitHub Repo).</li>
+  <li>API Spezifikation: Spezifikation zur Open Data API (<a href="https://github.com/OKFNat/offenewahlen-api-specification" title="API Specification">GitHub Repo</a>).</li>
   <li>Offene Wahlen und Wikidata: <a href="https://github.com/OKFNat/offenewahlen-wikidata" title="Offene Wahlen AT und Wikidata">GitHub Repo</a> rund um Wikidata als Open Data Repository für Wahlen.</li>
   <li>Wahldaten Converter: Python Script, welches die vom BMI veröffentlichten Daten in den offenen Datenstandard für die Wahldaten-API konvertiert (<a href="https://github.com/OKFNat/offenewahlen-gov2openconverter" title="GitHub">GitHub</a>).</li>
   <li>Website (<a href="https://github.com/OKFNat/offenewahlen-website" title="GitHub">GitHub</a>)</li>
