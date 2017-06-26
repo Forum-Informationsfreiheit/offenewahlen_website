@@ -23,7 +23,7 @@ menu_ressourcen: true
 
 </div>
 
-<h3><i class="fa fa-info" aria-hidden="true"></i> Offene Wahlen Österreich</h3>
+<h3><i class="fa fa-newspaper-o" aria-hidden="true"></i> Offene Wahlen Österreich</h3>
 <ul>
   <li><a href="https://offenewahlen-api.herokuapp.com/" title="Offene Wahlen Österreich API">Offene Wahlen Österreich API</a> (<a href="https://github.com/OKFNat/offenewahlen-api" title="GitHub">GitHub</a>): Schnittstelle für offene Wahldaten</li>
   <li>Wahldaten Converter (<a href="https://github.com/OKFNat/offenewahlen-gov2openconverter" title="GitHub">GitHub</a>): Python Script, welches die veröffentlichten Daten in den offenen Datenstandard für die Wahldaten-API konvertiert.</li>
@@ -31,7 +31,7 @@ menu_ressourcen: true
   <li><a href="http://www.slideshare.net/cheeseman1983/offene-wahlen-sterreich-arge-digitalisierung" title="Präsentation Offene Wahlen @ ARGE Digitalisierung">Präsentation Offene Wahlen Österreich @ ARGE Digitalisierung</a></li>
 </ul>
 
-<h3 id="wissen"><i class="fa fa-university" aria-hidden="true"></i> Wahlforschung</h3>
+<h3 id="media"><i class="fa fa-university" aria-hidden="true"></i> Media</h3>
 <ul>
   <li><a href="http://lineardigressions.com/episodes/2016/8/20/election-forecasting">Podcast über Wahlprognosen: Ein Crash-Kurs zu bekannten Problemen bei den Wahlumfragen und -modellen.</a></li>
   <li><a href="http://www.scholarsstrategynetwork.org/podcast/polls-polls-polls">No Jargon Podcast über Wahl-Polls</a></li>
