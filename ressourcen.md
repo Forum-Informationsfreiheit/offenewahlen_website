@@ -6,22 +6,13 @@ comments: true
 menu_ressourcen: true
 ---
 
-<div id="tutorials" class="col-sm-12">
-<h3><i class="fa fa-area-chart " aria-hidden="true"></i> Tutorials</h3>
-
-<div class="tutorial col-xs-12 col-sm-6">
-<h4>Ergebnis-Karte erstellen</h4>
-<span class="tutorial-type">Visualisierung</span> <span class="tutorial-type">JavaScript</span>
-<a href="/tutorials/karte/" title=""><img class="rounded-img" src="{{ site.staticurl }}pages/tutorial-karte/karte_2.jpg"></a>
-</div>
-
-<div class="tutorial col-xs-12 col-sm-6">
-<h4>Balkendiagramm erstellen</h4>
-<span class="tutorial-type">Visualisierung</span> <span class="tutorial-type">JavaScript</span>
-<a href="/tutorials/balkendiagramm/" title=""><img class="rounded-img" src="{{ site.staticurl }}pages/tutorial-balkendiagramm/balken_3.jpg"></a>
-</div>
-
-</div>
+<h3 id="i-classfa-fa-info-circle-aria-hiddentruei-informationen-zu-open-data-und-wahlen"><i class="fa fa-info-circle" aria-hidden="true"></i> Open Data und Wahlen</h3>
+<ul>
+  <li><a href="http://www.openelectiondata.net/en/">Open Election Data Inintiative</a></li>
+  <li><a href="https://blog.openelections.net/">OpenElections</a></li>
+  <li><a href="http://opendatahandbook.org/">Open Data Handbook</a></li>
+  <li><a href="http://sunlightfoundation.com/opendataguidelines/">Sunlight Foundation: Open Data Policy Guidelines</a></li>
+</ul>
 
 <h3><i class="fa fa-info" aria-hidden="true"></i> Offene Wahlen Österreich</h3>
 <ul>
@@ -42,8 +33,17 @@ menu_ressourcen: true
   <li>VfGH: <a href="https://www.vfgh.gv.at/downloads/VfGH_W_I_7-2016_entscheidung_hofer.pdf" title="VfGH 18.06.2016, W I 7/2016: Anfechtung der Bundespräsidenten-Stichwahl durch Norbert Hofer aus formalen Gründen zurückgewiesen (0.2 MB)">VfGH 18.06.2016, W I 7/2016: Anfechtung der Bundespräsidenten-Stichwahl durch Norbert Hofer aus formalen Gründen zurückgewiesen (0.2 MB)</a></li>
   <li>Falter: <a href="https://cms.falter.at/falter/2016/09/06/eine-mathematik-lektion-fuer-den-vfgh/" title="Eine Mathematik Lektion für den VfGH">Eine Mathematik Lektion für den VfGH</a></li>
   <li>derStandard.at: <a href="http://derstandard.at/2000041882174/Bundespraesidentenwahl-Manipulation-schaut-anders-aus?ref=article" title="Bundespräsidentenwahl: Manipulation schaut anders aus">Bundespräsidentenwahl: Manipulation schaut anders aus</a></li>
+  <li><a href="https://www.washingtonpost.com/news/monkey-cage/wp/2016/07/01/we-checked-austrias-extremely-close-may-2016-election-for-fraud-heres-what-we-found/">Washington Post - The Austrian presidential election shows no evidence of fraud. We used election forensics to check.</a></li>
   <li>derStandard.at: <a href="http://derstandard.at/2000040468184/Ruf-nach-freien-Wahlergebnissen-fuer-alle" title="derStandard.at - Ruf nach freien Wahlergebnissen für alle">Ruf nach freien Wahlergebnissen für alle</a></li>
   <li>Futurezone.at: <a href="https://futurezone.at/netzpolitik/community-projekt-offene-wahlen-gestartet/219.250.524" title="Futurezone.at - Community-Projekt Offene Wahlen gestartet">Community-Projekt Offene Wahlen gestartet</a></li>
+</ul>
+
+<h3 id="i-classfa-fa-check-square-o-aria-hiddentruei-wahlen-in-sterreich"><i class="fa fa-check-square-o" aria-hidden="true"></i> Wahlen in Österreich</h3>
+<ul>
+  <li>Wikipedia: <a href="https://de.wikipedia.org/wiki/Wahlen_in_%C3%96sterreich">Wahlen in Österreich</a></li>
+  <li>help.gv.at: <a href="https://www.help.gv.at/Portal.Node/hlpd/public/content/32/Seite.320000.html">Wahlen</a></li>
+  <li>Wikipedia: <a href="https://de.wikipedia.org/wiki/Bundespr%C3%A4sidentenwahl_in_%C3%96sterreich_2016">Bundespräsidentenwahl in Österreich 2016</a></li>
+  <li>Bundesministerium für Inneres (BMI): <a href="http://www.bmi.gv.at/cms/bmi_wahlen/">Wahlen</a></li>
 </ul>
 
 <h3><i class="fa fa-database" aria-hidden="true"></i> Wahldaten</h3>
@@ -87,7 +87,24 @@ menu_ressourcen: true
   </li>
 </ul>
 
-<h3 id="projekte-rund-um-wahlen"><i class="fa fa-info-circle" aria-hidden="true"></i> Projekte rund um Wahlen</h3>
+<div id="tutorials" class="col-sm-12">
+<h3><i class="fa fa-area-chart " aria-hidden="true"></i> Tutorials</h3>
+
+<div class="tutorial col-xs-12 col-sm-6">
+<h4>Ergebnis-Karte erstellen</h4>
+<span class="tutorial-type">Visualisierung</span> <span class="tutorial-type">JavaScript</span>
+<a href="/tutorials/karte/" title=""><img class="rounded-img" src="{{ site.staticurl }}pages/tutorial-karte/karte_2.jpg"></a>
+</div>
+
+<div class="tutorial col-xs-12 col-sm-6">
+<h4>Balkendiagramm erstellen</h4>
+<span class="tutorial-type">Visualisierung</span> <span class="tutorial-type">JavaScript</span>
+<a href="/tutorials/balkendiagramm/" title=""><img class="rounded-img" src="{{ site.staticurl }}pages/tutorial-balkendiagramm/balken_3.jpg"></a>
+</div>
+
+</div>
+
+<h3 id="projekte-rund-um-wahlen"><i class="fa fa-info-circle" aria-hidden="true"></i> Projekte</h3>
 <ul>
   <li><a href="http://drawingdata.net/">drawingdata</a>: Visualisierungen von politischen Daten aus Österreich, by Flooh Perlot.</li>
   <li><a href="https://neuwal.com/">Neuwal</a></li>
@@ -100,16 +117,16 @@ menu_ressourcen: true
 
 <h3 id="wahlforschung"><i class="fa fa-university" aria-hidden="true"></i> Wahlforschung</h3>
 <ul>
-  <li><a href="https://de.wikipedia.org/wiki/Wahlforschung">Wikipedia - Wahlforschung</a></li>
+  <li>Wikipedia: <a href="https://de.wikipedia.org/wiki/Wahlforschung">Wahlforschung</a></li>
   <li><a href="http://www.autnes.at/">AUTNES</a></li>
-  <li><a href="http://sunsite.univie.ac.at/Austria/elections/">Statistische Wahlanalysen und weitere Themen aus der Wahlforschung - Universität Wien</a></li>
+  <li>Universität Wien: <a href="http://sunsite.univie.ac.at/Austria/elections/">Statistische Wahlanalysen und weitere Themen aus der Wahlforschungn</a></li>
   <li><a href="http://www.wahlanalyse.com/">Wahlanalyse.com</a></li>
   <li><a href="http://www.waehlerstromanalyse.at/">Waehlerstromanalyse.at</a></li>
   <li><a href="http://www.wahlhochrechnung.at/">Wahlhochrechnung.at</a></li>
   <li><a href="http://www.ifes.at/">Institut für empirische Sozialforschung GmbH</a></li>
   <li><a href="http://www.sora.at/themen/wahlverhalten.html">SORA</a></li>
-  <li><a href="http://lineardigressions.com/episodes/2016/8/20/election-forecasting">Podcast über Wahlprognosen: Ein Crash-Kurs zu bekannten Problemen bei den Wahlumfragen und -modellen.</a></li>
-  <li><a href="http://www.scholarsstrategynetwork.org/podcast/polls-polls-polls">No Jargon Podcast über Wahl-Polls</a></li>
+  <li>Linear Digressions Podcast: <a href="http://lineardigressions.com/episodes/2016/8/20/election-forecasting">Election Forecasting:</a> Ein Crash-Kurs zu bekannten Problemen bei den Wahlumfragen und -modellen.</li>
+  <li>No Jargon Podcast: <a href="http://www.scholarsstrategynetwork.org/podcast/polls-polls-polls">Polls, Polls, Polls</a></li>
   <li>Brexit
     <ul>
       <li>538 Podcast: <a href="https://fivethirtyeight.com/features/emergency-politics-podcast-the-u-k-election/" title="Emergency Politics Podcast: The U.K. Election">Emergency Politics Podcast: The U.K. Election</a></li>
