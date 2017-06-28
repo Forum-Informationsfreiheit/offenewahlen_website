@@ -37,27 +37,16 @@ menu_ressourcen: true
 
 <h3 id="media"><i class="fa fa-newspaper-o" aria-hidden="true"></i> Media</h3>
 <ul>
-  <li>Bundespräsidentenwahl 2016
-    <ul>
-      <li>ORF NÖ: <a href="http://noe.orf.at/news/stories/2775965/" title="Fehler: 147 Prozent Wahlbeteiligung in Waidhofen">Fehler: 147 Prozent Wahlbeteiligung in Waidhofen</a></li>
-      <li>VfGH: <a href="https://www.vfgh.gv.at/downloads/VfGH_W_I_6-2016_Bundespraesidentenwahl.pdf" title="VfGH 01.07.2016, W I 6/2016: Bundespräsidenten-Stichwahl: Schriftliche Ausfertigung der am 1. Juli 2016 mündlich verkündeten Entscheidung (0.9 MB)">VfGH 01.07.2016, W I 6/2016: Bundespräsidenten-Stichwahl: Schriftliche Ausfertigung der am 1. Juli 2016 mündlich verkündeten Entscheidung (0.9 MB)</a></li>
-      <li>VfGH: <a href="https://www.vfgh.gv.at/downloads/VfGH_W_I_7-2016_entscheidung_hofer.pdf" title="VfGH 18.06.2016, W I 7/2016: Anfechtung der Bundespräsidenten-Stichwahl durch Norbert Hofer aus formalen Gründen zurückgewiesen (0.2 MB)">VfGH 18.06.2016, W I 7/2016: Anfechtung der Bundespräsidenten-Stichwahl durch Norbert Hofer aus formalen Gründen zurückgewiesen (0.2 MB)</a></li>
-      <li>Falter: <a href="https://cms.falter.at/falter/2016/09/06/eine-mathematik-lektion-fuer-den-vfgh/" title="Eine Mathematik Lektion für den VfGH">Eine Mathematik Lektion für den VfGH</a></li>
-      <li><a href="http://derstandard.at/2000041882174/Bundespraesidentenwahl-Manipulation-schaut-anders-aus?ref=article" title="Bundespräsidentenwahl: Manipulation schaut anders aus">derStandard.at: Bundespräsidentenwahl: Manipulation schaut anders aus</a></li>
-      <li>derStandard.at: <a href="http://derstandard.at/2000040468184/Ruf-nach-freien-Wahlergebnissen-fuer-alle" title="derStandard.at - Ruf nach freien Wahlergebnissen für alle">Ruf nach freien Wahlergebnissen für alle</a></li>
-      <li>Futurezone.at: <a href="https://futurezone.at/netzpolitik/community-projekt-offene-wahlen-gestartet/219.250.524" title="Futurezone.at - Community-Projekt Offene Wahlen gestartet">Community-Projekt Offene Wahlen gestartet</a></li>
-    </ul>
-  </li>
-  <li>Brexit
-    <ul>
-      <li>538 Podcast: <a href="https://fivethirtyeight.com/features/emergency-politics-podcast-the-u-k-election/" title="Emergency Politics Podcast: The U.K. Election">Emergency Politics Podcast: The U.K. Election</a></li>
-      <li>Linear Digressions Podcast: <a href="http://lineardigressions.com/episodes/2016/8/21/how-the-polls-got-brexit-wrong" title="How the Polls got Brexit wrong">How the Polls got Brexit wrong</a></li>
-    </ul>
-  </li>
+  <li>ORF NÖ: <a href="http://noe.orf.at/news/stories/2775965/" title="Fehler: 147 Prozent Wahlbeteiligung in Waidhofen">Fehler: 147 Prozent Wahlbeteiligung in Waidhofen</a></li>
+  <li>VfGH: <a href="https://www.vfgh.gv.at/downloads/VfGH_W_I_6-2016_Bundespraesidentenwahl.pdf" title="VfGH 01.07.2016, W I 6/2016: Bundespräsidenten-Stichwahl: Schriftliche Ausfertigung der am 1. Juli 2016 mündlich verkündeten Entscheidung (0.9 MB)">VfGH 01.07.2016, W I 6/2016: Bundespräsidenten-Stichwahl: Schriftliche Ausfertigung der am 1. Juli 2016 mündlich verkündeten Entscheidung (0.9 MB)</a></li>
+  <li>VfGH: <a href="https://www.vfgh.gv.at/downloads/VfGH_W_I_7-2016_entscheidung_hofer.pdf" title="VfGH 18.06.2016, W I 7/2016: Anfechtung der Bundespräsidenten-Stichwahl durch Norbert Hofer aus formalen Gründen zurückgewiesen (0.2 MB)">VfGH 18.06.2016, W I 7/2016: Anfechtung der Bundespräsidenten-Stichwahl durch Norbert Hofer aus formalen Gründen zurückgewiesen (0.2 MB)</a></li>
+  <li>Falter: <a href="https://cms.falter.at/falter/2016/09/06/eine-mathematik-lektion-fuer-den-vfgh/" title="Eine Mathematik Lektion für den VfGH">Eine Mathematik Lektion für den VfGH</a></li>
+  <li>derStandard.at: <a href="http://derstandard.at/2000041882174/Bundespraesidentenwahl-Manipulation-schaut-anders-aus?ref=article" title="Bundespräsidentenwahl: Manipulation schaut anders aus">Bundespräsidentenwahl: Manipulation schaut anders aus</a></li>
+  <li>derStandard.at: <a href="http://derstandard.at/2000040468184/Ruf-nach-freien-Wahlergebnissen-fuer-alle" title="derStandard.at - Ruf nach freien Wahlergebnissen für alle">Ruf nach freien Wahlergebnissen für alle</a></li>
+  <li>Futurezone.at: <a href="https://futurezone.at/netzpolitik/community-projekt-offene-wahlen-gestartet/219.250.524" title="Futurezone.at - Community-Projekt Offene Wahlen gestartet">Community-Projekt Offene Wahlen gestartet</a></li>
 </ul>
 
 <h3><i class="fa fa-database" aria-hidden="true"></i> Wahldaten</h3>
-
 <h4 id="open-data">Open Data</h4>
 <ul>
   <li>Nationalratswahl: <a href="https://www.data.gv.at/katalog/dataset/09716341-2bea-4298-9525-e936d8247d19">2013</a></li>
@@ -121,4 +110,10 @@ menu_ressourcen: true
   <li><a href="http://www.sora.at/themen/wahlverhalten.html">SORA</a></li>
   <li><a href="http://lineardigressions.com/episodes/2016/8/20/election-forecasting">Podcast über Wahlprognosen: Ein Crash-Kurs zu bekannten Problemen bei den Wahlumfragen und -modellen.</a></li>
   <li><a href="http://www.scholarsstrategynetwork.org/podcast/polls-polls-polls">No Jargon Podcast über Wahl-Polls</a></li>
+  <li>Brexit
+    <ul>
+      <li>538 Podcast: <a href="https://fivethirtyeight.com/features/emergency-politics-podcast-the-u-k-election/" title="Emergency Politics Podcast: The U.K. Election">Emergency Politics Podcast: The U.K. Election</a></li>
+      <li>Linear Digressions Podcast: <a href="http://lineardigressions.com/episodes/2016/8/21/how-the-polls-got-brexit-wrong" title="How the Polls got Brexit wrong">How the Polls got Brexit wrong</a></li>
+    </ul>
+  </li>
 </ul>
