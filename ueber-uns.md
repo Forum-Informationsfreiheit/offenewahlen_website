@@ -117,21 +117,6 @@ Peter interessiert sich für Wahlen und programmiert gerne. Er bringt sich vor a
 </div>
 </div>
 
-<h4>UnterstützerInnen</h4>
-<p>Wir bedanken uns herzlich bei unseren UnterstützerInnen:</p>
-
-<div class="row">
-<div class="col-sm-4">
-<a href="http://www.zeolith-bentonit-versand.de/de/flohsamenschalen.html" title="Flohsamenschalen"><img src="http://www.opendatagraz.at/wp-content/uploads/2017/04/zeolith-bentonit-versand-logo.png" alt="flohsamenschalen" width="100%" /></a>
-</div>
-<div class="col-sm-4">
-<a href="http://www.tischdecke.de/" title="Tischdecke"><img src="http://www.opendatagraz.at/wp-content/uploads/2017/04/sponsor_tischdecke_de.png" alt="tischdecke" width="100%" /></a>
-</div>
-<div class="col-sm-4">
-<a href="http://paulina-umstandsmode.de" title="Umstandsmode"><img src="http://www.opendatagraz.at/wp-content/uploads/2017/04/paulina.png" alt="umstandsmode" width="100%" /></a>
-</div>
-</div>
-
 <div class="infos col-sm-10 col-sm-offset-1">
 
 <h3><i class="fa fa-info-circle" aria-hidden="true"></i> Infos zum Projekt</h3>
@@ -165,3 +150,19 @@ Peter interessiert sich für Wahlen und programmiert gerne. Er bringt sich vor a
 </ul>
 
 </div>
+
+<h3>UnterstützerInnen</h3>
+<p>Wir bedanken uns herzlich bei unseren UnterstützerInnen:</p>
+
+<div class="row">
+<div class="col-sm-4">
+<a href="http://www.zeolith-bentonit-versand.de/de/flohsamenschalen.html" title="Flohsamenschalen"><img src="http://www.opendatagraz.at/wp-content/uploads/2017/04/zeolith-bentonit-versand-logo.png" alt="flohsamenschalen" width="100%" /></a>
+</div>
+<div class="col-sm-4">
+<a href="http://www.tischdecke.de/" title="Tischdecke"><img src="http://www.opendatagraz.at/wp-content/uploads/2017/04/sponsor_tischdecke_de.png" alt="tischdecke" width="100%" /></a>
+</div>
+<div class="col-sm-4">
+<a href="http://paulina-umstandsmode.de" title="Umstandsmode"><img src="http://www.opendatagraz.at/wp-content/uploads/2017/04/paulina.png" alt="umstandsmode" width="100%" /></a>
+</div>
+</div>
+
