@@ -25,14 +25,14 @@ menu_ressourcen: true
 
 <h3><i class="fa fa-info" aria-hidden="true"></i> Offene Wahlen Österreich</h3>
 <ul>
-  <li><a href="https://youtu.be/LMK99tF9xYo" title="Video: Projekt-Launch beim 8. netzpolitischen Abend @ metalab">Video: Projekt-Launch beim 8. netzpolitischen Abend @ metalab</a></li>
-  <li><a href="http://okfn.at/2016/07/05/open-data-schnittstelle-fuer-transparente-wahlergebnisse-schaffen/" title="okfn.at - Open Data Schnittstelle für transparente Wahlergebnisse schaffen!">okfn.at - Open Data Schnittstelle für transparente Wahlergebnisse schaffen!</a></li>
+  <li>okfn.at: <a href="http://okfn.at/2016/07/05/open-data-schnittstelle-fuer-transparente-wahlergebnisse-schaffen/" title="okfn.at - Open Data Schnittstelle für transparente Wahlergebnisse schaffen!">Open Data Schnittstelle für transparente Wahlergebnisse schaffen!</a></li>
+  <li>Video: <a href="https://youtu.be/LMK99tF9xYo" title="Video: Projekt-Launch beim 8. netzpolitischen Abend @ metalab">Offene Wahlen Österreich Launch beim 8. netzpolitischen Abend @ metalab</a></li>
+  <li>Präsentation: <a href="http://www.slideshare.net/cheeseman1983/offene-wahlen-sterreich-arge-digitalisierung" title="Präsentation Offene Wahlen @ ARGE Digitalisierung">Offene Wahlen Österreich @ ARGE Digitalisierung</a>.</li>
   <li><a href="https://offenewahlen-api.herokuapp.com/" title="Offene Wahlen Österreich API"><strong>API</strong></a>: Schnittstelle für offene Wahldaten (<a href="https://github.com/OKFNat/offenewahlen-api" title="GitHub">GitHub</a>)</li>
   <li><strong>API Spezifikation</strong>: Spezifikation zur Open Data API (<a href="https://github.com/OKFNat/offenewahlen-api-specification" title="API Specification">GitHub Repo</a>).</li>
   <li><strong>Offene Wahlen und Wikidata</strong>: <a href="https://github.com/OKFNat/offenewahlen-wikidata" title="Offene Wahlen AT und Wikidata">GitHub Repo</a> rund um Wikidata als Open Data Repository für Wahlen.</li>
   <li><strong>Website</strong> (<a href="https://github.com/OKFNat/offenewahlen-website" title="GitHub">GitHub</a>)</li>
   <li>Wahldaten Converter: Python Script, welches die vom BMI veröffentlichten Daten in den offenen Datenstandard für die Wahldaten-API konvertiert (<a href="https://github.com/OKFNat/offenewahlen-gov2openconverter" title="GitHub">GitHub</a>).</li>
-  <li><a href="http://www.slideshare.net/cheeseman1983/offene-wahlen-sterreich-arge-digitalisierung" title="Präsentation Offene Wahlen @ ARGE Digitalisierung">Präsentation Offene Wahlen Österreich @ ARGE Digitalisierung</a>.</li>
 </ul>
 
 <h3 id="media"><i class="fa fa-newspaper-o" aria-hidden="true"></i> Media</h3>
