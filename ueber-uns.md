@@ -2,7 +2,7 @@
 layout: page-10
 title: Über uns
 permalink: /ueber-uns
-comments: true
+comments: false
 menu_ueberuns: true
 ---
 

@@ -2,7 +2,7 @@
 layout: page
 title: Ressourcen
 permalink: /ressourcen
-comments: true
+comments: false
 menu_ressourcen: true
 ---
 
@@ -17,8 +17,11 @@ menu_ressourcen: true
 <h3><i class="fa fa-info" aria-hidden="true"></i> Offene Wahlen Österreich</h3>
 <ul>
   <li>okfn.at: <a href="http://okfn.at/2016/07/05/open-data-schnittstelle-fuer-transparente-wahlergebnisse-schaffen/" title="okfn.at - Open Data Schnittstelle für transparente Wahlergebnisse schaffen!">Open Data Schnittstelle für transparente Wahlergebnisse schaffen!</a></li>
+  <li>derStandard.at: <a href="http://derstandard.at/2000040468184/Ruf-nach-freien-Wahlergebnissen-fuer-alle" title="derStandard.at - Ruf nach freien Wahlergebnissen für alle">Ruf nach freien Wahlergebnissen für alle</a></li>
+  <li>Futurezone.at: <a href="https://futurezone.at/netzpolitik/community-projekt-offene-wahlen-gestartet/219.250.524" title="Futurezone.at - Community-Projekt Offene Wahlen gestartet">Community-Projekt Offene Wahlen gestartet</a></li>
   <li>Video: <a href="https://youtu.be/LMK99tF9xYo" title="Video: Projekt-Launch beim 8. netzpolitischen Abend @ metalab">Offene Wahlen Österreich Launch beim 8. netzpolitischen Abend @ metalab</a></li>
   <li>Präsentation: <a href="http://www.slideshare.net/cheeseman1983/offene-wahlen-sterreich-arge-digitalisierung" title="Präsentation Offene Wahlen @ ARGE Digitalisierung">Offene Wahlen Österreich @ ARGE Digitalisierung</a>.</li>
+  <li><a href="https://nrw17.offenewahlen.at" title="Nationalratswahl 2017"><strong>NRW17</strong></a>: Visualisierungen zum Ergebnis am 15. Oktober 2017. Werden so gegen 17:15 online gehen. (<a href="https://github.com/OKFNat/offenewahlen-nrw17" title="GitHub">GitHub</a>)</li>
   <li><a href="https://offenewahlen-api.herokuapp.com/" title="Offene Wahlen Österreich API"><strong>API</strong></a>: Schnittstelle für offene Wahldaten (<a href="https://github.com/OKFNat/offenewahlen-api" title="GitHub">GitHub</a>)</li>
   <li><strong>API Spezifikation</strong>: Spezifikation zur Open Data API (<a href="https://github.com/OKFNat/offenewahlen-api-specification" title="API Specification">GitHub Repo</a>).</li>
   <li><strong>Offene Wahlen und Wikidata</strong>: <a href="https://github.com/OKFNat/offenewahlen-wikidata" title="Offene Wahlen AT und Wikidata">GitHub Repo</a> rund um Wikidata als Open Data Repository für Wahlen.</li>
@@ -33,9 +36,7 @@ menu_ressourcen: true
   <li>VfGH: <a href="https://www.vfgh.gv.at/downloads/VfGH_W_I_7-2016_entscheidung_hofer.pdf" title="VfGH 18.06.2016, W I 7/2016: Anfechtung der Bundespräsidenten-Stichwahl durch Norbert Hofer aus formalen Gründen zurückgewiesen (0.2 MB)">VfGH 18.06.2016, W I 7/2016: Anfechtung der Bundespräsidenten-Stichwahl durch Norbert Hofer aus formalen Gründen zurückgewiesen (0.2 MB)</a></li>
   <li>Falter: <a href="https://cms.falter.at/falter/2016/09/06/eine-mathematik-lektion-fuer-den-vfgh/" title="Eine Mathematik Lektion für den VfGH">Eine Mathematik Lektion für den VfGH</a></li>
   <li>derStandard.at: <a href="http://derstandard.at/2000041882174/Bundespraesidentenwahl-Manipulation-schaut-anders-aus?ref=article" title="Bundespräsidentenwahl: Manipulation schaut anders aus">Bundespräsidentenwahl: Manipulation schaut anders aus</a></li>
-  <li><a href="https://www.washingtonpost.com/news/monkey-cage/wp/2016/07/01/we-checked-austrias-extremely-close-may-2016-election-for-fraud-heres-what-we-found/">Washington Post - The Austrian presidential election shows no evidence of fraud. We used election forensics to check.</a></li>
-  <li>derStandard.at: <a href="http://derstandard.at/2000040468184/Ruf-nach-freien-Wahlergebnissen-fuer-alle" title="derStandard.at - Ruf nach freien Wahlergebnissen für alle">Ruf nach freien Wahlergebnissen für alle</a></li>
-  <li>Futurezone.at: <a href="https://futurezone.at/netzpolitik/community-projekt-offene-wahlen-gestartet/219.250.524" title="Futurezone.at - Community-Projekt Offene Wahlen gestartet">Community-Projekt Offene Wahlen gestartet</a></li>
+  <li>Washington Post: <a href="https://www.washingtonpost.com/news/monkey-cage/wp/2016/07/01/we-checked-austrias-extremely-close-may-2016-election-for-fraud-heres-what-we-found/">The Austrian presidential election shows no evidence of fraud. We used election forensics to check.</a></li>
 </ul>
 
 <h3 id="i-classfa-fa-check-square-o-aria-hiddentruei-wahlen-in-sterreich"><i class="fa fa-check-square-o" aria-hidden="true"></i> Wahlen in Österreich</h3>

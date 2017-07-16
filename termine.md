@@ -2,14 +2,17 @@
 layout: page
 title: Termine
 permalink: /termine/
-comments: true
+comments: false
 menu_events: true
 ---
 
 <div>
 
 <h2>Kommende</h2>
-Aktuell nichts geplant.
+
+<p class="button-border-black">15. Oktober 2017: Nationalratswahl - Wahl-Daten-Party at metalab (tba)</p>
+
+<p class="button-border-black">30. September 2017: Wikidata Wahldaten Workshop at Wikimedia Österreich (tba)</p>
 
 <h2>Vergangene</h2>
 <p class="button-border-black">4. Dezember 2016: Bundespräsidentenwahl - Wahlwiederholung Stichwahl</p>
