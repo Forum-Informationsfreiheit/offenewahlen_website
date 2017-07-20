@@ -68,7 +68,7 @@ Je mehr Menschen sich an unserer Initiative beteiligen, desto mehr können wir e
 <h4>Team</h4>
 
 <div class="team-mitglied col-sm-12">
-<div class="col-md-4"><img src="http://at.network.okfn.org/files/2014/12/kasberger.png" alt="Stefan Kasberger" width="220" /></div>
+<div class="col-md-4"><img src="http://at.network.okfn.org/files/2014/12/kasberger.png" alt="Stefan Kasberger" width="220" class="img-circle"/></div>
 <div class="col-md-8">
 <h4>Stefan Kasberger<span class="social-contacts"><a href="https://stefankasberger.at" title="Website"><i class="fa fa-bookmark"></i></a><a href="mailto:stefan.kasberger@okfn.at" title="EMail"><i class="fa fa-envelope"></i></a><a href="https://github.com/skasberger" title="GitHub"><i class="fa fa-github"></i></a><a href="https://twitter.com/Stefankasberger" title="@stefankasberger"><i class="fa fa-twitter"></i></a></span></h4>
 <h5>Projekt-Lead</h5>
@@ -77,7 +77,7 @@ Stefan koordiniert die Projekt-Aktivitäten, hat die Website erstellt und steht 
 </div>
 
 <div class="team-mitglied col-sm-12">
-<div class="col-md-4"><img src="https://pbs.twimg.com/profile_images/569423275424350208/utWUiujL_400x400.jpeg" alt="Robert Harm" width="220" /></div>
+<div class="col-md-4"><img src="https://pbs.twimg.com/profile_images/569423275424350208/utWUiujL_400x400.jpeg" alt="Robert Harm" width="220" class="img-circle"/></div>
 <div class="col-md-8">
 <h4>Robert Harm<span class="social-contacts"><a href="https://www.harm.co.at/" title="Website"><i class="fa fa-bookmark"></i></a><a href="mailto:robert@harm.co.at" title="EMail"><i class="fa fa-envelope"></i></a><a href="https://twitter.com/robertharm" title="@robertharm"><i class="fa fa-twitter"></i></a></span></h4>
 Robert beschäftigt sich schon seit Jahren mit Open Data und war von Anfang an in das Projekt involviert. Er bringt vor allem technische und inhaltliche Expertise zu Open Data ein.
@@ -85,10 +85,17 @@ Robert beschäftigt sich schon seit Jahren mit Open Data und war von Anfang an i
 </div>
 
 <div class="team-mitglied col-sm-12">
-<div class="col-md-4"><img src="{{ site.staticurl }}pages/about/peter.png" alt="Peter Grassberger" width="220" /></div>
+<div class="col-md-4"><img src="{{ site.staticurl }}pages/about/peter.png" alt="Peter Grassberger" width="220" class="img-circle"/></div>
 <div class="col-md-8">
 <h4>Peter Grassberger<span class="social-contacts"><a href="http://petergrassberger.com/" title="Website"><i class="fa fa-bookmark"></i></a><a href="mailto:petertheone@gmail.com" title="EMail"><i class="fa fa-envelope"></i></a><a href="https://github.com/PeterTheOne" title="GitHub"><i class="fa fa-github"></i></a><a href="https://twitter.com/PeterTheOne" title="@PeterTheOne"><i class="fa fa-twitter"></i></a></span></h4>
 Peter interessiert sich für Wahlen und programmiert gerne. Er bringt sich vor allem bei Workshops durch seine JavaScript-Kentnisse und zum Thema Wahlrecht ein.
+</div>
+</div>
+
+<div class="team-mitglied col-sm-12">
+<div class="col-md-4"><img src="" alt="Tobias Schönberg" width="220" class="img-circle"/></div>
+<div class="col-md-8">
+<h4>Tobias Schönberg<span class="social-contacts"><a href="https://github.com/tobias47n9e" title="GitHub"><i class="fa fa-github"></i></a><a href="https://twitter.com/tobias47n9e" title="@tobias47n9e"><i class="fa fa-twitter"></i></a></span></h4>
 </div>
 </div>
 
