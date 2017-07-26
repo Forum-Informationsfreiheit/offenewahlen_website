@@ -68,7 +68,7 @@ Je mehr Menschen sich an unserer Initiative beteiligen, desto mehr können wir e
 <h4>Team</h4>
 
 <div class="team-mitglied col-sm-12">
-<div class="col-md-4"><img src="http://at.network.okfn.org/files/2014/12/kasberger.png" alt="Stefan Kasberger" width="220" class="img-circle"/></div>
+<div class="col-md-4"><img src="http://stefankasberger.at/wp-content/uploads/profil-pic/wm-office_small.jpg" alt="Stefan Kasberger" width="220" class="img-circle"/></div>
 <div class="col-md-8">
 <h4>Stefan Kasberger<span class="social-contacts"><a href="https://stefankasberger.at" title="Website"><i class="fa fa-bookmark"></i></a><a href="mailto:stefan.kasberger@okfn.at" title="EMail"><i class="fa fa-envelope"></i></a><a href="https://github.com/skasberger" title="GitHub"><i class="fa fa-github"></i></a><a href="https://twitter.com/Stefankasberger" title="@stefankasberger"><i class="fa fa-twitter"></i></a></span></h4>
 <h5>Projekt-Lead</h5>
@@ -93,6 +93,13 @@ Peter interessiert sich für Wahlen und programmiert gerne. Er bringt sich vor a
 </div>
 
 <div class="team-mitglied col-sm-12">
+<div class="col-md-4"><img src="{{ site.staticurl }}pages/about/flooh.png" alt="Flooh Perlot" width="220" class="img-circle"/></div>
+<div class="col-md-8">
+<h4>Flooh Perlot<span class="social-contacts"><a href="" title="Website"><i class="fa fa-bookmark"></i></a><a href="mailto:" title="EMail"><i class="fa fa-envelope"></i></a><a href="https://github.com/ginseng666" title="GitHub"><i class="fa fa-github"></i></a><a href="" title="@"><i class="fa fa-twitter"></i></a></span></h4>
+</div>
+</div>
+
+<div class="team-mitglied col-sm-12">
 <div class="col-md-4"><img src="" alt="Tobias Schönberg" width="220" class="img-circle"/></div>
 <div class="col-md-8">
 <h4>Tobias Schönberg<span class="social-contacts"><a href="https://github.com/tobias47n9e" title="GitHub"><i class="fa fa-github"></i></a><a href="https://twitter.com/tobias47n9e" title="@tobias47n9e"><i class="fa fa-twitter"></i></a></span></h4>
@@ -100,6 +107,15 @@ Peter interessiert sich für Wahlen und programmiert gerne. Er bringt sich vor a
 </div>
 
 <h4>Partner</h4>
+
+<div class="partner col-sm-12">
+<div class="col-md-4"><a title="Wikimedia Österreich" href="https://wikimedia.at/"><img src="{{ site.staticurl }}logos/wm-at.svg" alt="Logo" width="220" /></a></div>
+<div class="col-md-8">
+<h4>Wikimedia Österreich</h4>
+<a href="https://wikimedia.at/" title="Wikimedia Österreich">Wikimedia Österreich</a> verkörpert die nationale Community des Wikiversums. Als österreichischer Zweigverein der Wikimedia Foundation unterstützen sie Aktivitäten von Wikipedia über Wikidata bis hin zu freiem Wissen generell.
+</div>
+</div>
+
 <div class="partner col-sm-12">
 <div class="col-md-4"><a title="Open3" href="https://open3.at/"><img src="{{ site.staticurl }}logos/logo-open3.jpg" alt="Logo Open3" width="220" /></a></div>
 <div class="col-md-8">
