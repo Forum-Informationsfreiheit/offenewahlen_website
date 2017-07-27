@@ -93,9 +93,10 @@ Peter interessiert sich für Wahlen und programmiert gerne. Er bringt sich vor a
 </div>
 
 <div class="team-mitglied col-sm-12">
-<div class="col-md-4"><img src="{{ site.staticurl }}pages/about/flooh.png" alt="Flooh Perlot" width="220" class="img-circle"/></div>
+<div class="col-md-4"><img src="{{ site.staticurl }}pages/about/flooh-perlot.jpg" alt="Flooh Perlot" width="220" class="img-circle"/></div>
 <div class="col-md-8">
-<h4>Flooh Perlot<span class="social-contacts"><a href="" title="Website"><i class="fa fa-bookmark"></i></a><a href="mailto:" title="EMail"><i class="fa fa-envelope"></i></a><a href="https://github.com/ginseng666" title="GitHub"><i class="fa fa-github"></i></a><a href="" title="@"><i class="fa fa-twitter"></i></a></span></h4>
+<h4>Flooh Perlot<span class="social-contacts"><a href="http://drawingdata.net/" title="Website"><i class="fa fa-bookmark"></i></a><a href="mailto:home@drawingdata.net" title="EMail"><i class="fa fa-envelope"></i></a><a href="https://github.com/ginseng666" title="GitHub"><i class="fa fa-github"></i></a><a href="https://twitter.com/drawingdata" title="@drawingdata"><i class="fa fa-twitter"></i></a></span></h4>
+Flooh beschäftigt sich hauptsächlich mit der Visualisierung von Wahl- und anderen politischen Daten und arbeitet als Politikwissenschafter.
 </div>
 </div>
 
@@ -188,4 +189,3 @@ Peter interessiert sich für Wahlen und programmiert gerne. Er bringt sich vor a
 <a href="http://paulina-umstandsmode.de" title="Umstandsmode"><img src="http://www.opendatagraz.at/wp-content/uploads/2017/04/paulina.png" alt="umstandsmode" width="100%" /></a>
 </div>
 </div>
-
