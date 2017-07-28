@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Wikidata-Wahldaten-Workshop
+title: Wikidata-Election-Workshop
 permalink: /termine/wikidata-workshop/
 comments: false
 ---
