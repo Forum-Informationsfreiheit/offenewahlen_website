@@ -465,6 +465,12 @@ header {
     margin-top: 3px;
 
   }
+  .nav-items-left {
+    margin-top: 17px;
+  }
+  .nav-items-right {
+    font-size: 32px;
+  }
 
   .row {
     padding-left: 15px;
@@ -586,6 +592,10 @@ a .button-border-red:hover {
   padding: 5px;
   font-size: 0.5em;
   margin-bottom: 10px;
+}
+
+.header-nav .fa-github {
+  font-size: 36px;
 }
 
 // Homepage
