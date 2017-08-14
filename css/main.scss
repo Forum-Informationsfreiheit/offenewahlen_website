@@ -524,62 +524,52 @@ header {
 .content-source {
   font-size: 0.8em;
 }
-.button-border-black {
+.button-primary,
+.button-secondary,
+.button-gray {
   display: inline-block;
   line-height: 2em;
-  border: 2px solid black;
   padding: 0.5em;
   text-align: center;
-  background-color: white;
   width: 100%;
-  margin: 20px 0;
-  color: black;
+  margin: 20px 0px;
 }
-a .button-full-red {
-  display: inline-block;
-  line-height: 2em;
-  border: 2px solid black;
-  padding: 0.5em;
-  text-align: center;
-  background-color: $primary;
-  width: 100%;
-  margin: 20px 0;
-  color: black;
-}
-a .button-full-red:hover {
-  background-color: white;
-  text-decoration: none;
-  color: $primary;
-  border-color: $primary;
-}
-a .button-border-red {
-  display: inline-block;
-  line-height: 2em;
+.button-primary {
   border: 2px solid $primary;
-  padding: 0.5em;
-  text-align: center;
   background-color: white;
-  width: 100%;
-  margin: 20px 0;
-  color: $primary;
+  color: $primary !important; 
 }
-a .button-border-red:hover {
+.button-primary:hover {
+  background-color: $primary;
+  color: white !important;
   text-decoration: none;
-  color: darken($primary, 20%);
-  border-color: darken($primary, 20%);
 }
-
+.button-secondary {
+  border: 2px solid $secondary;
+  background-color: white;
+  color: $secondary !important; 
+}
+.button-secondary:hover {
+  background-color: $secondary;
+  color: white !important;
+  text-decoration: none;
+}
+.button-gray {
+  border: 2px solid #767676;
+  background-color: white;
+  color: #767676 !important;
+}
+.button-gray:hover {
+  background-color: #767676;
+  color: white !important;
+  text-decoration: none;
+}
 #dsq-app1 {
   margin-top: 80px;
 }
-
-.padded-row {
-  padding: 5rem 0 6rem;
-}
-
-.padded-top {
-  padding-top: 15px;
-
+.text-15x {
+  font-size: 1.5em;
+  font-weight: bold;
 }
 
 .overflow-hidden {
@@ -600,114 +590,114 @@ a .button-border-red:hover {
 
 // Homepage
 
-.start-banner {
+.teaser {
+  padding-top: 80px;
+  padding-bottom: 80px;
   background-color: white;
-  padding: 50px 0px;
   text-align: center;
-
-  img {
-    width: 100%;
-    height: auto;
-    max-width: 400px;
-    margin: 30px 0px;
-  }
-
-  .row > div {
-    margin: 0;
-    padding: 0;
-  }
-
-  .start-headline {
-    padding: 0;
-    color: #000;
-    font-weight: bolder;
-  }
-  .lead-in-ok {
-    font-size: 0.8em;
-    color: #555;
-    margin-bottom: 30px;
-  }
-  .lead-in-ok a {
-    color: #555;
-    font-weight: normal;
-  }
-  .lead-in-tag {
-    margin-top: 50px;
-    margin-bottom: 80px;
-  }
-  #call-to-action {
-    background-color: $primary;
-    border: 3px solid black;
-    border-radius: 10px;
-    padding: 25px;
-
-    .lead-in-newsletter {
-      color: black;
-      font-size: 1em;
-      font-weight: bold;
-    }
-    form {
-      margin-left: 0px;
-      margin-right: 0px;
-    }
-    #mce-EMAIL {
-      border: 2px solid black;
+  border-bottom: 3px solid black;
+  .ow-logo {
+    img {
       width: 100%;
-      height: 100%;
     }
-    #mc-embedded-subscribe {
-      border: 2px solid black;
-      height: 100%;
-      color: black;
-      background-color: darken($primary, 10%);
-    }
-    #mc-embedded-subscribe:hover {
-      background-color: lighten($primary, 10%);
-    }
-    #mce-EMAIL {
-      margin-right: 20px;
-    }
+  }
+  h1 {
+    font-size: 40px;
+    font-weight: bold;
   }
 }
-.introduction {
-  background-color: #f4f4f4;
-  border-top: 3px solid $primary;
+.open-data {
   padding: 50px 0px;
-
+  background-color: #f5f5f5;
   h2 {
-    margin-bottom: 70px;
+    margin-bottom: 50px;
+  }
+  h4 {
+    margin-bottom: 50px;
+  }
+  blockquote {
+    margin-top: 30px;
+    font-size: 24px;
+  }
+}
+.ow-od {
+  padding: 50px 0px;
+  background-color: #ed2939;
+
+  .istgleich {
+    font-size: 60px;
+    color: white;
+    vertical-align: bottom;
+  }
+}
+.activities {
+  padding: 50px 0px;
+  background-color: white;
+  border-bottom: 3px solid black;
+  h2 {
+    margin-bottom: 50px;
     font-weight: bold;
   }
   h3 {
-    margin-top: 50px;
+    height: 50px;
   }
-  .button-border-red {
-    margin: 10px 0px;
+  img {
+    margin-bottom: 20px;
   }
 }
-.hashtag {
-  margin-top: 50px;
-  margin-bottom: 30px;
+.community {
+  padding: 50px 0px;
+  background-color: #f5f5f5;
+  border-bottom: 3px solid black;
+  h2 {
+    margin-bottom: 50px;
+  }
+  .testimonial {
+    margin-bottom: 70px;
+    blockquote {
+      font-size: 22px;
+    }
+  }
 }
-
-.beitragen {
+.mitmachen {
+  padding: 50px 0px;
   background-color: white;
-  border-top: 3px solid $primary;
+  border-bottom: 3px solid #f5f5f5;
+  h2 {
+    margin-bottom: 50px;
+  }
+}
+.newsletter {
+  background-color: #f5f5f5;
   padding: 50px 0px;
 
-  h2 {
-    margin-bottom: 40px;
+  .leadin-newsletter {
+    color: black;
+    font-size: 1em;
     font-weight: bold;
+    margin-bottom: 50px;
   }
-
-  h4 {
-    margin-bottom: 30px;
+  form {
+    margin-left: 0px;
+    margin-right: 0px;
   }
-}
-.blog {
-  border-top: 3px solid $primary;
-  padding-top: 30px;
-  padding-bottom: 30px;
+  #mce-EMAIL {
+    border: 2px solid black;
+    width: 100%;
+    height: 100%;
+  }
+  #mc-embedded-subscribe {
+    border: 2px solid black;
+    height: 100%;
+    color: black;
+    background-color: darken($primary, 10%);
+  }
+  #mc-embedded-subscribe:hover {
+    background-color: lighten($primary, 10%);
+  }
+  #mce-EMAIL {
+    margin-right: 20px;
+  }
 }
 
 // Forderungen
@@ -730,34 +720,53 @@ a .button-border-red:hover {
   font-size: 1.5em;
 }
 
-// Beitragen
+// Über uns
 
-#page-beitragen {
-  .mitmachen-box {
-    height: 600px;
-    margin-bottom: 30px;  
+#page-about {
+  padding: 80px 0px;
+  .lead {
+    margin-bottom: 50px;
   }
-  h3 {
-    font-weight: bold;
+  h2 {
+    margin-bottom: 50px;
   }
-  img {
-    margin: 20px 0px;
+  .supporters {
+    margin-top: 50px;
+  }
+}
+// Mitmachen
+
+#page-mitmachen {
+  padding: 80px 0px;
+  .lead {
+    margin-bottom: 80px;
+  }
+  h2 {
+    margin-bottom: 50px;
   }
   .wo-beitragen {
-    margin-top: 50px;
-    h2 {
-      margin-top: 80px;
+    .mitmachen-box {
+      height: 500px;
+      margin-bottom: 50px;  
+      h3 {
+        font-weight: bold;
+        margin-bottom: 30px;
+      }
+      img {
+        margin-bottom: 30px;
+      }
     }
   }
   .wie-beitragen {
-    margin-top: 50px;
     h2 {
-      margin-top: 70px;
       margin-bottom: 50px;
     }
-    a {
-      margin-top: 20px;
+    .button-primary {
+      margin-top: 0px;
     }
+  }
+  .newsletter {
+    background-color: white;
   }
 }
 
@@ -813,7 +822,6 @@ a .button-border-red:hover {
   background-color: white;
 }
 
-
 // Über uns
 
 .team-mitglied {
@@ -841,6 +849,17 @@ a .button-border-red:hover {
   margin-bottom: 30px;
 }
 
+// Termine
+
+#page-termine {
+  margin-top: 50px;
+  h2 {
+    margin-bottom: 50px;
+  }
+  .kommende-termine {
+    margin-bottom: 50px;
+  }
+}
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import

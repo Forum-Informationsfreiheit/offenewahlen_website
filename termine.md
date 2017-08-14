@@ -6,18 +6,20 @@ comments: false
 menu_events: true
 ---
 
-<div>
+<div id="page-termine">
 
-<h2>Kommende</h2>
+	<div class="kommende-termine">
+		<h2 class="text-left">Kommende</h2>
+		<p class="button-secondary">15. Oktober: Nationalratswahl - Wahl-Daten-Party at metalab (tba)</p>
+		<p class="button-secondary">30. September, 14-18 Uhr: Wikidata and Election Data Workshop at Wikimedia Österreich (tba)</p>
+	</div>
 
-<p class="button-border-black">15. Oktober 2017: Nationalratswahl - Wahl-Daten-Party at metalab (tba)</p>
-
-<p class="button-border-black">30. September 2017 - 14-18 Uhr: Wikidata and Election Data Workshop at Wikimedia Österreich (tba)</p>
-
-<h2>Vergangene</h2>
-<a href="/termine/hackathon-metalab" title="Hackathon Metalab"><button class="button-border-red">19. November: Hackathon @ metalab Wien</button></a>
-<a href="/termine/webcast-1" title="Offene Wahlen Webcast"><button class="button-border-red">8. November: Offene Wahlen Webcast</button></a>
-<a href="/termine/workshop-spektral" title="Coding Workshop Spektral"><button class="button-border-red">19. Oktober: Coding Workshop für AnfängerInnen @ Spektral Graz</button></a>
-<a href="/termine/launch-netzpat" title="Launch"><button class="button-border-red">1. September: Launch @ 8. netzpolitischer Abend</button></a>
+	<div class="vergangene-termine">
+		<h2 class="text-left">Vergangene</h2>
+		<a class="button-primary" href="/termine/hackathon-metalab" title="Hackathon Metalab">19. 11. 2016: Hackathon @ metalab Wien</a>
+		<a class="button-primary" href="/termine/webcast-1" title="Offene Wahlen Webcast">8. 11. 2016: Offene Wahlen Webcast</a>
+		<a class="button-primary" href="/termine/workshop-spektral" title="Coding Workshop Spektral">19. 10. 2016: Coding Workshop für AnfängerInnen @ Spektral Graz</a>
+		<a class="button-primary" href="/termine/launch-netzpat" title="Launch">1. 9. 2016: Launch @ 8. netzpolitischer Abend</a>
+	</div>
 
 </div>
