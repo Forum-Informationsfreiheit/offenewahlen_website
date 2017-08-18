@@ -13,7 +13,7 @@ menu_ueberuns: true
 
 <p>Wahlen sind von zentraler Bedeutung in einer Demokratie, und somit von höchstem öffentlichen Interesse. Wichtigster Aspekt dabei ist, die <strong>Integrität einer Wahl</strong> und somit die Funktion des gesamten Wahl-Prozesses sicher zu stellen. Dies kann nur sichergestellt werden, wenn die einzelnen Schritte nachvollziehbar sind, und zwar für alle.</p>
 
-<p>Genau hier kommt Open Data ins Spiel: Ein <strong>sofortiges veröffentlichen der anfallenden Informationen unter Open-Data-Prinzipien gewährleistes ein höchstmögliches Maß an Transparenz und Teilhabe</strong>. Es ermöglicht allen das Kontrollieren des Prozesses, aber auch das Nutzen der Informationen um einen geselsschaftlichen Mehrwert zu erzeugen (z. Bsp. Visualisierungen durch Blogger, Seminararbeiten von Studierenden oder Informations-Services von Start-Up's und NGO's). Weiters wird durch eine offene Fehlerkultur und durch Transparenz Vertrauen zwischen der Regierung und den BürgerInnen aufgebaut.</p>
+<p>Genau hier kommt Open Data ins Spiel: Ein <strong>sofortiges veröffentlichen der anfallenden Informationen unter Open-Data-Prinzipien gewährleistet ein höchstmögliches Maß an Transparenz und Teilhabe</strong>. Es ermöglicht allen das Kontrollieren des Prozesses, aber auch das Nutzen der Informationen um einen gesellschaftlichen Mehrwert zu erzeugen (z. Bsp. Visualisierungen durch Blogger, Seminararbeiten von Studierenden oder Informations-Services von Start-Up's und NGO's). Weiters wird durch eine offene Fehlerkultur und durch Transparenz Vertrauen zwischen der Regierung und den BürgerInnen aufgebaut.</p>
 
 <blockquote>
   <p>“Keine Wahl läuft gänzlich ohne Fehler ab, kein Regelwerk ist perfekt. Aber es braucht einen offenen Umgang dazu, wie das Risiko für Unregelmäßigkeiten gesenkt und die BürgerInnen miteinbezogen werden können.”</p>
@@ -23,7 +23,7 @@ menu_ueberuns: true
 <p>Wichtige Punkte dabei sind:
 <ul>
 <li><strong>Anonymes Wählen und Open Data</strong>: Da dies schon öfters gefragt wurde: Mit Öffnung und Transparenz bei Wahlen ist nicht die Aufhebung der Anonymität bei der Wahl gemeint. Wir wollen die Ergebnisse eines gesamten Sprengels öffnen (z.B. Sprengel A hat 312 Stimmen für Partei X und 269 Stimmen für Partei Y) und nicht welche Partei von einer Person gewählt wurde. Das Recht auf eine anonyme Wahl ist ein Grundrecht der Demokratie und darf nicht in Frage gestellt werden.</li>
-<li><strong>Verschwörungstheorien und Manipulation</strong>: Das Projekt distanziert sich klar von Verschwörungstheorien, die Manipulation beim zweiten Wahlgang unterstellen. Statistiker haben sich hierzu schon klar geäussert (<a href="http://derstandard.at/2000041882174/Bundespraesidentenwahl-Manipulation-schaut-anders-aus" title="Bundespräsidentenwahl: Manipulation schaut anders aus">derStandard.at</a>).</li>
+<li><strong>Verschwörungstheorien und Manipulation</strong>: Das Projekt distanziert sich klar von Verschwörungstheorien, die Manipulation beim zweiten Wahlgang unterstellen. Statistiker haben sich hierzu schon klar geäußert (<a href="http://derstandard.at/2000041882174/Bundespraesidentenwahl-Manipulation-schaut-anders-aus" title="Bundespräsidentenwahl: Manipulation schaut anders aus">derStandard.at</a>).</li>
 </ul>
 </p>
 </div>
@@ -55,7 +55,7 @@ Wir stellen <a href="{{ site.baseurl }}/ressourcen">Ressourcen</a> und <a href="
 Als gemeinnütziger Verein bietet das Team von Open Knowledge Österreich langjährige Expertise zum Thema Open Data an. Wir sind gut vernetzt und verbinden AkteurInnen aus Zivilgesellschaft, Medien, Wissenschaft und Politik mit der Open-Data-Community.<br><br>
 
 <strong>… brauchen dich!</strong><br>
-Je mehr Menschen sich an unserer Initiative beteiligen, desto mehr können wir erreichen. Wir freuen uns über jeden noch so kleinen Beitrag zu diesem Projekt! Wie du helfen kannst, erfährst du hier.
+Je mehr Menschen sich an unserer Initiative beteiligen, desto mehr können wir erreichen. Wir freuen uns über jeden noch so kleinen Beitrag zu diesem Projekt! Wie du helfen kannst, erfährst du hier.<br>
 
 <a href="{{ site.baseurl }}/beitragen" class="col-xs-12 col-sm-8 col-sm-offset-2"><button class="button-full-red">Beitragen</button></a>
 
@@ -80,7 +80,7 @@ Stefan koordiniert die Projekt-Aktivitäten, hat die Website erstellt und steht 
 <div class="col-md-4"><img src="{{ site.staticurl }}pages/about/robert-harm.jpg" alt="Robert Harm" width="220" class="img-circle"/></div>
 <div class="col-md-8">
 <h4>Robert Harm<span class="social-contacts"><a href="https://www.harm.co.at/" title="Website"><i class="fa fa-bookmark"></i></a><a href="mailto:robert@harm.co.at" title="EMail"><i class="fa fa-envelope"></i></a><a href="https://twitter.com/robertharm" title="@robertharm"><i class="fa fa-twitter"></i></a></span></h4>
-Robert beschäftigt sich schon seit Jahren mit Open Data und war von Anfang an in das Projekt involviert. Er bringt vor allem technische und inhaltliche Expertise zu Open Data ein.
+Robert beschäftigt sich schon seit Jahren mit Open Data und war von Anfang an in das Projekt involviert. Er bringt vor allem technische und inhaltliche Expertise zu Open (Government) Data ein.
 </div>
 </div>
 

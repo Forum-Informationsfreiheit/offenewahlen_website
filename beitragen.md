@@ -27,8 +27,8 @@ menu_beitragen: true
 
 <div class="col-xs-12 col-md-6 api-punkt mitmachen-box">
 <h3 class="text-center"><i class="fa fa-database" aria-hidden="true"></i> Wahldaten API</h3>
-<a href="https://offenewahlen-api.herokuapp.com/" title="Offener Wahldaten API"><img src="{{ site.staticurl }}pages/api.png" alt="API" class="img-rounded"></a>
-<p>Mittels der <a href="https://offenewahlen-api.herokuapp.com/" title="Offener Wahldaten API">Offenen Wahldaten API</a> wird eine Schnittstelle zum einfachen Zugang zu strukturierten Wahldaten angeboten. Die Flask-App ist Open Source und lebt von der Teilhabe von möglichst vielen Menschen (<a href="https://github.com/OKFNat/offenewahlen-api" title="Offene Wahlen API">GitHub repository</a>).</p>
+<a href="https://api.offenewahlen.at" title="Offener Wahldaten API"><img src="{{ site.staticurl }}pages/api.png" alt="API" class="img-rounded"></a>
+<p>Mittels der <a href="https://api.offenewahlen.at/" title="Offener Wahldaten API">Offenen Wahldaten API</a> wird eine Schnittstelle zum einfachen Zugang zu strukturierten Wahldaten angeboten. Die Flask-App ist Open Source und lebt von der Teilhabe von möglichst vielen Menschen (<a href="https://github.com/OKFNat/offenewahlen-api" title="Offene Wahlen API">GitHub repository</a>).</p>
 </div>
 
 <div class="col-xs-12 col-md-6 beitrage-punkt mitmachen-box">
