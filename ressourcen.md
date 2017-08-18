@@ -22,7 +22,7 @@ menu_ressourcen: true
   <li>Video: <a href="https://youtu.be/LMK99tF9xYo" title="Video: Projekt-Launch beim 8. netzpolitischen Abend @ metalab">Offene Wahlen Österreich Launch beim 8. netzpolitischen Abend @ metalab</a></li>
   <li>Präsentation: <a href="http://www.slideshare.net/cheeseman1983/offene-wahlen-sterreich-arge-digitalisierung" title="Präsentation Offene Wahlen @ ARGE Digitalisierung">Offene Wahlen Österreich @ ARGE Digitalisierung</a>.</li>
   <li><a href="https://nrw17.offenewahlen.at" title="Nationalratswahl 2017"><strong>NRW17</strong></a>: Visualisierungen zum Ergebnis am 15. Oktober 2017. Werden so gegen 17:15 online gehen. (<a href="https://github.com/OKFNat/offenewahlen-nrw17" title="GitHub">GitHub</a>)</li>
-  <li><a href="https://offenewahlen-api.herokuapp.com/" title="Offene Wahlen Österreich API"><strong>API</strong></a>: Schnittstelle für offene Wahldaten (<a href="https://github.com/OKFNat/offenewahlen-api" title="GitHub">GitHub</a>)</li>
+  <li><a href="https://api.offenewahlen.at/" title="Offene Wahlen Österreich API"><strong>API</strong></a>: Schnittstelle für offene Wahldaten (<a href="https://github.com/OKFNat/offenewahlen-api" title="GitHub">GitHub</a>)</li>
   <li><strong>API Spezifikation</strong>: Spezifikation zur Open Data API (<a href="https://github.com/OKFNat/offenewahlen-api-specification" title="API Specification">GitHub Repo</a>).</li>
   <li><strong>Offene Wahlen und Wikidata</strong>: <a href="https://github.com/OKFNat/offenewahlen-wikidata" title="Offene Wahlen AT und Wikidata">GitHub Repo</a> rund um Wikidata als Open Data Repository für Wahlen.</li>
   <li><strong>Website</strong> (<a href="https://github.com/OKFNat/offenewahlen-website" title="GitHub">GitHub</a>)</li>
