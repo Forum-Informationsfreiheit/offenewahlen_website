@@ -26,22 +26,25 @@ home: true
 		<h2 class="col-xs-12 text-center">Warum offene Daten?</h2>
 		<h4 class="col-xs-12 col-sm-offset-2 col-sm-8 text-center">Die Integrität von Wahlen ist von zentraler Bedeutung. Diese kann nur bei freiem Zugang zu Informationen gewährleistet sein.</h4>
 		<div class="row">
-			<div class="col-xs-12 col-sm-6">
-				<p><span class="text-15x">Wahlen</span> sind die Basis für eine Demokratie. Die zentralen Aspekte dabei sind Inklusion, Transparenz, Rechenschaftspflicht und Wettbewerb - für zwar für jeden Schritt des gesamten Prozesses.</p>
-				<p>Offener und freier Zugang zu Wissen ist hierbei essentiell, denn Kontrolle braucht Information. Dabei geht es um Daten wie Wahlergebnissen oder KandidatInnen-Listen, nicht aber um deine Stimme oder wer was gewählt hat.</p>
+			<div class="content-wahlen col-xs-12 col-sm-6">
+				<p><span class="text-15x">Wahlen</span> sind die Basis für eine Demokratie. Die zentralen Faktoren für eine gute Wahl sind Inklusion, Transparenz, Rechenschaftspflicht und Wettbewerb.</p>
+				<p>Offener und freier Zugang zu Wissen ist hierbei essentiell, denn Kontrolle braucht Zugang zur den benötigten Informationen. Dabei sind zum Beispiel Daten wie Wahlergebnisse oder Partei-Listen gemeint, nicht aber wen du gewählt hast. Das Wahlgeheimnis ist für uns unantastbar.</p>
 				<blockquote>
-					<p>Demokratie ist mehr als Wahlen, aber ein Land kann ohne Wahlen keine Demokratie sein.</p>
+					<p>Demokratie benötigt mehr als Wahlen, aber ein Land kann ohne echte Wahlen keine Demokratie sein.</p>
+					<footer><cite title="Open Election Data Initiative"><a href="http://www.openelectiondata.net/en/guide/electoral-integrity/why-we-care/" title="drawingdata.net">Open Election Data Initiative</a></cite></footer>
 				</blockquote>
 			</div>
-			<div class="col-xs-12 col-sm-6">
-				<p><span class="text-15x">Offen Daten</span> (oft auch Open Data genannt) sind Daten, die von allen Menschen dieser Welt ohne Einschränkungen verwendet werden können. Dazu gehört auch die Erlaubnis, die Daten zu bearbeiten oder weiter zu verbreiten. Wenn von offenen Daten gesprochen wird, sind meist Daten aus staatlicher Hand gemeint.</p>
-				<u>Gründe für Open Data:</u>
-				<ul>
-					<li>einfachere Teilhabe</li>
-					<li>bessere demokratische Bildung</li>
-					<li>mehr Vertrauen in Politik</li>
-					<li>neue Chancen der Digitalisierung nutzen</li>
-				</ul>
+			<div class="content-opendata col-xs-12 col-sm-6">
+				<p><span class="text-15x">Offene Daten</span> (oft auch Open Data genannt) sind Daten, die von allen Menschen dieser Welt ohne Einschränkungen verwendet werden können. Dazu gehört auch die Erlaubnis, die Daten zu bearbeiten oder weiter zu verbreiten. Wenn von offenen Daten gesprochen wird, sind meist Daten aus staatlicher Hand gemeint.</p>
+				<div class="liste-gruende">
+					<h4>Gründe für Open Data bei Wahlen:</h4>
+					<ul>
+						<li>einfachere Teilhabe durch BürgerInnen</li>
+						<li>mehr demokratische Bildung</li>
+						<li>mehr Vertrauen in Politik</li>
+						<li>neue Chancen der Digitalisierung nutzen</li>
+					</ul>
+				</div>
 				
 			</div>
 		</div>
@@ -101,17 +104,33 @@ home: true
 		<div class="testimonial row">
 			<div class="col-xs-12 col-md-offset-2 col-md-6">
 				<blockquote>
-					<p>Offene Daten sind die Grundlage für eine moderne Demokratie - bei Wahlen um so mehr. Daher helfe ich mit wo es geht um beides zu verbessern.</p>
-					<footer>Flooh Perlot <cite title="drawingdata.net"><a href="http://drawingdata.net/" title="drawingdata.net">drawingdata.net</a></cite></footer>
+					<p></p>
+					<footer></footer>
 				</blockquote>
 			</div>
-			<div class="col-xs-12 col-md-3">
-				<img src="{{ site.staticurl }}pages/about/flooh-perlot.jpg" alt="Flooh Perlot" width="180" class="img-circle"/>
+			<div class="testimonial-img col-xs-12 col-md-3">
+				<img src="{{ site.staticurl }}pages/about/example.jpg" alt="Flooh Perlot" width="180" class="img-circle"/>
 			</div>
+			<script type="text/javascript">
+				var quotes = [
+					{
+						'quote': 'Es ist immer beeindruckend und inspirierend zu sehen, was andere Leute mit Wahldaten anfangen, und auf welche Ideen sie kommen.',
+						'reference': 'Team-Mitglied Flooh Perlot (<cite title="drawingdata.net"><a href="http://drawingdata.net/" title="drawingdata.net">drawingdata.net</a>)</cite>',
+						'image': 'flooh-perlot.jpg'
+					}
+				];
+				$('.community .testimonial blockquote p').html(quotes[0]['quote']);
+				$('.community .testimonial blockquote footer').html(quotes[0]['reference']);
+				
+				var img_source = $('.community .testimonial .testimonial-img img').attr('src');
+				var len = img_source.split('/').length;
+				img_source = img_source.replace(img_source.split('/')[len-1], quotes[0]['image']);
+				$('.community .testimonial .testimonial-img img').attr('src', img_source);
+			</script>
 		</div>
 
 		<div class="community-text col-xs-12 col-md-offset-2 col-md-8 text-center">
-			<p class="lead">Wir sind eine Gruppe Ehrenamtlicher aus ganz Österreich, die sich gerne mit Wahlen und freiem Zugang zu Wissen beschäftigen. Gemeinsam wollen wir einen Beitrag zu einer demokratischen Gesellschaft leisten - und dabei auch etwas Lernen und Spaß haben.</p>
+			<p class="lead">Wir sind eine Gruppe ehrenamtlich tätiger Menschen aus ganz Österreich, die sich für freien Zugang zu Wissen bei Wahlen einsetzt. Gemeinsam wollen wir damit einen Beitrag zu einer demokratischen Gesellschaft leisten - und dabei auch etwas Lernen und Spaß haben.</p>
 		</div>
 
 	</div>
@@ -120,7 +139,35 @@ home: true
 <div class="mitmachen">
 	<div class="container">
 		<h2 class="text-center">Mach mit bei uns!</h2>
-		<a href="{{ site.baseurl }}/beitragen" class="button-primary col-xs-12 col-sm-8 col-sm-offset-2">Mitmachen!</a>
+
+		<div class="row">
+			<div class="col-md-3">
+				<div class="mitmachen-icons text-center"><i class="fa fa-share-alt" aria-hidden="true"></i> + <i class="fa fa-creative-commons" aria-hidden="true"></i></div>
+				<h3 class="text-center">Wissen teilen</h3>
+				<p>Gemeinsam Wissen rund um Wahlen sammeln und teilen.</p>
+			</div>
+
+			<div class="col-md-3">
+				<div class="mitmachen-icons text-center"><i class="fa fa-code" aria-hidden="true"></i></div>
+				<h3 class="text-center">Coden</h3>
+				<p>Hilf beim Coden von Tools und Visualisierungen mit.</p>
+			</div>
+
+			<div class="col-md-3">
+				<div class="mitmachen-icons text-center"><i class="fa fa-bar-chart" aria-hidden="true"></i></div>
+				<h3 class="text-center">Daten nutzen</h3>
+				<p>Nutze die offenen Wahl-Daten für deine eigenen Ideen.</p>
+			</div>
+
+			<div class="col-md-3">
+				<div class="mitmachen-icons text-center"><i class="fa fa-handshake-o" aria-hidden="true"></i></div>
+				<h3 class="text-center">Unterstützen</h3>
+				<p>Du kannst uns auch finanziell unterstützen.</p>
+			</div>
+		</div>
+
+		<a href="{{ site.baseurl }}/mitmachen" class="button-primary col-xs-12 col-sm-8 col-sm-offset-2">Mitmachen</a>
+
 	</div>
 </div>
 
@@ -130,18 +177,18 @@ home: true
 		<div id="mc_embed_signup">
 		  <form action="//okfn.us6.list-manage.com/subscribe/post?u=fad98e7fc5a76b79765f0c2b5&amp;id=6b3001676b" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate form-inline row" target="_blank" novalidate>
 
-		      <div class="mc-field-group form-group col-xs-12 col-sm-offset-2 col-sm-5">
+		    <div class="mc-field-group form-group col-xs-12 col-sm-offset-2 col-sm-5">
 		      	<input type="email" value="" name="EMAIL" class="form-control required email" id="mce-EMAIL">
-		      </div>
+		    </div>
 
-		      <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-		      <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_fad98e7fc5a76b79765f0c2b5_6b3001676b" tabindex="-1" value=""></div>
-		      <button type="submit" class="col-sm-offset-1 col-sm-2 col-xs-12" type="submit" value="Anmelden" name="subscribe" id="mc-embedded-subscribe">Anmelden</button>
+		    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+		    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_fad98e7fc5a76b79765f0c2b5_6b3001676b" tabindex="-1" value=""></div>
+		    <button type="submit" class="col-sm-offset-1 col-sm-2 col-xs-12" type="submit" value="Anmelden" name="subscribe" id="mc-embedded-subscribe">Anmelden</button>
 
-		      <div id="mce-responses" class="clear">
-		    		<div class="response" id="mce-error-response" style="display:none"></div>
-		    		<div class="response" id="mce-success-response" style="display:none"></div>
-		    	</div>
+		    <div id="mce-responses" class="col-xs-12 col-sm-offset-2 col-sm-8" class="clear">
+		    	<div class="response" id="mce-error-response" style="display:none"></div>
+		    	<div class="response" id="mce-success-response" style="display:none"></div>
+			</div>
 
 		  </form>
 		</div>
