@@ -632,11 +632,10 @@ header {
 }
 .ow-od {
   padding: 50px 0px;
-  background-color: darken($primary, 10%);
-
+  background-color: rgba($primary, 0.1);
   .istgleich {
     font-size: 60px;
-    color: white;
+    color: black;
     vertical-align: bottom;
   }
 }
