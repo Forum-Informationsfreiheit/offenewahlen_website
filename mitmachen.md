@@ -16,25 +16,25 @@ menu_mitmachen: true
 		<div class="col-xs-12 col-md-6 beitrage-punkt mitmachen-box">
 			<h3 class="text-center"><i class="fa fa-bar-chart" aria-hidden="true"></i> #NRW17 Visualisierung</h3>
 			<a href="https://nrw17.offenewahlen.at" title="#NRW17 Visualisierung"><img src="{{ site.staticurl }}pages/nrw17_2.png" alt="Screenshot #NRW17 Visualisierung" class="img-rounded"></a>
-			<p>Visualisierung der Ergebnisse der 26. österreichischen Nationalratswahl am 15. Oktober 2017. Nähere Infos, wie du mitmachen kannst, bekommst du im <a href="https://github.com/OKFNat/offenewahlen-nrw17" title="offenewahlen-nrw17">GitHub Repository</a>.</p>
+			<p>Eine Daten-Visualisierung zur Nationalratswahl am 15. Oktober 2017. Nähere Infos, wie du mitmachen kannst, bekommst du im <a href="https://github.com/OKFNat/offenewahlen-nrw17" title="offenewahlen-nrw17">GitHub Repository</a>.</p>
 		</div>
 
 		<div class="col-xs-12 col-md-6 beitrage-punkt mitmachen-box">
 			<h3 class="text-center"><i class="fa fa-pencil" aria-hidden="true"></i> Forderungen</h3>
 			<a href="{{ site.baseurl }}/forderungen-v1" title="Forderungen"><img src="{{ site.staticurl }}blog/2016/10/forderungen.png" alt="Screenshot Forderungen" class="img-rounded"></a>
-			<p>Die Forderungen werden gemeinsam online ausgearbeitet und dann dem Innenministerium überreicht. Näheres dazu unter <a href="/forderungen-v1" alt="Forderungen">Forderungen</a>.</p>
+			<p>Die Forderungen werden gemeinsam online ausgearbeitet und dem Innenministerium überreicht. Näheres dazu unter <a href="/forderungen-v1" alt="Forderungen">Forderungen</a>.</p>
 		</div>
 
 		<div class="col-xs-12 col-md-6 beitrage-punkt mitmachen-box">
 			<h3 class="text-center"><i class="fa fa-file-code-o" aria-hidden="true"></i> Offener Datenstandard</h3>
 			<a href="https://github.com/OKFNat/offenewahlen-api-specification" title="Offener Wahldaten Standard Specification"><img src="{{ site.staticurl }}pages/datenstandard.png" alt="Datenstandard" class="img-rounded"></a>
-			<p>Hilf mit, einen <a href="https://github.com/OKFNat/offenewahlen-api-specification" title="Offener Wahldaten Standard Specification">offenen Datenstandard</a> für die Wahldaten zu erstellen.</p>
+			<p>Hilf mit, einen <a href="https://github.com/OKFNat/offenewahlen-api-specification" title="Offener Wahldaten Standard Specification">offenen Datenstandard</a> für Wahldaten in Österreich zu entwickeln.</p>
 		</div>
 
 		<div class="col-xs-12 col-md-6 beitrage-punkt mitmachen-box">
 			<h3 class="text-center"><i class="fa fa-bar-chart" aria-hidden="true"></i> Daten nutzen</h3>
 			<a href="/tutorials" title="Tutorials"><img src="{{ site.staticurl }}blog/2016/10/saeulen-diagramm.png" alt="Bild Säulendiagramm" class="img-rounded"></a>
-			<p>Nutze unsere Daten und unsere Tools. Zur Anregung haben wir ein paar <a href="/tutorials" title="Tutorials">Tutorials</a> erstellt. Und wenn du etwas gemacht hast, meld dich bitte bei uns mit dem Ergebnis.</p>
+			<p>Nutze unsere Daten und unsere Tools. Zur Anregung haben wir ein paar <a href="/tutorials" title="Tutorials">Tutorials</a> erstellt. PS: Meld dich bitte bei uns mit dem Ergebnis.</p>
 		</div>
 
 		<div class="col-xs-12 col-md-6 api-punkt mitmachen-box">
@@ -58,7 +58,7 @@ menu_mitmachen: true
 		<div class="row">
 			
 			<div class="row col-xs-12 col-sm-6">
-				<p>Bei Offene Wahlen Österreich gibt es zahlreiche Möglichkeiten mitzumachen. Es sind nicht nur Fähigkeiten rund um Daten und Programmieren nötig, auch Expertiste in der Kommunikation (Social Media, Newsletter, Bloggen, uvm.) oder in Designfragen (Logos, Grafiken, etc.) werden benötigt.</p>
+				<p>Du kannst Offene Wahlen Österreich ganz einfach unterstützen. Es sind dabei nicht nur Fähigkeiten rund um Daten und Programmieren gefragt. Aktuell suchen wir z. B. vor allem eine Person für Kommunikation/PR (Social Media, Newsletter, Bloggen, uvm.) und eine für Design-Fragen (Logos, Grafiken, etc.). Hilf mit für Transparenz und Offenheit bei Wahlen!</p>
 			</div>
 
 			<div class="col-xs-12 col-sm-6">
