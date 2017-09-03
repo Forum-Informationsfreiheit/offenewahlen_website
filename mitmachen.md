@@ -58,7 +58,7 @@ menu_mitmachen: true
 		<div class="row">
 			
 			<div class="row col-xs-12 col-sm-6">
-				<p>Du kannst Offene Wahlen Österreich ganz einfach unterstützen. Es sind dabei nicht nur Fähigkeiten rund um Daten und Programmieren gefragt. Aktuell suchen wir z. B. vor allem eine Person für Kommunikation/PR (Social Media, Newsletter, Bloggen, uvm.) und eine für Design-Fragen (Logos, Grafiken, etc.). Hilf mit für Transparenz und Offenheit bei Wahlen!</p>
+				<p>Du kannst Offene Wahlen Österreich ganz einfach unterstützen. Es sind dabei nicht nur Fähigkeiten rund um Daten und Programmieren gefragt. Aktuell suchen wir z. B. vor allem eine Person für Kommunikation/PR (Social Media, Newsletter, Bloggen, uvm.) und eine für Design-Fragen (Logos, Grafiken, etc.). <br><strong>Hilf mit für Transparenz und Offenheit bei Wahlen!</strong></p>
 			</div>
 
 			<div class="col-xs-12 col-sm-6">
