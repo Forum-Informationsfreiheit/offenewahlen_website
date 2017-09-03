@@ -5,6 +5,8 @@ Dies ist die Website (GitHub Page) für das Projekt Offene Wahlen Österreich.
 
 **[http://offenewahlen.at/](http://offenewahlen.at/)**
 
+![Offene Wahlen](https://github.com/OKFNat/offenewahlen-at/blob/master/images/logos/ow-at.png)
+
 ## Mitmachen
 
 * **Fehler melden**: Wenn du einen Fehler gefunden hast, erstelle bitte ein [Issue](https://github.com/OKFNat/offenewahlen-nrw17/issues/new) dazu. Immer am besten mit Screenshot und möglichst exakter Fehlerbeschreibung.
