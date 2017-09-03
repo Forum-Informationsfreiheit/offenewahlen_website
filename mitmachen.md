@@ -7,46 +7,53 @@ menu_mitmachen: true
 ---
 
 <div id="page-mitmachen">
-	<p class="lead col-sm-10 col-sm-offset-1 text-center">Im Geiste von freier Software ist jedeR dazu ermutigt, sich einzubringen und das Projekt zu verbessern - Offenheit lebt von Teilhabe. Hier einige Möglichkeiten, wie du dich einbringen kannst.</p>
+	<p class="lead text-center">Offene Wahlen Österreich ist ein <strong>Community-Projekt</strong>. Hilf mit und setze dich gemeinsam mit anderen für Transparenz, demokratische Bildung und Open Data in bei Wahlen Österreich ein.</p>
+	<p class="lead text-center"></p>
 
 	<div class="wo-beitragen">
 
-		<h2 class="col-xs-12">Wo kann man mitmachen?</h2>
+		<h2 class="col-xs-12">Wie kann ich mitmachen?</h2>
 
 		<div class="col-xs-12 col-md-6 beitrage-punkt mitmachen-box">
 			<h3 class="text-center"><i class="fa fa-bar-chart" aria-hidden="true"></i> #NRW17 Visualisierung</h3>
-			<a href="https://nrw17.offenewahlen.at" title="#NRW17 Visualisierung"><img src="{{ site.staticurl }}pages/nrw17_2.png" alt="Screenshot #NRW17 Visualisierung" class="img-rounded"></a>
-			<p>Eine Daten-Visualisierung zur Nationalratswahl am 15. Oktober 2017. Nähere Infos, wie du mitmachen kannst, bekommst du im <a href="https://github.com/OKFNat/offenewahlen-nrw17" title="offenewahlen-nrw17">GitHub Repository</a>.</p>
+			<a href="https://github.com/OKFNat/offenewahlen-nrw17#mitmachen" title="#NRW17 Visualisierung"><img src="{{ site.staticurl }}pages/nrw17_2.png" alt="Screenshot #NRW17 Visualisierung" class="img-rounded"></a>
+			<p>Eine <a href="https://github.com/OKFNat/offenewahlen-nrw17#mitmachen" title="offenewahlen-nrw17">Daten-Visualisierung zur Nationalratswahl</a> am 15. Oktober 2017. Hier sind wir gerade am meisten aktiv, und freuen uns über jede helfende Hand.</p>
 		</div>
 
 		<div class="col-xs-12 col-md-6 beitrage-punkt mitmachen-box">
 			<h3 class="text-center"><i class="fa fa-pencil" aria-hidden="true"></i> Forderungen</h3>
 			<a href="{{ site.baseurl }}/forderungen-v1" title="Forderungen"><img src="{{ site.staticurl }}blog/2016/10/forderungen.png" alt="Screenshot Forderungen" class="img-rounded"></a>
-			<p>Die Forderungen werden gemeinsam online ausgearbeitet und dem Innenministerium überreicht. Näheres dazu unter <a href="/forderungen-v1" alt="Forderungen">Forderungen</a>.</p>
+			<p>Kommentiere und hinterlasse deine Meinung bei unseren <a href="/forderungen-v1" alt="Forderungen">Forderungen</a> zu Open Data bei Wahlen an das Bundesinnenministerium.</p>
+		</div>
+
+		<div class="col-xs-12 col-md-6 beitrage-punkt mitmachen-box">
+			<h3 class="text-center"><i class="fa fa-wikipedia-w" aria-hidden="true"></i> Wikidata</h3>
+			<a href="https://github.com/OKFNat/offenewahlen-wikidata" title="Offene Wahlen Website"><img src="{{ site.staticurl }}pages/wikidata.png" alt="Bild Website" class="img-rounded"></a>
+			<p>Hilf mit, <a href="https://github.com/OKFNat/offenewahlen-wikidata" alt="GitHub Repository Offene Wahlen Wikidata">Wikidata</a> zur primären Datenquelle für politische Entities in Österreich aufzubauen. Importiere Daten zu PolitikerInnen, Wahlen und Parteien und mache sie so allen frei zugänglich - von der Nationalratswahl bis zur/zum BürgermeisterIn.</p>
 		</div>
 
 		<div class="col-xs-12 col-md-6 beitrage-punkt mitmachen-box">
 			<h3 class="text-center"><i class="fa fa-file-code-o" aria-hidden="true"></i> Offener Datenstandard</h3>
 			<a href="https://github.com/OKFNat/offenewahlen-api-specification" title="Offener Wahldaten Standard Specification"><img src="{{ site.staticurl }}pages/datenstandard.png" alt="Datenstandard" class="img-rounded"></a>
-			<p>Hilf mit, einen <a href="https://github.com/OKFNat/offenewahlen-api-specification" title="Offener Wahldaten Standard Specification">offenen Datenstandard</a> für Wahldaten in Österreich zu entwickeln.</p>
+			<p>Entwickle mit uns zusammen einen <a href="https://github.com/OKFNat/offenewahlen-api-specification" title="Offener Wahldaten Standard Specification">offenen Datenstandard</a> für Wahldaten in Österreich. Dieser soll sowohl von den offiziellen Wahlbehörden wie auch von uns selber genutzt werden.</p>
 		</div>
 
 		<div class="col-xs-12 col-md-6 beitrage-punkt mitmachen-box">
 			<h3 class="text-center"><i class="fa fa-bar-chart" aria-hidden="true"></i> Daten nutzen</h3>
 			<a href="/tutorials" title="Tutorials"><img src="{{ site.staticurl }}blog/2016/10/saeulen-diagramm.png" alt="Bild Säulendiagramm" class="img-rounded"></a>
-			<p>Nutze unsere Daten und unsere Tools. Zur Anregung haben wir ein paar <a href="/tutorials" title="Tutorials">Tutorials</a> erstellt. PS: Meld dich bitte bei uns mit dem Ergebnis.</p>
+			<p>Nutze unsere Daten und Tools für eigene Ideen. Zur Anregung haben wir ein paar <a href="/tutorials" title="Tutorials">Tutorials</a> erstellt. PS: Meld dich bitte bei uns mit deinem Ergebnis.</p>
 		</div>
 
 		<div class="col-xs-12 col-md-6 api-punkt mitmachen-box">
 			<h3 class="text-center"><i class="fa fa-database" aria-hidden="true"></i> Wahldaten API</h3>
-			<a href="https://api.offenewahlen.at" title="Offene Wahldaten API"><img src="{{ site.staticurl }}pages/api.png" alt="API" class="img-rounded"></a>
-			<p>Hilf mit beim Entwickeln einer offenen Daten-Schnittstelle für Wahlen. Näheres erfährst du auch hier wieder im <a href="https://github.com/OKFNat/offenewahlen-api" title="Offene Wahlen API">GitHub Repository</a>.</p>
+			<a href="https://github.com/OKFNat/offenewahlen-api" title="Offene Wahldaten API"><img src="{{ site.staticurl }}pages/api.png" alt="API" class="img-rounded"></a>
+			<p>Hilf mit beim Entwickeln einer <a href="https://github.com/OKFNat/offenewahlen-api" title="Offene Wahlen API">Open Data restful-API</a> für Wahldaten um die Daten allen frei zugänglich zu machen.</p>
 		</div>
 
 		<div class="col-xs-12 col-md-6 beitrage-punkt mitmachen-box">
 			<h3 class="text-center"><i class="fa fa-github" aria-hidden="true"></i> Webpage</h3>
-			<img src="{{ site.staticurl }}blog/2016/10/website.png" alt="Bild Website" class="img-rounded">
-			<p>Die Website ist eine GitHub Page. Du kannst <a href="https://github.com/OKFNat/offenewahlen-website/issues/new" alt="Fehler melden">Fehler melden</a>, <a href="https://github.com/OKFNat/offenewahlen-website/issues" alt="Issues schliessen">Issues schliessen</a>, Bloggen oder das Design verbessern. Sieh einfach im <a href="https://github.com/OKFNat/offenewahlen-website" alt="GitHub Repository Offene Wahlen">GitHub Repository</a> nach, wie.</p>
+			<a href="https://github.com/OKFNat/offenewahlen-website" title="Offene Wahlen Website"><img src="{{ site.staticurl }}pages/website.png" alt="Bild Website" class="img-rounded"></a>
+			<p>Verbessere das Design, schreibe einen Artikel oder korrigiere einen Fehler - bei der <a href="https://github.com/OKFNat/offenewahlen-website" alt="GitHub Repository Offene Wahlen">Website</a> gibt es zahlreiche Möglichkeiten, wie du dich einbringen kannst.</p>
 		</div>
 
 	</div>

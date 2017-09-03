@@ -3,28 +3,22 @@ Offene Wahlen Österreich
 
 Dies ist die Website (GitHub Page) für das Projekt Offene Wahlen Österreich.
 
-Offene Wahlen AT setzt sich für einen offenen und transparenten Wahlprozess in Österreich ein. Hier gibt es Informationen zu Open Data bei Wahlen und über Transparenz bei Wahlen. Zentraler Input für die Inhalte ist der [Election Data Guide](http://www.openelectiondata.net/en/guide/).
 
-**Zielgruppen**
-Interessierte sowie Expert_innen die sich in das Thema einlesen wollen.
-- zivile Organisationen die sich mit dem Thema Wahlen beschäftigen
-- Wahlbehörden, die eine klare und konkrete Definition von Open Data brauchen
-- Leute in den Medien und andere Interessierte, die sich in das Thema einlesen wollen
-- politische Parteien, die sich über Open Data informieren wollen
-- Wissenschaftler_innen
+## Mitmachen
 
-# Contributors
-Danke an alle, die mitgeholfen haben.
-- Flooh Perlot
-- Peter Grassberger
-- Robert Harm
-- Mathias Huter
+* **Fehler melden**: Wenn du einen Fehler gefunden hast, erstelle bitte ein [Issue](https://github.com/OKFNat/offenewahlen-nrw17/issues/new) dazu. Immer am besten mit Screenshot und möglichst exakter Fehlerbeschreibung.
+* **Fehler beheben**: Sieh dir die [Issues](https://github.com/OKFNat/offenewahlen-nrw17/issues) an und schließe eines. Nähere Infos unter **[Development](#development)**.
+* **Lektorat** der Texte
+* **Artikel/Tutorial schreiben**: Schreibe einen Artikel bzw. ein Tutorial zu einem Thema rund um Offene Wahlen Österreich
+* **Erstelle eine Übersichts-Seite** zu einem Thema: Es gibt noch viele Themenbereiche, die eine Zusammenfassung benötigen.
+  * Wahlforschung
+  * Open Data
+  * Wahlrecht in Österreich
+  * Tools für die Analyse, Visualierung oder Datenverarbeitung von Wahldaten
+  * Daten rund um Wahlen
+* **Design** verbessern
+* Melde deine Datennutzung: wenn du Daten von uns nutzt, meld dich, damit wir dies sichtbar machen können. Damit hilfst du der Open Data Bewegung sehr.
+* **[Newsletter](http://offenewahlen.at/newsletter)**: abonniere den Newsletter und bleib am Laufenden.
+* **[Spenden](https://offenewahlen.at/spenden)**: Du kannst uns auch finanziell unterstützen, indem du eine kleine Spende da lässt. Das Geld wird Projekt-bezogen verwendet und dient zum Verbessern der verschiedenen Aktivitäten von Offene Wahlen Österreich - von der #NRW17-Visualisierung über den Datenstandard bis hin zum Abhalten von Coding-Workshops.
 
-## QUELLEN
-- [Offene Wahlen @ Open Knowledge Österreich]()
-- [BMI Wahlen](http://www.bmi.gv.at/cms/bmi_wahlen/)
-- [Open Elections Data](http://www.openelectiondata.net/en/)
-- [Open Elections](https://blog.openelections.net/): Projekt, das Metadaten und Daten zu US-Wahlergebnisssen crowdsourced und Tools dazu entwickelt.
-- [NDI](https://www.ndi.org/elections): hat einige Handbücher und Anleitungen zu verschiedenen Aspekten und Methoden von Bürger_innen Wahlbeobachtung gemacht.
-- [Sunlight Foundation: Open Data Policy Guidelines](http://sunlightfoundation.com/opendataguidelines/)
-- [NZZ: Die Qual der Wahl](https://soundcloud.com/nzz-at/clubabend-die-wahl-der-qual)
+**Einfach mit uns in [Kontakt](http://offenewahlen.at/kontakt) treten und wir besprechen das nähere.**
