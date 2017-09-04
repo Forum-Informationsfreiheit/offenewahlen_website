@@ -18,7 +18,7 @@ menu_tutorials: true
 
 <div class="tutorial col-xs-12 col-sm-6">
 
-<h2 class="">Balkendiagramm</h2>
+<h2 class="">Ergebnis-Balkendiagramm</h2>
 <span class="tutorial-type">Visualisierung</span> <span class="tutorial-type">JavaScript</span>
 
 <a href="/tutorial/balkendiagramm/" title=""><img class="rounded-img" src="{{ site.staticurl }}pages/tutorial/balkendiagramm/thumb.png"></a>
