@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Tutorial Balkendiagramm
-permalink: /tutorials/balkendiagramm/
+title: "Tutorial: Ergebnis-Balkendiagramm"
+permalink: /tutorial/balkendiagramm/
 comments: true
 ---
 

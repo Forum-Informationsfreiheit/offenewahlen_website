@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Visualisierungen
-permalink: /visualisierungen
+title: "Tutorial: Visualisierungen generell"
+permalink: /tutorial/visualisierungen-generell
 comments: true
 ---
 
@@ -10,6 +10,7 @@ comments: true
 Der folgende Text soll eine kurze und einfache Einführung in das Thema Visualisierung von Wahldaten geben. Dazu wird das Wahlergebnis der Bundespräsidentenwahl 2016/erster Wahlgang verwendet. Zunächst geht es um die Quelle und die Aufbereitung der Daten, anschließend wird Schritt für Schritt eine Grafik zum Gesamtergebnis erstellt.
 
 ### Generell zu Visualisierungen
+
 Die Idee einer Visualisierung ist, etwas grafisch so darzustellen, dass es auch grafisch verstanden werden kann (sprich ohne die genauen Daten) - im Idealfall sogar besser/zugänglicher.
 
 Das heißt nicht, dass man auf Zahlen verzichten muss, diese können oftmals die nötige Präzision liefern, die visuell nicht wahrnehmbar ist - wenn man aber die Zahlen benötigt, um die Grafik überhaupt zu verstehen, kann man sich aber auch überlegen, ob eine Tabelle nicht sinnvoller wäre (was keine Schande ist - oft ist auch das ein Ergebnis einer versuchten Visualisierung).
@@ -19,12 +20,14 @@ Etwas visuell darzustellen heißt auch viel Experimentieren und Herumprobieren. 
 Was einem immer klar sein sollte: Im Zweifel schlägt der optische Eindruck/das Bild jeden Erklärungstext, den man der Grafik beifügt.
 
 ### Wo anfangen?
+
 Im Grunde lassen sich viele Daten unter einem politischen Blickwinkel betrachten, die größte Hürde ist oftmals die Verfügbarkeit (und die Idee). Die in diesem Sinn wahrscheinlich am "leichtesten" zu visualisierenden politischen Daten in Österreich sind Wahlergebnisse: Sie sind für die Bundes- und Länderebene überwiegend in bearbeitbarer Form verfügbar, die Datensätze sind komplett und vergleichsweise überschaubar.
 
 Gut wäre es, sich ein ungefähres Ziel zu überlegen: Will ich eine Sache konkret darstellen? Oder will ich einfach ausprobieren, wie die Daten (in unterschiedlicher Form) aussehen? Je nachdem kann man sich anders an eine Grafik machen.
 
 
 ### Die Datenquelle
+
 Daten zu Wahlergebnissen auf Bundesebene findet man in Österreich beim [Innenministerium](http://www.bmi.gv.at/cms/bmi_wahlen/). Dort sind alle Ergebnisse zu den Wahlen seit 1945 - Nationalrat, Bundespräsidentschaft, EU-Parlament - gesammelt, allerdings gibt es erst ab den 2000er Jahren Datensätze, die auch direkt weiterverarbeitet werden können (üblicherweise Excel-Dateien).
 
 Die Ergebnisdatei zum ersten Wahlgang gibt es [hier](http://www.bmi.gv.at/cms/BMI_wahlen/bundespraes/bpw_2016/FILES/Endgueltiges_Gesamtergebnis_BPW16_1WG.xlsx) - und diese schaut so aus: ![Beispiel BMI Ergebnisdatei](http://www.drawingdata.net/tutorial/beispiel_bmi.jpg)

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Tutorial Wahl-Karte
-permalink: /tutorials/karte/
+title: "Tutorial: Ergebnis-Karte"
+permalink: /tutorial/karte/
 comments: true
 ---
 

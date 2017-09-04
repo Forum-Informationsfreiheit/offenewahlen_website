@@ -14,8 +14,7 @@ comments: true
 
 <h2 class="text-center">Schick uns deine Fragen!</h2>
 <p>Wenn du dich nicht in Google Hangout einwählen willst oder kannst, dich aber trotztdem in den Webcast einbringen möchtest, hinterlasse deine Fragen, Anregungen und Feedback wie folgt:</p>
-<a href="#disqus_thread" title="Kommentar" class="col-xs-12 col-sm-6"><button class="button-border-red">als Kommentar</button>
-<a href="https://twitter.com/search?f=tweets&q=%23OffeneWahlenAT&src=typd" title="OffeneWahlenAT" class="col-xs-12 col-sm-6"><button class="button-border-red"><i class="fa fa-hashtag" aria-hidden="true"></i>OffeneWahlenAT</button></a>
+<a href="#disqus_thread" title="Kommentar" class="col-xs-12 col-sm-6 button-primary">als Kommentar<a href="https://twitter.com/search?f=tweets&q=%23OffeneWahlenAT&src=typd" title="OffeneWahlenAT" class="col-xs-12 col-sm-6 button-primary"><i class="fa fa-hashtag" aria-hidden="true"></i>OffeneWahlenAT</a>
 
 Und verfolge den Webcast-Chat (keine Webcam) via Youtube, live oder im Nachhinein. (siehe unten)
 
@@ -27,5 +26,5 @@ Und verfolge den Webcast-Chat (keine Webcam) via Youtube, live oder im Nachhinei
 <div class="col-xs-12">
 <h2 class="text-center">Webcast Evaluierung</h2>
 <p>Gib uns Feedback zu unserem ersten Offene Wahlen Österreich Webcast und fülle den Online-Fragebogen aus. Das Ganze dauert nur 3-5 Minuten und hilft uns dabei die Webcasts kontinuierlich zu verbessern.</p>
-<a href="https://docs.google.com/forms/d/e/1FAIpQLScAsbqYOHwypm8Jx2e5kG5gywLSX_nxuKL26c_PK9eG-fdo1g/viewform?entry.885293802&entry.1560647131&entry.805191984&entry.1321289864&entry.1811347659=Ja&entry.1302647824=Ja" title="Google Formular" class="col-xs-12"><button class="button-border-red">Zum Online-Fragebogen!</button></a>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScAsbqYOHwypm8Jx2e5kG5gywLSX_nxuKL26c_PK9eG-fdo1g/viewform?entry.885293802&entry.1560647131&entry.805191984&entry.1321289864&entry.1811347659=Ja&entry.1302647824=Ja" title="Google Formular" class="col-xs-12 button-primary">Zum Online-Fragebogen!</a>
 </div>

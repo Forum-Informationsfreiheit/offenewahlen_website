@@ -10,18 +10,26 @@ menu_tutorials: true
 
 <div class="tutorial col-xs-12 col-sm-6">
 
-<h2 class="">Ergebnis-Karte erstellen</h2>
-<span class="tutorial-type">Visualisierung</span> <span class="tutorial-type">JavaScript</span>
+<h2 class="">Visualisierungen generell</h2>
+<span class="tutorial-type">Visualisierung</span>
 
-<a href="/tutorials/karte/" title=""><img class="rounded-img" src="{{ site.staticurl }}pages/tutorial-karte/karte_2.jpg"></a>
+<a href="/tutorial/visualisierungen-generell/" title=""><img class="rounded-img" src="{{ site.staticurl }}pages/tutorial/visualisierungen-generell/thumb.png"></a>
 </div>
 
 <div class="tutorial col-xs-12 col-sm-6">
 
-<h2 class="">Balkendiagramm erstellen</h2>
+<h2 class="">Balkendiagramm</h2>
 <span class="tutorial-type">Visualisierung</span> <span class="tutorial-type">JavaScript</span>
 
-<a href="/tutorials/balkendiagramm/" title=""><img class="rounded-img" src="{{ site.staticurl }}pages/tutorial-balkendiagramm/balken_3.jpg"></a>
+<a href="/tutorial/balkendiagramm/" title=""><img class="rounded-img" src="{{ site.staticurl }}pages/tutorial/balkendiagramm/thumb.png"></a>
+</div>
+
+<div class="tutorial col-xs-12 col-sm-6">
+
+<h2 class="">Ergebnis-Karte</h2>
+<span class="tutorial-type">Visualisierung</span> <span class="tutorial-type">JavaScript</span>
+
+<a href="/tutorial/karte/" title=""><img class="rounded-img" src="{{ site.staticurl }}pages/tutorial/karte/thumb.png"></a>
 </div>
 
 </div>

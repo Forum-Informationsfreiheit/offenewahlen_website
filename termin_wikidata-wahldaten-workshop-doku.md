@@ -2,7 +2,7 @@
 layout: page
 title: Documentation
 permalink: /termine/wikidata-workshop/doku
-comments: false
+comments: true
 ---
 
 - [Wikidata and Elections Workshop](/termine/wikidata-workshop), 30th September 2017, 14 - 18 o'clock

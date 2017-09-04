@@ -92,15 +92,21 @@ menu_ressourcen: true
 <h3><i class="fa fa-area-chart " aria-hidden="true"></i> Tutorials</h3>
 
 <div class="tutorial col-xs-12 col-sm-6">
-<h4>Ergebnis-Karte erstellen</h4>
-<span class="tutorial-type">Visualisierung</span> <span class="tutorial-type">JavaScript</span>
-<a href="/tutorials/karte/" title=""><img class="rounded-img" src="{{ site.staticurl }}pages/tutorial-karte/karte_2.jpg"></a>
+<h4>Visualisierungen generelle</h4>
+<span class="tutorial-type">Visualisierung</span>
+<a href="/tutorial/visualisierungen-generell/" title=""><img class="rounded-img" src="{{ site.staticurl }}pages/tutorial/visualisierungen-generell/thumb.png"></a>
 </div>
 
 <div class="tutorial col-xs-12 col-sm-6">
-<h4>Balkendiagramm erstellen</h4>
+<h4>Balkendiagramm</h4>
 <span class="tutorial-type">Visualisierung</span> <span class="tutorial-type">JavaScript</span>
-<a href="/tutorials/balkendiagramm/" title=""><img class="rounded-img" src="{{ site.staticurl }}pages/tutorial-balkendiagramm/balken_3.jpg"></a>
+<a href="/tutorial/balkendiagramm/" title=""><img class="rounded-img" src="{{ site.staticurl }}pages/tutorial/balkendiagramm/thumb.png"></a>
+</div>
+
+<div class="tutorial col-xs-12 col-sm-6">
+<h4>Ergebnis-Karte</h4>
+<span class="tutorial-type">Visualisierung</span> <span class="tutorial-type">JavaScript</span>
+<a href="/tutorial/karte/" title=""><img class="rounded-img" src="{{ site.staticurl }}pages/tutorial/karte/thumb.png"></a>
 </div>
 
 </div>

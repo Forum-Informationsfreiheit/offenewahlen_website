@@ -9,7 +9,7 @@ Dies ist die Website (GitHub Page) für das Projekt Offene Wahlen Österreich.
 
 ## Mitmachen
 
-* **Fehler melden**: Wenn du einen Fehler gefunden hast, erstelle bitte ein [Issue](https://github.com/OKFNat/offenewahlen-website/issues/new) dazu. Immer am besten mit Screenshot und möglichst exakter Fehlerbeschreibung.
+* **Fehler melden**: Wenn du einen Fehler gefunden hast, erstelle bitte ein [Issue](https://github.com/OKFNat/offenewahlen-website/issues/new) dazu. Immer am besten mit Screenshot und möglichst genauer Fehlerbeschreibung.
 * **Fehler beheben**: Sieh dir die [Issues](https://github.com/OKFNat/offenewahlen-website/issues) an und schließe eines.
 * **Lektorat** der Texte
 * **Artikel/Tutorial schreiben**: Schreibe einen Artikel bzw. ein Tutorial zu einem Thema rund um Offene Wahlen Österreich
