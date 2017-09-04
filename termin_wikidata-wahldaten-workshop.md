@@ -19,6 +19,7 @@ comments: true
 <li><strong>Bring with you:</strong> Laptop with power supply (optional: mouse).</li>
 <li><strong>Preparation:</strong> Browser and Text-Editor should be installed. For very motivated participants, you can have a look around Wikidata and elections <a href="https://github.com/OKFNat/offenewahlen-wikidata" title="Wikidata Repo">here</a>.</li>
 <li>No entrance fee</li>
+<li>Registration necessary. Registration form will follow later.</li>
 </ul>
 </div>
 
