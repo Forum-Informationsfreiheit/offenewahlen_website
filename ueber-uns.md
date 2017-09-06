@@ -101,6 +101,14 @@ menu_ueberuns: true
     </div>
     </div>
 
+    <div class="team-mitglied col-sm-12">
+    <div class="col-md-4"><img src="{{ site.staticurl }}pages/about/valentin-klammer.jpg" alt="Valentin Klammer" width="220" class="img-circle"/></div>
+    <div class="col-md-8">
+    <h4>Valentin Klammer<span class="social-contacts"><a href="https://github.com/klmmmv" title="GitHub"><i class="fa fa-github"></i></a></span></h4>
+    Valentin interessiert sich für alles was mit OpenData und OpenSource-Software zu tun hat. Er studiert Informationsmanagement und programmiert gerne.
+    </div>
+    </div>
+
     <h3>Partner</h3>
 
     <div class="partner col-sm-12">
