@@ -10,8 +10,9 @@ menu_events: true
 
 	<div class="kommende-termine">
 		<h2 class="text-left">Kommende</h2>
-		<a class="button-primary" href="/termine/wahl-daten-party" title="Wahl-Daten-Party">15. Oktober: Nationalratswahl - Wahl-Daten-Party @ metalab, Wien (tba)</a>
 		<a class="button-primary" href="/termine/wikidata-wahldaten-workshop" title="Wikidata Wahldaten Workshop">30. September: Wikidata Wahldaten Workshop @ Wikimedia AT, Wien</a>
+		<a class="button-primary" href="/termine/wahlreform-jetzt" title="Wahlreform jetzt!">3. Oktober: Wahlreform jetzt! @ Presseclub Concordia, Wien</a>
+		<a class="button-primary" href="/termine/wahl-daten-party" title="Wahl-Daten-Party">15. Oktober: Nationalratswahl - Wahl-Daten-Party @ metalab, Wien (tba)</a>
 	</div>
 
 	<div class="vergangene-termine">
