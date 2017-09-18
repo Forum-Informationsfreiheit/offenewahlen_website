@@ -23,6 +23,8 @@ comments: true
 <h3>What happens?</h3>
 <p>Two weeks before the Austrian parliamantary elections (Nationalratswahl 2017) we want to introduce Wikidata through election data. Wikidata is a free knowledge-database for machines as for humans, and a new project by the Wikimedia Foundation (the organisation behind Wikipedia). This will be especially interesting for you, if you are a Wikidata newbie and if you like elections.</p>
 
+<p>We will give a basic introduction into Wikidata and the state of election-related entities in it. After this, we split up in two groups. One for total beginners in Wikidata and elections, one into more experienced people in elections and with some basic experience with programming and/or data-handling. The second one is especially focussed on data-journalists, researchers, election-nerds and others who work with election-related information.</p>
+
 <h3>Registration</h3>
 To register, you only have to write an E-mail to <a href="mailto:{{ site.author.email }}?subject=Wikidata Wahldaten Workshop registration: "><i class="fa fa-envelope" aria-hidden="true"></i> {{ site.author.email }}</a>. The number of participants is limited to 20 (first come, first serve). There is no entrance fee.
 
