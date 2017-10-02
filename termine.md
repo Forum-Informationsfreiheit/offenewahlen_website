@@ -10,13 +10,13 @@ menu_events: true
 
 	<div class="kommende-termine">
 		<h2 class="text-left">Kommende</h2>
-		<a class="button-primary" href="/termine/wikidata-wahldaten-workshop" title="Wikidata Wahldaten Workshop">30. September: Wikidata Wahldaten Workshop @ Wikimedia AT, Wien</a>
 		<a class="button-primary" href="/termine/wahlreform-jetzt" title="Wahlreform jetzt!">3. Oktober: Wahlreform jetzt! @ Presseclub Concordia, Wien</a>
 		<a class="button-primary" href="/termine/wahl-daten-party" title="Wahl-Daten-Party">15. Oktober: Nationalratswahl - Wahl-Daten-Party @ metalab, Wien (tba)</a>
 	</div>
 
 	<div class="vergangene-termine">
 		<h2 class="text-left">Vergangene</h2>
+		<a class="button-secondary" href="/termine/wikidata-wahldaten-workshop" title="Wikidata Wahldaten Workshop">30. September: Wikidata Wahldaten Workshop @ Wikimedia AT, Wien</a>
 		<a class="button-secondary" href="/termine/fh-big-open-data-lg-2017" title="Hackathon Metalab">11. 3. 2017: Big Data & Open Data LV @ FH Joanneum Graz</a>
 		<a class="button-secondary" href="/termine/arge-digitalisierung" title="ARGE Digitalisierung">31. 1. 2017: ARGE Digitalisierung AT + DE @ St. Pölten</a>
 		<a class="button-secondary" href="/termine/hackathon-metalab" title="Hackathon Metalab">19. 11. 2016: Hackathon @ metalab Wien</a>

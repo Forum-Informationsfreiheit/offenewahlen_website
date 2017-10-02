@@ -35,7 +35,7 @@ Vielen Dank an das <a href="https://metalab.at/" title="metalab">metalab</a> fü
 </div>
 
 
-<a href="/termine/hackathon-metalab/doku" title="Hackathon metalab Dokumentation & Resources"><button class="button-full-red">Hackathon Dokumentation & Ressourcen</button></a>
+<a href="/termine/hackathon-metalab/doku" title="Hackathon metalab Dokumentation & Resources"><button class="button-primary">Hackathon Dokumentation & Ressourcen</button></a>
 
 <div class="row col-xs-12">
 <h3>Eine Veranstaltung von:</h3>

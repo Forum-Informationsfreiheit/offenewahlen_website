@@ -52,7 +52,7 @@ There is also a <a href="https://github.com/OKFNat/offenewahlen-wikidata" title=
 </ul>
 </div>
 
-<!--<a href="/termine/wikidata-workshop/doku" title="Workshop Documentation & Resources"><button class="button-primary">Workshop Documentation & Resources</button></a>-->
+<a href="https://github.com/OKFNat/offenewahlen-wikidata/tree/master/events/wikidata-wahldaten-workshop" title="Workshop Documentation & Resources"><button class="button-primary">Workshop Documentation & Resources</button></a>
 
 <div class="partner row col-xs-12">
 <h3>An event from</h3>
