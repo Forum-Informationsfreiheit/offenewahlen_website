@@ -11,6 +11,7 @@ menu_events: true
 	<div class="kommende-termine">
 		<h2 class="text-left">Kommende</h2>
 		<p>Keine anstehenden Termine.</p>
+		<p class="alert alert-danger text-center"><strong>Wahl-Daten-Party abgesagt!</strong>
 	</div>
 
 	<div class="vergangene-termine">
