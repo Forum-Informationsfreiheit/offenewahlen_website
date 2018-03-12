@@ -192,7 +192,7 @@ menu_ueberuns: true
       </div>
   
       <div class="col-sm-4">
-        <a href="http://paulina-umstandsmode.de" title="Umstandsmode"><img src="http://www.opendatagraz.at/wp-content/uploads/2017/04/paulina.png" alt="umstandsmode" width="100%" /></a>
+        <a href="https://www.easyname.at/de" title=""><img src="http://www.opendatagraz.at/wp-content/uploads/2018/02/easyname_logo_default.png" alt="easyname" width="100%" /></a>
       </div>
     </div>
     
