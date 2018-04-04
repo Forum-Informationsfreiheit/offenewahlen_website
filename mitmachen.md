@@ -15,9 +15,9 @@ menu_mitmachen: true
 		<h2 class="col-xs-12">Wie kann ich mitmachen?</h2>
 
 		<div class="col-xs-12 col-md-6 beitrage-punkt mitmachen-box">
-			<h3 class="text-center"><i class="fa fa-bar-chart" aria-hidden="true"></i> #NRW17 Visualisierung</h3>
-			<a href="https://github.com/OKFNat/offenewahlen-nrw17#mitmachen" title="#NRW17 Visualisierung"><img src="{{ site.staticurl }}pages/nrw17_2.png" alt="Screenshot #NRW17 Visualisierung" class="img-rounded"></a>
-			<p>Eine <a href="https://github.com/OKFNat/offenewahlen-nrw17#mitmachen" title="offenewahlen-nrw17">Daten-Visualisierung zur Nationalratswahl</a> am 15. Oktober 2017. Hier sind wir gerade am meisten aktiv, und freuen uns über jede helfende Hand.</p>
+			<h3 class="text-center"><i class="fa fa-bar-chart" aria-hidden="true"></i> Open Election Data API</h3>
+			<a href="https://github.com/OKFNat/offenewahlen-api#mitmachen" title="Open Election Data API"><img src="{{ site.staticurl }}pages/nrw17_2.png" alt="Screenshot #NRW17 Visualisierung" class="img-rounded"></a>
+			<p>Eine <a href="https://github.com/OKFNat/offenewahlen-api#mitmachen" title="offenewahlen-api">Offene Wahldaten API</a> mit allen historischen Wahlergebnissen Österreich's.</p>
 		</div>
 
 		<div class="col-xs-12 col-md-6 beitrage-punkt mitmachen-box">
@@ -44,12 +44,6 @@ menu_mitmachen: true
 			<p>Nutze unsere Daten und Tools für eigene Ideen. Zur Anregung haben wir ein paar <a href="/tutorials" title="Tutorials">Tutorials</a> erstellt. PS: Meld dich bitte bei uns mit deinem Ergebnis.</p>
 		</div>
 
-		<div class="col-xs-12 col-md-6 api-punkt mitmachen-box">
-			<h3 class="text-center"><i class="fa fa-database" aria-hidden="true"></i> Wahldaten API</h3>
-			<a href="https://github.com/OKFNat/offenewahlen-api" title="Offene Wahldaten API"><img src="{{ site.staticurl }}pages/api.png" alt="API" class="img-rounded"></a>
-			<p>Hilf mit beim Entwickeln einer <a href="https://github.com/OKFNat/offenewahlen-api" title="Offene Wahlen API">Open Data restful-API</a> für Wahldaten um die Daten allen frei zugänglich zu machen.</p>
-		</div>
-
 		<div class="col-xs-12 col-md-6 beitrage-punkt mitmachen-box">
 			<h3 class="text-center"><i class="fa fa-github" aria-hidden="true"></i> Webpage</h3>
 			<a href="https://github.com/OKFNat/offenewahlen-website" title="Offene Wahlen Website"><img src="{{ site.staticurl }}pages/website.png" alt="Bild Website" class="img-rounded"></a>
@@ -63,7 +57,7 @@ menu_mitmachen: true
 		<p class="lead text-center col-xs-12 col-sm-offset-1 col-sm-10">Es ist kein Beitrag zu klein und wir freuen uns über jede Unterstützung. Wenn du in irgendeiner Form mitmachen willst, meld dich.</p>
 
 		<div class="row">
-			
+
 			<div class="row col-xs-12 col-sm-6">
 				<p>Du kannst Offene Wahlen Österreich ganz einfach unterstützen. Es sind dabei nicht nur Fähigkeiten rund um Daten und Programmieren gefragt. Aktuell suchen wir z. B. vor allem eine Person für Kommunikation/PR (Social Media, Newsletter, Bloggen, uvm.) und eine für Design-Fragen (Logos, Grafiken, etc.). <br><strong>Hilf mit für Transparenz und Offenheit bei Wahlen!</strong></p>
 			</div>
