@@ -16,7 +16,7 @@ menu_mitmachen: true
 
 		<div class="col-xs-12 col-md-6 beitrage-punkt mitmachen-box">
 			<h3 class="text-center"><i class="fa fa-bar-chart" aria-hidden="true"></i> Open Election Data API</h3>
-			<a href="https://github.com/OKFNat/offenewahlen-api#mitmachen" title="Open Election Data API"><img src="{{ site.staticurl }}pages/nrw17_2.png" alt="Screenshot #NRW17 Visualisierung" class="img-rounded"></a>
+			<a href="https://github.com/OKFNat/offenewahlen-api#mitmachen" title="Open Election Data API"><img src="{{ site.staticurl }}pages/api.png" alt="Screenshot API" class="img-rounded"></a>
 			<p>Eine <a href="https://github.com/OKFNat/offenewahlen-api#mitmachen" title="offenewahlen-api">Offene Wahldaten API</a> mit allen historischen Wahlergebnissen Österreich's.</p>
 		</div>
 
