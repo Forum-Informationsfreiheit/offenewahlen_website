@@ -10,8 +10,7 @@ menu_events: true
 
 	<div class="kommende-termine">
 		<h2 class="text-left">Kommende</h2>
-		<p>Keine anstehenden Termine.</p>
-		<p class="alert alert-danger text-center"><strong>Wahl-Daten-Party abgesagt!</strong></p>
+		<a class="button-primary" href="https://cfp.linuxwochen.at/de/LWW18/public/events/792" title="Vortrag - Open Election Data API with Django">4. Mai: Vortrag: Open Election Data API with Django @ PyDays / Linuxwochen Wien</a>
 	</div>
 
 	<div class="vergangene-termine">
