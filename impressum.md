@@ -7,9 +7,9 @@ menu_impressum: true
 
 Verein Open Knowledge Forum Österreich
 
-Neubaugasse 1 / Top 8
+Stolzenthalergasse 7/1
 
-1070 Wien
+1080 Wien
 
 [http://okfn.at](http://okfn.at)
 
