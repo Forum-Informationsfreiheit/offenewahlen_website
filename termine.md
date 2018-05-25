@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Termine
-permalink: /termine/
+permalink: /termine
 comments: false
 menu_events: true
 ---
