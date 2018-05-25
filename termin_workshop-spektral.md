@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Coding-Workshop für AnfängerInnen
-permalink: /termine/workshop-spektral/
+permalink: /termine/workshop-spektral
 comments: true
 ---
 

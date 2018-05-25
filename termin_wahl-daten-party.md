@@ -1,7 +1,7 @@
 ---
 layout: page-10
 title: "#NRW17 Wahl-Daten-Party"
-permalink: /termine/wahl-daten-party/
+permalink: /termine/wahl-daten-party
 comments: true
 ---
 

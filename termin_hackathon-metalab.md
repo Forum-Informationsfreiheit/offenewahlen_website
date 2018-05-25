@@ -1,7 +1,7 @@
 ---
 layout: page
 title: OpenCon 2016 Offene Wahlen Hackathon
-permalink: /termine/hackathon-metalab/
+permalink: /termine/hackathon-metalab
 comments: true
 ---
 

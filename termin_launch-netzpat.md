@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Offene Wahlen AT Launch
-permalink: /termine/launch-netzpat/
+permalink: /termine/launch-netzpat
 comments: true
 ---
 

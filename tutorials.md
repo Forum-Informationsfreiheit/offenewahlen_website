@@ -1,7 +1,7 @@
 ---
 layout: page-10
 title: Tutorials
-permalink: /tutorials/
+permalink: /tutorials
 menu_tutorials: true
 ---
 

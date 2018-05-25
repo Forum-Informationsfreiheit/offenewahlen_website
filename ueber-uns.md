@@ -186,16 +186,16 @@ menu_ueberuns: true
       <div class="col-sm-4">
         <a href="http://www.zeolith-bentonit-versand.de/de/flohsamenschalen.html" title="Flohsamenschalen"><img src="http://www.opendatagraz.at/wp-content/uploads/2017/04/zeolith-bentonit-versand-logo.png" alt="flohsamenschalen" width="100%" /></a>
       </div>
-  
+
       <div class="col-sm-4">
         <a href="http://www.tischdecke.de/" title="Tischdecke"><img src="http://www.opendatagraz.at/wp-content/uploads/2017/04/sponsor_tischdecke_de.png" alt="tischdecke" width="100%" /></a>
       </div>
-  
+
       <div class="col-sm-4">
         <a href="https://www.easyname.at/de" title=""><img src="http://www.opendatagraz.at/wp-content/uploads/2018/02/easyname_logo_default.png" alt="easyname" width="100%" /></a>
       </div>
     </div>
-    
+
   </div>
-  
+
 </div>

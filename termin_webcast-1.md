@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 'Offene Wahlen Webcast #1'
-permalink: /termine/webcast-1/
+permalink: /termine/webcast-1
 comments: true
 ---
 

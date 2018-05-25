@@ -1,7 +1,7 @@
 ---
 layout: page-10
 title: "Wikidata Wahldaten Workshop"
-permalink: /termine/wikidata-wahldaten-workshop/
+permalink: /termine/wikidata-wahldaten-workshop
 comments: true
 ---
 
@@ -29,7 +29,7 @@ comments: true
 To register, you only have to write an E-mail to <a href="mailto:{{ site.author.email }}?subject=Wikidata Wahldaten Workshop registration: "><i class="fa fa-envelope" aria-hidden="true"></i> {{ site.author.email }}</a>. The number of participants is limited to 20 (first come, first serve). There is no entrance fee.
 
 <h3>Preparation / Requirements</h3>
-There are no general requirements. Please bring your laptop with a power supply with you. 
+There are no general requirements. Please bring your laptop with a power supply with you.
 
 There is also a <a href="https://github.com/OKFNat/offenewahlen-wikidata" title="Wikidata Repo">GitHub repository</a> with all kinds of information around open election data and Wikidata in Austria, if you would like to dive a little bit into it by yourself.
 
@@ -59,4 +59,3 @@ There is also a <a href="https://github.com/OKFNat/offenewahlen-wikidata" title=
 <div class="col-xs-12 col-sm-6"><a class="logo ok-at" href="http://okfn.at" title="Open Knowledge Österreich"><img class="logo" src="{{ site.staticurl }}logos/logo-ok-at.svg" alt="Open Knowledge Österreich" /></a></div><div class="col-xs-12 col-sm-6"><a class="logo wm-at" title="Wikimedia Österreich" href="https://wikimedia.at/"><img src="{{ site.staticurl }}logos/wm-at_flach.svg" alt="Logo" /></a></div>
 
 </div>
-

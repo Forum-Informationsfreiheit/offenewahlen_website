@@ -1,12 +1,12 @@
 ---
 layout: page-10
 title: "Podiumsdiskussion: Wahlreform jetzt!"
-permalink: /termine/wahlreform-jetzt/
+permalink: /termine/wahlreform-jetzt
 comments: true
 ---
 
 <div class="row">
-	
+
 	<div class="col-xs-12 col-md-8">
 		<p><a href="http://www.wahlbeobachtung.org/" title="">Wahlbeobachtung.org</a> lädt zu einer Podiumsdiskussion rund um das Thema Wahlreform in Österreich ein. Diese soll ihrer Meinung nach Teil der nächsten Regierungsvereinbarung sein - zur Vereinfachung des Prozesses, für verbesserte Teilhabe und mehr Transparenz. Stefan Kasberger wird sich dabei zu Open Data bei Wahlen einbringen.</p>
 
@@ -44,6 +44,3 @@ comments: true
 	</div>
 
 </div>
-
-
-

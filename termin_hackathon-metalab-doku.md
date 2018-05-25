@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Dokumentation Hackathon @ Metalab
-permalink: /termine/hackathon-metalab/doku/
+permalink: /termine/hackathon-metalab/doku
 comments: true
 ---
 
