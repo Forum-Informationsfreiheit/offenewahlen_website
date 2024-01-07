@@ -14,7 +14,7 @@ Das folgende Tutorial gibt eine Schritt-für-Schritt-Einführung in die Visualis
 
 Eine Einführung in HTML findet sich z.B. [hier](http://de.html.net/tutorials/html/) oder [hier](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Introduction), Tutorials zu Javascript gibt es z.B. [hier](https://wiki.selfhtml.org/wiki/JavaScript/Tutorials/Einf%C3%BChrung) oder [hier](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide).
 
-Vorab kann man auch einen Blick in dieses Tutorial werfen, das einige grundlegende Punkte zum Thema Visualisierung von Wahldaten anschneidet: [Tutorial offenewahlen.at](https://github.com/OKFNat/offenewahlen/blob/gh-pages/visualisierungen.md)
+Vorab kann man auch einen Blick in dieses Tutorial werfen, das einige grundlegende Punkte zum Thema Visualisierung von Wahldaten anschneidet: [Tutorial offenewahlen.at](https://github.com/Forum-Informationsfreiheit/offenewahlen_website/blob/gh-pages/visualisierungen.md)
 
 
 ## Nützliches

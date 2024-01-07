@@ -16,8 +16,8 @@ menu_mitmachen: true
 
 		<div class="col-xs-12 col-md-6 beitrage-punkt mitmachen-box">
 			<h3 class="text-center"><i class="fa fa-bar-chart" aria-hidden="true"></i> Open Election Data API</h3>
-			<a href="https://github.com/OKFNat/offenewahlen-api#mitmachen" title="Open Election Data API"><img src="{{ site.staticurl }}pages/api.png" alt="Screenshot API" class="img-rounded"></a>
-			<p>Eine <a href="https://github.com/OKFNat/offenewahlen-api#mitmachen" title="offenewahlen-api">Offene Wahldaten API</a> mit allen historischen Wahlergebnissen Österreich's.</p>
+			<a href="https://github.com/Forum-Informationsfreiheit/offenewahlen_api#mitmachen" title="Open Election Data API"><img src="{{ site.staticurl }}pages/api.png" alt="Screenshot API" class="img-rounded"></a>
+			<p>Eine <a href="https://github.com/Forum-Informationsfreiheit/offenewahlen_api#mitmachen" title="offenewahlen-api">Offene Wahldaten API</a> mit allen historischen Wahlergebnissen Österreich's.</p>
 		</div>
 
 		<div class="col-xs-12 col-md-6 beitrage-punkt mitmachen-box">
@@ -28,14 +28,14 @@ menu_mitmachen: true
 
 		<div class="col-xs-12 col-md-6 beitrage-punkt mitmachen-box">
 			<h3 class="text-center"><i class="fa fa-wikipedia-w" aria-hidden="true"></i> Wikidata</h3>
-			<a href="https://github.com/OKFNat/offenewahlen-wikidata" title="Offene Wahlen Website"><img src="{{ site.staticurl }}pages/wikidata.png" alt="Bild Website" class="img-rounded"></a>
+			<a href="https://github.com/Forum-Informationsfreiheit/offenewahlen_wikidata" title="Offene Wahlen Website"><img src="{{ site.staticurl }}pages/wikidata.png" alt="Bild Website" class="img-rounded"></a>
    <p>Hilf mit, <a href="https://github.com/Forum-Informationsfreiheit/offenewahlen_wikidata" alt="GitHub Repository Offene Wahlen Wikidata">Wikidata</a> zur primären Datenquelle für politische Entities in Österreich aufzubauen. Importiere Daten zu PolitikerInnen, Wahlen und Parteien und mache sie so allen frei zugänglich - von der Nationalratswahl bis zur/zum BürgermeisterIn.</p>
 		</div>
 
 		<div class="col-xs-12 col-md-6 beitrage-punkt mitmachen-box">
 			<h3 class="text-center"><i class="fa fa-file-code-o" aria-hidden="true"></i> Offener Datenstandard</h3>
-			<a href="https://github.com/OKFNat/offenewahlen-api-specification" title="Offener Wahldaten Standard Specification"><img src="{{ site.staticurl }}pages/datenstandard.png" alt="Datenstandard" class="img-rounded"></a>
-			<p>Entwickle mit uns zusammen einen <a href="https://github.com/OKFNat/offenewahlen-api-specification" title="Offener Wahldaten Standard Specification">offenen Datenstandard</a> für Wahldaten in Österreich. Dieser soll sowohl von den offiziellen Wahlbehörden wie auch von uns selber genutzt werden.</p>
+			<a href="https://github.com/Forum-Informationsfreiheit/offenewahlen_api-specification" title="Offener Wahldaten Standard Specification"><img src="{{ site.staticurl }}pages/datenstandard.png" alt="Datenstandard" class="img-rounded"></a>
+			<p>Entwickle mit uns zusammen einen <a href="https://github.com/Forum-Informationsfreiheit/offenewahlen_api-specification" title="Offener Wahldaten Standard Specification">offenen Datenstandard</a> für Wahldaten in Österreich. Dieser soll sowohl von den offiziellen Wahlbehörden wie auch von uns selber genutzt werden.</p>
 		</div>
 
 		<div class="col-xs-12 col-md-6 beitrage-punkt mitmachen-box">
@@ -46,8 +46,8 @@ menu_mitmachen: true
 
 		<div class="col-xs-12 col-md-6 beitrage-punkt mitmachen-box">
 			<h3 class="text-center"><i class="fa fa-github" aria-hidden="true"></i> Webpage</h3>
-			<a href="https://github.com/OKFNat/offenewahlen-website" title="Offene Wahlen Website"><img src="{{ site.staticurl }}pages/website.png" alt="Bild Website" class="img-rounded"></a>
-			<p>Verbessere das Design, schreibe einen Artikel oder korrigiere einen Fehler - bei der <a href="https://github.com/OKFNat/offenewahlen-website" alt="GitHub Repository Offene Wahlen">Website</a> gibt es zahlreiche Möglichkeiten, wie du dich einbringen kannst.</p>
+			<a href="https://github.com/Forum-Informationsfreiheit/offenewahlen_website" title="Offene Wahlen Website"><img src="{{ site.staticurl }}pages/website.png" alt="Bild Website" class="img-rounded"></a>
+			<p>Verbessere das Design, schreibe einen Artikel oder korrigiere einen Fehler - bei der <a href="https://github.com/Forum-Informationsfreiheit/offenewahlen_website" alt="GitHub Repository Offene Wahlen">Website</a> gibt es zahlreiche Möglichkeiten, wie du dich einbringen kannst.</p>
 		</div>
 
 	</div>

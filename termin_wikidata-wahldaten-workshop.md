@@ -31,7 +31,7 @@ To register, you only have to write an E-mail to <a href="mailto:{{ site.author.
 <h3>Preparation / Requirements</h3>
 There are no general requirements. Please bring your laptop with a power supply with you.
 
-There is also a <a href="https://github.com/OKFNat/offenewahlen-wikidata" title="Wikidata Repo">GitHub repository</a> with all kinds of information around open election data and Wikidata in Austria, if you would like to dive a little bit into it by yourself.
+There is also a <a href="https://github.com/Forum-Informationsfreiheit/offenewahlen_wikidata" title="Wikidata Repo">GitHub repository</a> with all kinds of information around open election data and Wikidata in Austria, if you would like to dive a little bit into it by yourself.
 
 </div>
 
@@ -52,7 +52,7 @@ There is also a <a href="https://github.com/OKFNat/offenewahlen-wikidata" title=
 </ul>
 </div>
 
-<a href="https://github.com/OKFNat/offenewahlen-wikidata/tree/master/events/wikidata-wahldaten-workshop" title="Workshop Documentation & Resources"><button class="button-primary">Workshop Documentation & Resources</button></a>
+<a href="https://github.com/Forum-Informationsfreiheit/offenewahlen_wikidata/tree/master/events/wikidata-wahldaten-workshop" title="Workshop Documentation & Resources"><button class="button-primary">Workshop Documentation & Resources</button></a>
 
 <div class="partner row col-xs-12">
 <h3>An event from</h3>

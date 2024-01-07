@@ -21,10 +21,10 @@ menu_ressourcen: true
   <li>Futurezone.at: <a href="https://futurezone.at/netzpolitik/community-projekt-offene-wahlen-gestartet/219.250.524" title="Futurezone.at - Community-Projekt Offene Wahlen gestartet">Community-Projekt Offene Wahlen gestartet</a></li>
   <li>Video: <a href="https://youtu.be/LMK99tF9xYo" title="Video: Projekt-Launch beim 8. netzpolitischen Abend @ metalab">Offene Wahlen Österreich Launch beim 8. netzpolitischen Abend @ metalab</a></li>
   <li>Präsentation: <a href="http://www.slideshare.net/cheeseman1983/offene-wahlen-sterreich-arge-digitalisierung" title="Präsentation Offene Wahlen @ ARGE Digitalisierung">Offene Wahlen Österreich @ ARGE Digitalisierung</a>.</li>
-  <li><strong>Offene Wahldaten API</strong>: Schnittstelle für offene Wahldaten (<a href="https://github.com/OKFNat/offenewahlen-api" title="GitHub">GitHub</a>)</li>
-  <li><strong>API Spezifikation</strong>: Spezifikation zur Open Data API (<a href="https://github.com/OKFNat/offenewahlen-api-specification" title="API Specification">GitHub Repo</a>).</li>
-  <li><strong>Offene Wahlen und Wikidata</strong>: <a href="https://github.com/OKFNat/offenewahlen-wikidata" title="Offene Wahlen AT und Wikidata">GitHub Repo</a> rund um Wikidata als Open Data Repository für Wahlen.</li>
-  <li><strong>Website</strong> (<a href="https://github.com/OKFNat/offenewahlen-website" title="GitHub">GitHub</a>)</li>
+  <li><strong>Offene Wahldaten API</strong>: Schnittstelle für offene Wahldaten (<a href="https://github.com/Forum-Informationsfreiheit/offenewahlen_api" title="GitHub">GitHub</a>)</li>
+  <li><strong>API Spezifikation</strong>: Spezifikation zur Open Data API (<a href="https://github.com/Forum-Informationsfreiheit/offenewahlen_api-specification" title="API Specification">GitHub Repo</a>).</li>
+  <li><strong>Offene Wahlen und Wikidata</strong>: <a href="https://github.com/Forum-Informationsfreiheit/offenewahlen_wikidata" title="Offene Wahlen AT und Wikidata">GitHub Repo</a> rund um Wikidata als Open Data Repository für Wahlen.</li>
+  <li><strong>Website</strong> (<a href="https://github.com/Forum-Informationsfreiheit/offenewahlen_website" title="GitHub">GitHub</a>)</li>
   <li>Wahldaten Stdandardizer: Python Script, welches diverse Wahlergebnise in den offenen Datenstandard für die Wahldaten-API konvertiert (<a href="https://github.com/OKFNat/offenewahlen_results-standardizer" title="GitHub">GitHub</a>).</li>
 </ul>
 
