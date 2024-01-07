@@ -29,7 +29,7 @@ menu_mitmachen: true
 		<div class="col-xs-12 col-md-6 beitrage-punkt mitmachen-box">
 			<h3 class="text-center"><i class="fa fa-wikipedia-w" aria-hidden="true"></i> Wikidata</h3>
 			<a href="https://github.com/OKFNat/offenewahlen-wikidata" title="Offene Wahlen Website"><img src="{{ site.staticurl }}pages/wikidata.png" alt="Bild Website" class="img-rounded"></a>
-			<p>Hilf mit, <a href="https://github.com/OKFNat/offenewahlen-wikidata" alt="GitHub Repository Offene Wahlen Wikidata">Wikidata</a> zur primären Datenquelle für politische Entities in Österreich aufzubauen. Importiere Daten zu PolitikerInnen, Wahlen und Parteien und mache sie so allen frei zugänglich - von der Nationalratswahl bis zur/zum BürgermeisterIn.</p>
+   <p>Hilf mit, <a href="https://github.com/Forum-Informationsfreiheit/offenewahlen_wikidata" alt="GitHub Repository Offene Wahlen Wikidata">Wikidata</a> zur primären Datenquelle für politische Entities in Österreich aufzubauen. Importiere Daten zu PolitikerInnen, Wahlen und Parteien und mache sie so allen frei zugänglich - von der Nationalratswahl bis zur/zum BürgermeisterIn.</p>
 		</div>
 
 		<div class="col-xs-12 col-md-6 beitrage-punkt mitmachen-box">

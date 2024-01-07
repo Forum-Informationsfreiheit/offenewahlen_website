@@ -11,15 +11,13 @@ menu_kontakt: yes
 
 <p><a href="https://twitter.com/search?f=tweets&q=%23OffeneWahlenAT&src=typd" title="Twitter #OffeneWahlenAT"><i class="fa fa-hashtag" aria-hidden="true"></i>OffeneWahlenAT</a></p>
 
-<p><a href="https://groups.google.com/d/forum/offene-wahlen-at" title="Mailingliste"><i class="fa fa-users" aria-hidden="true"></i> Mailingliste & Forum (Google Group)</a>: hier kommuniziert das Projekt-Team.</p>
+<h3>Forum Informationsfreiheit</h3>
 
-<h3>Open Knowledge Österreich</h3>
+<p><a class="nav-link" href="https://www.informationsfreiheit.at" title="Forum Informationsfreiheit"><i class="fa fa-globe"></i> informationsfreiheit.at</a></p>
 
-<p><a class="nav-link" href="https://okfn.at" title="Open Knowledge Österreich"><i class="fa fa-globe"></i> okfn.at</a></p>
+<p><a class="nav-link" href="https://twitter.com/amtsgeheimnisAT" title="OK-AT auf Twitter"><i class="fa fa-twitter"></i> @amtsgeheimnisAT</a></p>
 
-<p><a class="nav-link" href="https://twitter.com/okfnat" title="OK-AT auf Twitter"><i class="fa fa-twitter"></i> @okfnat</a></p>
+<p><a class="nav-link" href="https://www.facebook.com/informationsfreiheit.at" title="OK-AT auf Facebook"><i class="fa fa-facebook"></i> informationsfreiheit.at</a></p>
 
-<p><a class="nav-link" href="https://www.facebook.com/OKFNat" title="OK-AT auf Facebook"><i class="fa fa-facebook"></i> OKFNat</a></p>
-
-<p><a class="nav-link" href="https://github.com/okfnat" title="OK-AT auf Github"><i class="fa fa-github"></i> okfnat</a></p>
+<p><a class="nav-link" href="https://github.com/Forum-Informationsfreiheit" title="Forum Informationsfreiheit auf Github"><i class="fa fa-github"></i> Forum-Informationsfreiheit</a></p>
 </div>

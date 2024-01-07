@@ -37,7 +37,7 @@ Wenn Sie per Formular auf der Website oder per E-Mail Kontakt mit uns aufnehmen,
 
 <h2>Datenverarbeitende Stelle</h2>
 
-Die datenverarbeitende Stelle dieses Onlineauftritts ist Open Knowledge Forum Österreich, Stolzenthalergasse 7/1, 1080 Wien.
+Die datenverarbeitende Stelle dieses Onlineauftritts ist Forum Informationsfreiheit, Schuhmeierplatz 9/25, 1160 Wien.
 
 Wir versichern, dass wir die geltenden Datenschutzbestimmungen gemäß dem DSGVO, TKG 2003 sowie weiteren datenschutzrechtlichen Bestimmungen befolgen. Der Schutz von personenbezogenen Daten ist uns hierbei sehr wichtig.
 

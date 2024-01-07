@@ -10,11 +10,11 @@ menu_events: true
 
 	<div class="kommende-termine">
 		<h2 class="text-left">Kommende</h2>
-		<a class="button-primary" href="https://cfp.linuxwochen.at/de/LWW18/public/events/792" title="Vortrag - Open Election Data API with Django">4. Mai: Vortrag: Open Election Data API with Django @ PyDays / Linuxwochen Wien</a>
 	</div>
 
 	<div class="vergangene-termine">
 		<h2 class="text-left">Vergangene</h2>
+		<a class="button-primary" href="https://cfp.linuxwochen.at/de/LWW18/public/events/792" title="Vortrag - Open Election Data API with Django">4. Mai: Vortrag: Open Election Data API with Django @ PyDays / Linuxwochen Wien</a>
 		<a class="button-secondary" href="/termine/wahlreform-jetzt" title="Wahlreform jetzt!">3. Oktober: Wahlreform jetzt! @ Presseclub Concordia, Wien</a>
 		<a class="button-secondary" href="/termine/wikidata-wahldaten-workshop" title="Wikidata Wahldaten Workshop">30. September: Wikidata Wahldaten Workshop @ Wikimedia AT, Wien</a>
 		<a class="button-secondary" href="/termine/fh-big-open-data-lg-2017" title="Hackathon Metalab">11. 3. 2017: Big Data & Open Data LV @ FH Joanneum Graz</a>

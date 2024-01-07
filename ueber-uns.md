@@ -36,9 +36,7 @@ menu_ueberuns: true
 
   <div class="col-xs-12 col-sm-10 col-sm-offset-1">
     <h2>Wie ist es dazu gekommen?</h2>
-    <p>Offene Daten rund um Wahlen beschäftigen uns bei Open Knowledge Österreich schon länger. Die Aufhebung des zweiten Wahlganges der Bundespräsidentenwahl 2016 durch den Verfassungsgerichshof war dann Anlaß, sich dem Thema etwas intensiver zu widmen. Die aller ersten Forderungen haben wir am 5. Juli als <a href="http://okfn.at/2016/07/05/open-data-schnittstelle-fuer-transparente-wahlergebnisse-schaffen/" title="Offener Brief">Offenen Brief</a> an das Innenministerium übermittelt. Das BMI hat dann auf eine <a href="http://derstandard.at/2000040468184/Ruf-nach-freien-Wahlergebnissen-fuer-alle" title="Ruf nach freien Wahlergebnissen für alle - Standard">direkte Anfrage durch derStandard.at</a> geantwortet, die gestellten Forderungen seien aufgrund des aktuellen Wahlrechts nicht möglich, Open Data nach dem amtlichen Wahlergebnis "könne man aber diskutieren" (Karl-Heinz Grundböck, Pressesprecher Innenministerium).</p>
-    <p>Deswegen wollen wir den logischen nächsten Schritt setzen. Nach der Wahl des Bundespräsidenten am 4. Dezember wird es eine Wahlrechtsreform geben.</p>
-    <p>Wir wollen gemeinsam mit der Zivilgesellschaft Forderungen ausarbeiten und diese dem Innenministerium für die Wahlrechtsreform zu unterbreiten.</p>
+    <p>Offene Wahlen wurden 2016 von Open Knowledge Österreich gegründet, welche sich schon länger mit offene Daten rund um Wahlen beschäftigten. Die Aufhebung des zweiten Wahlganges der Bundespräsidentenwahl 2016 durch den Verfassungsgerichshof war dann Anlaß, sich dem Thema etwas intensiver zu widmen. Die aller ersten Forderungen wurden am 5. Juli als <a href="http://okfn.at/2016/07/05/open-data-schnittstelle-fuer-transparente-wahlergebnisse-schaffen/" title="Offener Brief">Offenen Brief</a> an das Innenministerium übermittelt. Das BMI hat dann auf eine <a href="http://derstandard.at/2000040468184/Ruf-nach-freien-Wahlergebnissen-fuer-alle" title="Ruf nach freien Wahlergebnissen für alle - Standard">direkte Anfrage durch derStandard.at</a> geantwortet, die gestellten Forderungen seien aufgrund des aktuellen Wahlrechts nicht möglich, Open Data nach dem amtlichen Wahlergebnis "könne man aber diskutieren" (Karl-Heinz Grundböck, Pressesprecher Innenministerium). Danach wurden einige Veranstaltungen organisiert, sich mit anderen Akteuren in AT vernetzt und Wissen geteilt. Im Zuge der Auflösung von Open Knowledge Österreich, wurde das Projekt Offene Wahlen an die befreundete Organisation Forum Informationsfreiheit übergeben.</p>
   </div>
 
   <div class="col-xs-12 col-sm-10 col-sm-offset-1">
@@ -49,7 +47,7 @@ menu_ueberuns: true
     <strong>… sammeln Wissen</strong><br>
     <p>Wir stellen <a href="{{ site.baseurl }}/ressourcen">Ressourcen</a> und <a href="{{ site.baseurl }}/tutorials" title="Tutorials">Tutorials</a> rund um Wahlrecht & Wahlforschung zusammen und teilen sie.</p>
     <strong>… bieten Expertise</strong><br>
-    <p>Als gemeinnütziger Verein bietet das Team von Open Knowledge Österreich langjährige Expertise zum Thema Open Data an. Wir sind gut vernetzt und verbinden AkteurInnen aus Zivilgesellschaft, Medien, Wissenschaft und Politik mit der Open-Data-Community.</p>
+    <p>Als gemeinnütziger Verein bietet das Team von Forum Informationsfreiheit langjährige Expertise zum Thema Open Data an. Wir sind gut vernetzt und verbinden AkteurInnen aus Zivilgesellschaft, Medien, Wissenschaft und Politik mit der Open-Data-Community.</p>
     <strong>… brauchen dich!</strong><br>
     <p>Je mehr Menschen sich an unserer Initiative beteiligen, desto mehr können wir erreichen. Wir freuen uns über jeden noch so kleinen Beitrag zu diesem Projekt! Wie du helfen kannst, erfährst du hier.</p>
     <a class="button-primary col-xs-12 col-sm-8 col-sm-offset-2" href="{{ site.baseurl }}/mitmachen">Mitmachen</a>
@@ -57,7 +55,7 @@ menu_ueberuns: true
 
   <div class="col-xs-12 col-sm-10 col-sm-offset-1">
     <h2>Wer sind wir?</h2>
-    <p>Offene Wahlen ist ein Community-Projekt getragen von <a href="http://okfn.at/" title="Open Knowledge Österreich">Open Knowledge Österreich</a>, einem gemeinnützigen Verein, und leben von möglichst breiter Beteiligung. Wir stehen daher gerne für Kooperationen zur Verfügung und freuen uns über jedes neue Mitglied im Team.</p>
+    <p>Offene Wahlen ist ein Community-Projekt getragen von <a href="https://www.informationsfreiheit.at/" title="Forum Informationsfreiheit">Forum Informationsfreiheit</a>, einem gemeinnützigen Verein, und leben von möglichst breiter Beteiligung. Wir stehen daher gerne für Kooperationen zur Verfügung und freuen uns über jedes neue Mitglied im Team.</p>
 
     <h3>Team</h3>
 

@@ -1,11 +1,5 @@
 _site
 .sass-cache
 .jekyll-metadata
-test.md
-notes.md
-todo/
-*.sublime-project
-*.sublime-workspace
-notes/
-design/
+project/
 

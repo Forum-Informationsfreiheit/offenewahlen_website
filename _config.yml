@@ -8,12 +8,12 @@
 # Site settings
 title: Offene Wahlen Österreich
 author :
-  name : Open Knowledge Österreich
-  email: info@offenewahlen.at
-  github : okfnat
-  twitter : okfnat
-  facebook : okfnat
-description: "Offene Wahlen Österreich ist ein Community-Projekt von Open Knowledge Österreich, das sich für offene Daten und Transparenz bei Wahlen einsetzt."
+  name : Forum Informationsfreiheit
+  email: office@informationsfreiheit.at
+  github : Forum-Informationsfreiheit
+  twitter : amtsgeheimnisAT
+  facebook : informationsfreiheit.at
+description: "Offene Wahlen Österreich ist ein Community-Projekt von Forum Informationsfreiheit, das sich für offene Daten und Transparenz bei Wahlen einsetzt."
 baseurl: "" # the subpath of your site, e.g. /blog
 #url: "http://offenewahlen.at/" # the base hostname & protocol for your site
 url: "http://127.0.0.1:4000/" # the base hostname & protocol for your site

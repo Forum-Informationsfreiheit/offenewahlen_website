@@ -21,7 +21,6 @@ Dies ist die Website (GitHub Page) für das Projekt Offene Wahlen Österreich.
   * Daten rund um Wahlen
 * **Design** verbessern
 * Melde deine Datennutzung: wenn du Daten von uns nutzt, meld dich, damit wir dies sichtbar machen können. Damit hilfst du der Open Data Bewegung sehr.
-* **[Newsletter](http://offenewahlen.at/newsletter)**: abonniere den Newsletter und bleib am Laufenden.
-* **[Spenden](https://offenewahlen.at/spenden)**: Du kannst uns auch finanziell unterstützen, indem du eine kleine Spende da lässt. Das Geld wird Projekt-bezogen verwendet und dient zum Verbessern der verschiedenen Aktivitäten von Offene Wahlen Österreich - von der API über den Datenstandard bis hin zum Abhalten von Coding-Workshops.
+* **[Spenden](https://fragdenstaat.at/spenden/)**: Du kannst uns auch finanziell unterstützen, indem du eine kleine Spende da lässt. Das Geld wird Projekt-bezogen verwendet und dient zum Verbessern der verschiedenen Aktivitäten von Offene Wahlen Österreich - von der API über den Datenstandard bis hin zum Abhalten von Coding-Workshops.
 
 **Einfach mit uns in [Kontakt](http://offenewahlen.at/kontakt) treten und wir besprechen das nähere.**
