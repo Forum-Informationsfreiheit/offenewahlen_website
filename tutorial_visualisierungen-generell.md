@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Tutorial: Visualisierungen generell"
-permalink: /tutorial/visualisierungen-generell
+permalink: /tutorial/visualisierungen-generell/index.html
 comments: true
 ---
 
