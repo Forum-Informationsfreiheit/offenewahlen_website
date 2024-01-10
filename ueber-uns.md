@@ -60,7 +60,7 @@ menu_ueberuns: true
     <h3>Team</h3>
 
     <div class="team-mitglied col-sm-12">
-    <div class="col-md-4"><img src="http://stefankasberger.at/wp-content/uploads/profil-pic/wm-office_small.jpg" alt="Stefan Kasberger" width="220" class="img-circle"/></div>
+    <div class="col-md-4"><img src="{{ site.staticurl }}pages/about/stefankasberger.jpg" alt="Stefan Kasberger" width="220" class="img-circle"/></div>
     <div class="col-md-8">
     <h4>Stefan Kasberger<span class="social-contacts"><a href="https://stefankasberger.at" title="Website"><i class="fa fa-bookmark"></i></a><a href="mailto:stefan.kasberger@okfn.at" title="EMail"><i class="fa fa-envelope"></i></a><a href="https://github.com/skasberger" title="GitHub"><i class="fa fa-github"></i></a><a href="https://twitter.com/Stefankasberger" title="@stefankasberger"><i class="fa fa-twitter"></i></a></span></h4>
     <h5>Projekt-Lead</h5>
@@ -134,7 +134,7 @@ menu_ueberuns: true
     </div>
 
     <div class="partner col-sm-12">
-    <div class="col-md-4"><a title="openscienceASAP" href="https://openscienceasap.org/"><img src="http://at.network.okfn.org/files/2014/12/openscienceasap.png" alt="Logo openscienceASAP" width="220" /></a></div>
+    <div class="col-md-4"><a title="openscienceASAP" href="https://openscienceasap.org/"><img src="{{ site.staticurl }}logos/logo-openscienceASAP.png" alt="Logo openscienceASAP" width="220" /></a></div>
     <div class="col-md-8">
     <h4>openscienceASAP - Open Science as a Practice</h4>
     <a title="openscienceASAP" href="http://openscienceasap.org/"> openscienceASAP</a> vermittelt und praktiziert Open Science an Universitäten und in der Forschung.

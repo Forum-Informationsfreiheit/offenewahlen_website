@@ -120,6 +120,10 @@
     @extend %clearfix;
 }
 
+.foi-logo {
+    background-color: white;
+}
+
 .footer-col {
     float: left;
     margin-bottom: $spacing-unit / 2;
